@@ -1,5 +1,6 @@
 package com.m3rc.crf;
 
+import java.io.File;
 import java.io.IOException;
 
 /**
@@ -9,11 +10,13 @@ public class Runner {
 
     public static void main(String[] args) throws IOException {
 
-        new ProcessBuilder("/Applications/Praat.app/Contents/MacOS/Praat",
+        Process tokenization = new ProcessBuilder("/Applications/Praat.app/Contents/MacOS/Praat",
                 "Dataset/tokenizer.praat").inheritIO().start();
-        new ProcessBuilder("python", "Dataset/postagger/pSCRDRtagger/EnRDRPOSTagger.py",
+
+        Process tagging = new ProcessBuilder("python", "EnRDRPOSTagger.py",
                 "tag", "../Models/English.RDR",
-                "../Dicts/English.DICT", "../../tokens.txt").inheritIO().start();
+                "../Dicts/English.DICT", "../../tokens.txt")
+                .directory(new File("Dataset/postagger/pSCRDRtagger")).inheritIO().start();
 
     }
 
