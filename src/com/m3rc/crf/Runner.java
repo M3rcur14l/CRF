@@ -9,7 +9,9 @@ public class Runner {
 
     public static void main(String[] args) throws IOException {
 
-        Process p = new ProcessBuilder("Dataset/build.command").start();
+        new ProcessBuilder("/Applications/Praat.app/Contents/MacOS/Praat",
+                "Dataset/tokenizer.praat").start();
+
 
     }
 
