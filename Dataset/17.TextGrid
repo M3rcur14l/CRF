@@ -1,0 +1,254 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 18.798 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "TokensAlign" 
+        xmin = 0 
+        xmax = 18.798 
+        intervals: size = 45 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.4394 
+            text = "#" 
+        intervals [2]:
+            xmin = 2.4394 
+            xmax = 2.7494 
+            text = "well" 
+        intervals [3]:
+            xmin = 2.7494 
+            xmax = 3.047998775591296 
+            text = "mr" 
+        intervals [4]:
+            xmin = 3.047998775591296 
+            xmax = 3.785856723997405 
+            text = "turner" 
+        intervals [5]:
+            xmin = 3.785856723997405 
+            xmax = 3.868466775818597 
+            text = "i" 
+        intervals [6]:
+            xmin = 3.868466775818597 
+            xmax = 3.932887717445844 
+            text = "ve" 
+        intervals [7]:
+            xmin = 3.932887717445844 
+            xmax = 4.170228028704122 
+            text = "changed" 
+        intervals [8]:
+            xmin = 4.170228028704122 
+            xmax = 4.319413367209324 
+            text = "my" 
+        intervals [9]:
+            xmin = 4.319413367209324 
+            xmax = 5.512206953838035 
+            text = "mind" 
+        intervals [10]:
+            xmin = 5.512206953838035 
+            xmax = 5.6594 
+            text = "if " 
+        intervals [11]:
+            xmin = 5.6594 
+            xmax = 5.7494 
+            text = "you" 
+        intervals [12]:
+            xmin = 5.7494 
+            xmax = 6.0794 
+            text = "spring" 
+        intervals [13]:
+            xmin = 6.0794 
+            xmax = 6.1994 
+            text = "me" 
+        intervals [14]:
+            xmin = 6.1994 
+            xmax = 6.399325847656953 
+            text = "from" 
+        intervals [15]:
+            xmin = 6.399325847656953 
+            xmax = 6.5094 
+            text = "this" 
+        intervals [16]:
+            xmin = 6.5094 
+            xmax = 6.8394 
+            text = "cell" 
+        intervals [17]:
+            xmin = 6.8394 
+            xmax = 6.9394 
+            text = "i" 
+        intervals [18]:
+            xmin = 6.9394 
+            xmax = 7.2194 
+            text = "swear" 
+        intervals [19]:
+            xmin = 7.2194 
+            xmax = 7.4094 
+            text = "on" 
+        intervals [20]:
+            xmin = 7.4094 
+            xmax = 7.6294 
+            text = "pain" 
+        intervals [21]:
+            xmin = 7.6294 
+            xmax = 7.7894 
+            text = "of" 
+        intervals [22]:
+            xmin = 7.7894 
+            xmax = 8.5994 
+            text = "death" 
+        intervals [23]:
+            xmin = 8.5994 
+            xmax = 8.7194 
+            text = "i" 
+        intervals [24]:
+            xmin = 8.7194 
+            xmax = 8.8894 
+            text = "shall" 
+        intervals [25]:
+            xmin = 8.8894 
+            xmax = 9.2394 
+            text = "take" 
+        intervals [26]:
+            xmin = 9.2394 
+            xmax = 9.4594 
+            text = "you" 
+        intervals [27]:
+            xmin = 9.4594 
+            xmax = 9.6394 
+            text = "to" 
+        intervals [28]:
+            xmin = 9.6394 
+            xmax = 9.6994 
+            text = "the" 
+        intervals [29]:
+            xmin = 9.6994 
+            xmax = 9.9694 
+            text = "black" 
+        intervals [30]:
+            xmin = 9.9694 
+            xmax = 10.478481593490224 
+            text = "pearl" 
+        intervals [31]:
+            xmin = 10.478481593490224 
+            xmax = 10.9594 
+            text = "and" 
+        intervals [32]:
+            xmin = 10.9594 
+            xmax = 11.1494 
+            text = "your" 
+        intervals [33]:
+            xmin = 11.1494 
+            xmax = 11.5494 
+            text = "bonny" 
+        intervals [34]:
+            xmin = 11.5494 
+            xmax = 12.665010945733593 
+            text = "lass" 
+        intervals [35]:
+            xmin = 12.665010945733593 
+            xmax = 12.724911119527349 
+            text = "do" 
+        intervals [36]:
+            xmin = 12.724911119527349 
+            xmax = 12.797243404863204 
+            text = "we" 
+        intervals [37]:
+            xmin = 12.797243404863204 
+            xmax = 12.981014120805607 
+            text = "have" 
+        intervals [38]:
+            xmin = 12.981014120805607 
+            xmax = 13.099684276434745 
+            text = "an" 
+        intervals [39]:
+            xmin = 13.099684276434745 
+            xmax = 13.989533831090212 
+            text = "accord" 
+        intervals [40]:
+            xmin = 13.989533831090212 
+            xmax = 16.308464515114267 
+            text = "#" 
+        intervals [41]:
+            xmin = 16.308464515114267 
+            xmax = 16.888705153685898 
+            text = "agreed" 
+        intervals [42]:
+            xmin = 16.888705153685898 
+            xmax = 17.958087207943375 
+            text = "agreed" 
+        intervals [43]:
+            xmin = 17.958087207943375 
+            xmax = 18.10607220511955 
+            text = "get" 
+        intervals [44]:
+            xmin = 18.10607220511955 
+            xmax = 18.26090850279727 
+            text = "me" 
+        intervals [45]:
+            xmin = 18.26090850279727 
+            xmax = 18.798 
+            text = "out" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "DialogueAct" 
+        xmin = 0 
+        xmax = 18.798 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.4394 
+            text = "" 
+        intervals [2]:
+            xmin = 2.4394 
+            xmax = 12.665010945733593 
+            text = "Task" 
+        intervals [3]:
+            xmin = 12.665010945733593 
+            xmax = 13.989533831090212 
+            text = "Info-request" 
+        intervals [4]:
+            xmin = 13.989533831090212 
+            xmax = 16.308464515114267 
+            text = "" 
+        intervals [5]:
+            xmin = 16.308464515114267 
+            xmax = 16.888705153685898 
+            text = "Accept" 
+        intervals [6]:
+            xmin = 16.888705153685898 
+            xmax = 17.958087207943375 
+            text = "Understanding" 
+        intervals [7]:
+            xmin = 17.958087207943375 
+            xmax = 18.798 
+            text = "Action-directive" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 18.798 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.4394 
+            text = "" 
+        intervals [2]:
+            xmin = 2.4394 
+            xmax = 13.989533831090212 
+            text = "Jack" 
+        intervals [3]:
+            xmin = 13.989533831090212 
+            xmax = 16.308464515114267 
+            text = "" 
+        intervals [4]:
+            xmin = 16.308464515114267 
+            xmax = 16.888705153685898 
+            text = "Will" 
+        intervals [5]:
+            xmin = 16.888705153685898 
+            xmax = 18.798 
+            text = "Jack" 

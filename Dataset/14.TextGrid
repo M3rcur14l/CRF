@@ -1,0 +1,2050 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = -0 
+xmax = 145.5036 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "TokensAlign" 
+        xmin = -0 
+        xmax = 145.5036 
+        intervals: size = 319 
+        intervals [1]:
+            xmin = -0 
+            xmax = 0.83 
+            text = "here" 
+        intervals [2]:
+            xmin = 0.83 
+            xmax = 1.08 
+            text = "we" 
+        intervals [3]:
+            xmin = 1.08 
+            xmax = 1.7641 
+            text = "are" 
+        intervals [4]:
+            xmin = 1.7641 
+            xmax = 2.3628 
+            text = "#" 
+        intervals [5]:
+            xmin = 2.3628 
+            xmax = 2.7728 
+            text = "tea" 
+        intervals [6]:
+            xmin = 2.7728 
+            xmax = 3.5328 
+            text = "for" 
+        intervals [7]:
+            xmin = 3.5328 
+            xmax = 4.2428 
+            text = "two" 
+        intervals [8]:
+            xmin = 4.2428 
+            xmax = 4.6728 
+            text = "thank" 
+        intervals [9]:
+            xmin = 4.6728 
+            xmax = 5.2009 
+            text = "you" 
+        intervals [10]:
+            xmin = 5.2009 
+            xmax = 8.1593 
+            text = "#" 
+        intervals [11]:
+            xmin = 8.1593 
+            xmax = 8.5193 
+            text = "milk" 
+        intervals [12]:
+            xmin = 8.5193 
+            xmax = 8.6493 
+            text = "and" 
+        intervals [13]:
+            xmin = 8.6493 
+            xmax = 9.1189 
+            text = "sugar" 
+        intervals [14]:
+            xmin = 9.1189 
+            xmax = 9.4981 
+            text = "#" 
+        intervals [15]:
+            xmin = 9.4981 
+            xmax = 9.7881 
+            text = "yes" 
+        intervals [16]:
+            xmin = 9.7881 
+            xmax = 10.5569 
+            text = "please" 
+        intervals [17]:
+            xmin = 10.5569 
+            xmax = 13.4454 
+            text = "#" 
+        intervals [18]:
+            xmin = 13.4454 
+            xmax = 13.8254 
+            text = "have" 
+        intervals [19]:
+            xmin = 13.8254 
+            xmax = 14.067842544802621 
+            text = "a" 
+        intervals [20]:
+            xmin = 14.067842544802621 
+            xmax = 15.013416780370699 
+            text = "biscuit " 
+        intervals [21]:
+            xmin = 15.013416780370699 
+            xmax = 15.133676887468548 
+            text = "they" 
+        intervals [22]:
+            xmin = 15.133676887468548 
+            xmax = 15.224926806747769 
+            text = "re" 
+        intervals [23]:
+            xmin = 15.224926806747769 
+            xmax = 16.21404722421701 
+            text = "homemade" 
+        intervals [24]:
+            xmin = 16.21404722421701 
+            xmax = 16.357127536177966 
+            text = "#" 
+        intervals [25]:
+            xmin = 16.357127536177966 
+            xmax = 16.717938757644735 
+            text = "no" 
+        intervals [26]:
+            xmin = 16.717938757644735 
+            xmax = 17.0039 
+            text = "thank" 
+        intervals [27]:
+            xmin = 17.0039 
+            xmax = 17.2526 
+            text = "you" 
+        intervals [28]:
+            xmin = 17.2526 
+            xmax = 18.8988 
+            text = "#" 
+        intervals [29]:
+            xmin = 18.8988 
+            xmax = 19.2888 
+            text = "now" 
+        intervals [30]:
+            xmin = 19.2888 
+            xmax = 19.4288 
+            text = "you" 
+        intervals [31]:
+            xmin = 19.4288 
+            xmax = 19.8188 
+            text = "must" 
+        intervals [32]:
+            xmin = 19.8188 
+            xmax = 20.1388 
+            text = "tell" 
+        intervals [33]:
+            xmin = 20.1388 
+            xmax = 20.5188 
+            text = "me" 
+        intervals [34]:
+            xmin = 20.5188 
+            xmax = 21.0388 
+            text = "about" 
+        intervals [35]:
+            xmin = 21.0388 
+            xmax = 21.6879 
+            text = "yourself" 
+        intervals [36]:
+            xmin = 21.6879 
+            xmax = 22.4812 
+            text = "#" 
+        intervals [37]:
+            xmin = 22.4812 
+            xmax = 22.6012 
+            text = "your" 
+        intervals [38]:
+            xmin = 22.6012 
+            xmax = 23.387969571624165 
+            text = "family" 
+        intervals [39]:
+            xmin = 23.387969571624165 
+            xmax = 24.1091 
+            text = "#" 
+        intervals [40]:
+            xmin = 24.1091 
+            xmax = 24.7691 
+            text = "mum" 
+        intervals [41]:
+            xmin = 24.7691 
+            xmax = 25.4426 
+            text = "#" 
+        intervals [42]:
+            xmin = 25.4426 
+            xmax = 26.0526 
+            text = "dad" 
+        intervals [43]:
+            xmin = 26.0526 
+            xmax = 26.6118 
+            text = "#" 
+        intervals [44]:
+            xmin = 26.6118 
+            xmax = 26.8218 
+            text = "i" 
+        intervals [45]:
+            xmin = 26.8218 
+            xmax = 27.0518 
+            text = "have" 
+        intervals [46]:
+            xmin = 27.0518 
+            xmax = 27.3718 
+            text = "four" 
+        intervals [47]:
+            xmin = 27.3718 
+            xmax = 28.1617 
+            text = "brothers" 
+        intervals [48]:
+            xmin = 28.1617 
+            xmax = 28.7354 
+            text = "#" 
+        intervals [49]:
+            xmin = 28.7354 
+            xmax = 29.1454 
+            text = "and" 
+        intervals [50]:
+            xmin = 29.1454 
+            xmax = 29.6754 
+            text = "three" 
+        intervals [51]:
+            xmin = 29.6754 
+            xmax = 30.685399999999998 
+            text = "sisters" 
+        intervals [52]:
+            xmin = 30.685399999999998 
+            xmax = 31.089599999999997 
+            text = "#" 
+        intervals [53]:
+            xmin = 31.089599999999997 
+            xmax = 31.54679135633097 
+            text = "<now>" 
+        intervals [54]:
+            xmin = 31.54679135633097 
+            xmax = 32.48071241435517 
+            text = "well" 
+        intervals [55]:
+            xmin = 32.48071241435517 
+            xmax = 32.59866260918035 
+            text = "i" 
+        intervals [56]:
+            xmin = 32.59866260918035 
+            xmax = 32.7196 
+            text = "m" 
+        intervals [57]:
+            xmin = 32.7196 
+            xmax = 32.7696 
+            text = "a" 
+        intervals [58]:
+            xmin = 32.7696 
+            xmax = 33.879599999999996 
+            text = "student" 
+        intervals [59]:
+            xmin = 33.879599999999996 
+            xmax = 33.9696 
+            text = "and" 
+        intervals [60]:
+            xmin = 33.9696 
+            xmax = 34.2996 
+            text = "i" 
+        intervals [61]:
+            xmin = 34.2996 
+            xmax = 34.5396 
+            text = "go" 
+        intervals [62]:
+            xmin = 34.5396 
+            xmax = 34.6796 
+            text = "to" 
+        intervals [63]:
+            xmin = 34.6796 
+            xmax = 34.7996 
+            text = "a" 
+        intervals [64]:
+            xmin = 34.7996 
+            xmax = 35.2796 
+            text = "language" 
+        intervals [65]:
+            xmin = 35.2796 
+            xmax = 35.894 
+            text = "school" 
+        intervals [66]:
+            xmin = 35.894 
+            xmax = 36.1286 
+            text = "#" 
+        intervals [67]:
+            xmin = 36.1286 
+            xmax = 36.2586 
+            text = "to" 
+        intervals [68]:
+            xmin = 36.2586 
+            xmax = 37.1186 
+            text = "study" 
+        intervals [69]:
+            xmin = 37.1186 
+            xmax = 37.9283 
+            text = "english" 
+        intervals [70]:
+            xmin = 37.9283 
+            xmax = 38.2376 
+            text = "#" 
+        intervals [71]:
+            xmin = 38.2376 
+            xmax = 39.1076 
+            text = "yes" 
+        intervals [72]:
+            xmin = 39.1076 
+            xmax = 39.5576 
+            text = "my" 
+        intervals [73]:
+            xmin = 39.5576 
+            xmax = 40.0976 
+            text = "english" 
+        intervals [74]:
+            xmin = 40.0976 
+            xmax = 40.227599999999995 
+            text = "is" 
+        intervals [75]:
+            xmin = 40.227599999999995 
+            xmax = 40.3876 
+            text = "not" 
+        intervals [76]:
+            xmin = 40.3876 
+            xmax = 40.6476 
+            text = "very" 
+        intervals [77]:
+            xmin = 40.6476 
+            xmax = 41.0076 
+            text = "good" 
+        intervals [78]:
+            xmin = 41.0076 
+            xmax = 41.867599999999996 
+            text = "no" 
+        intervals [79]:
+            xmin = 41.867599999999996 
+            xmax = 42.2176 
+            text = "no" 
+        intervals [80]:
+            xmin = 42.2176 
+            xmax = 42.437599999999996 
+            text = "no" 
+        intervals [81]:
+            xmin = 42.437599999999996 
+            xmax = 42.9176 
+            text = "no" 
+        intervals [82]:
+            xmin = 42.9176 
+            xmax = 43.038605061691406 
+            text = "it" 
+        intervals [83]:
+            xmin = 43.038605061691406 
+            xmax = 43.1476 
+            text = "s" 
+        intervals [84]:
+            xmin = 43.1476 
+            xmax = 43.947599999999994 
+            text = "quite" 
+        intervals [85]:
+            xmin = 43.947599999999994 
+            xmax = 44.4871 
+            text = "good" 
+        intervals [86]:
+            xmin = 44.4871 
+            xmax = 44.941 
+            text = "#" 
+        intervals [87]:
+            xmin = 44.941 
+            xmax = 45.631 
+            text = "where" 
+        intervals [88]:
+            xmin = 45.631 
+            xmax = 45.840999999999994 
+            text = "is" 
+        intervals [89]:
+            xmin = 45.840999999999994 
+            xmax = 46.400999999999996 
+            text = "the" 
+        intervals [90]:
+            xmin = 46.400999999999996 
+            xmax = 46.9111 
+            text = "school" 
+        intervals [91]:
+            xmin = 46.9111 
+            xmax = 47.1256 
+            text = "#" 
+        intervals [92]:
+            xmin = 47.1256 
+            xmax = 47.22190530482474 
+            text = "it" 
+        intervals [93]:
+            xmin = 47.22190530482474 
+            xmax = 47.325599999999994 
+            text = "s" 
+        intervals [94]:
+            xmin = 47.325599999999994 
+            xmax = 47.6356 
+            text = "near" 
+        intervals [95]:
+            xmin = 47.6356 
+            xmax = 48.1356 
+            text = "here" 
+        intervals [96]:
+            xmin = 48.1356 
+            xmax = 48.465599999999995 
+            text = "on" 
+        intervals [97]:
+            xmin = 48.465599999999995 
+            xmax = 49.1156 
+            text = "exter" 
+        intervals [98]:
+            xmin = 49.1156 
+            xmax = 50.0556 
+            text = "avenue" 
+        intervals [99]:
+            xmin = 50.0556 
+            xmax = 50.3999 
+            text = "#" 
+        intervals [100]:
+            xmin = 50.3999 
+            xmax = 50.52742154216948 
+            text = "that" 
+        intervals [101]:
+            xmin = 50.52742154216948 
+            xmax = 50.6699 
+            text = "s" 
+        intervals [102]:
+            xmin = 50.6699 
+            xmax = 51.189899999999994 
+            text = "very" 
+        intervals [103]:
+            xmin = 51.189899999999994 
+            xmax = 52.1799 
+            text = "close" 
+        intervals [104]:
+            xmin = 52.1799 
+            xmax = 53.0099 
+            text = "good" 
+        intervals [105]:
+            xmin = 53.0099 
+            xmax = 53.84506691773492 
+            text = "#" 
+        intervals [106]:
+            xmin = 53.84506691773492 
+            xmax = 54.2786 
+            text = "just" 
+        intervals [107]:
+            xmin = 54.2786 
+            xmax = 54.5186 
+            text = "ten" 
+        intervals [108]:
+            xmin = 54.5186 
+            xmax = 55.447599999999994 
+            text = "minutes" 
+        intervals [109]:
+            xmin = 55.447599999999994 
+            xmax = 55.7968 
+            text = "#" 
+        intervals [110]:
+            xmin = 55.7968 
+            xmax = 55.8668 
+            text = "oh" 
+        intervals [111]:
+            xmin = 55.8668 
+            xmax = 56.12544254227461 
+            text = "that" 
+        intervals [112]:
+            xmin = 56.12544254227461 
+            xmax = 56.2668 
+            text = "s" 
+        intervals [113]:
+            xmin = 56.2668 
+            xmax = 56.8767 
+            text = "easy" 
+        intervals [114]:
+            xmin = 56.8767 
+            xmax = 57.8694 
+            text = "#" 
+        intervals [115]:
+            xmin = 57.8694 
+            xmax = 58.8137 
+            text = "perhaps" 
+        intervals [116]:
+            xmin = 58.8137 
+            xmax = 59.6567 
+            text = "#" 
+        intervals [117]:
+            xmin = 59.6567 
+            xmax = 60.3267 
+            text = "victor" 
+        intervals [118]:
+            xmin = 60.3267 
+            xmax = 60.6767 
+            text = "could" 
+        intervals [119]:
+            xmin = 60.6767 
+            xmax = 61.216699999999996 
+            text = "take" 
+        intervals [120]:
+            xmin = 61.216699999999996 
+            xmax = 62.157544595591744 
+            text = "you" 
+        intervals [121]:
+            xmin = 62.157544595591744 
+            xmax = 62.422770024791106 
+            text = "by" 
+        intervals [122]:
+            xmin = 62.422770024791106 
+            xmax = 63.20358361650227 
+            text = "car" 
+        intervals [123]:
+            xmin = 63.20358361650227 
+            xmax = 63.7432 
+            text = "#" 
+        intervals [124]:
+            xmin = 63.7432 
+            xmax = 64.2132 
+            text = "victor" 
+        intervals [125]:
+            xmin = 64.2132 
+            xmax = 64.4698309687382 
+            text = "who" 
+        intervals [126]:
+            xmin = 64.4698309687382 
+            xmax = 64.5732 
+            text = "s" 
+        intervals [127]:
+            xmin = 64.5732 
+            xmax = 65.37771308859706 
+            text = "victor" 
+        intervals [128]:
+            xmin = 65.37771308859706 
+            xmax = 65.54778889497035 
+            text = "my" 
+        intervals [129]:
+            xmin = 65.54778889497035 
+            xmax = 66.1614 
+            text = "brother" 
+        intervals [130]:
+            xmin = 66.1614 
+            xmax = 66.775 
+            text = "#" 
+        intervals [131]:
+            xmin = 66.775 
+            xmax = 66.945 
+            text = "your" 
+        intervals [132]:
+            xmin = 66.945 
+            xmax = 67.5149 
+            text = "brother" 
+        intervals [133]:
+            xmin = 67.5149 
+            xmax = 68.77922921606312 
+            text = "#" 
+        intervals [134]:
+            xmin = 68.77922921606312 
+            xmax = 69.47743515801668 
+            text = "that" 
+        intervals [135]:
+            xmin = 69.47743515801668 
+            xmax = 69.7809 
+            text = "is" 
+        intervals [136]:
+            xmin = 69.7809 
+            xmax = 69.8609 
+            text = "a" 
+        intervals [137]:
+            xmin = 69.8609 
+            xmax = 70.26089999999999 
+            text = "photo" 
+        intervals [138]:
+            xmin = 70.26089999999999 
+            xmax = 70.4009 
+            text = "of" 
+        intervals [139]:
+            xmin = 70.4009 
+            xmax = 71.23190137113075 
+            text = "victor" 
+        intervals [140]:
+            xmin = 71.23190137113075 
+            xmax = 71.63471249148857 
+            text = "oh" 
+        intervals [141]:
+            xmin = 71.63471249148857 
+            xmax = 72.3271 
+            text = "#" 
+        intervals [142]:
+            xmin = 72.3271 
+            xmax = 72.42884773028408 
+            text = "he" 
+        intervals [143]:
+            xmin = 72.42884773028408 
+            xmax = 72.4971 
+            text = "s" 
+        intervals [144]:
+            xmin = 72.4971 
+            xmax = 72.5671 
+            text = "a" 
+        intervals [145]:
+            xmin = 72.5671 
+            xmax = 72.9171 
+            text = "big" 
+        intervals [146]:
+            xmin = 72.9171 
+            xmax = 73.5371 
+            text = "boy" 
+        intervals [147]:
+            xmin = 73.5371 
+            xmax = 74.1471 
+            text = "well" 
+        intervals [148]:
+            xmin = 74.1471 
+            xmax = 74.37109427173886 
+            text = "he" 
+        intervals [149]:
+            xmin = 74.37109427173886 
+            xmax = 74.47710000000001 
+            text = "s" 
+        intervals [150]:
+            xmin = 74.47710000000001 
+            xmax = 74.8271 
+            text = "twenty" 
+        intervals [151]:
+            xmin = 74.8271 
+            xmax = 75.53441363867214 
+            text = "five" 
+        intervals [152]:
+            xmin = 75.53441363867214 
+            xmax = 76.1347 
+            text = "oh" 
+        intervals [153]:
+            xmin = 76.1347 
+            xmax = 76.9218741635269 
+            text = "#" 
+        intervals [154]:
+            xmin = 76.9218741635269 
+            xmax = 77.1836 
+            text = "and" 
+        intervals [155]:
+            xmin = 77.1836 
+            xmax = 77.6031 
+            text = "that" 
+        intervals [156]:
+            xmin = 77.6031 
+            xmax = 78.107 
+            text = "#" 
+        intervals [157]:
+            xmin = 78.107 
+            xmax = 78.387 
+            text = "is" 
+        intervals [158]:
+            xmin = 78.387 
+            xmax = 78.557 
+            text = "my" 
+        intervals [159]:
+            xmin = 78.557 
+            xmax = 79.2117 
+            text = "boyfriend" 
+        intervals [160]:
+            xmin = 79.2117 
+            xmax = 79.5211 
+            text = "#" 
+        intervals [161]:
+            xmin = 79.5211 
+            xmax = 80.0911 
+            text = "harold" 
+        intervals [162]:
+            xmin = 80.0911 
+            xmax = 80.4303 
+            text = "#" 
+        intervals [163]:
+            xmin = 80.4303 
+            xmax = 80.5903 
+            text = "your" 
+        intervals [164]:
+            xmin = 80.5903 
+            xmax = 81.3752 
+            text = "boyfriend" 
+        intervals [165]:
+            xmin = 81.3752 
+            xmax = 81.6147 
+            text = "#" 
+        intervals [166]:
+            xmin = 81.6147 
+            xmax = 81.8947 
+            text = "he" 
+        intervals [167]:
+            xmin = 81.8947 
+            xmax = 82.4646 
+            text = "works" 
+        intervals [168]:
+            xmin = 82.4646 
+            xmax = 82.7938 
+            text = "#" 
+        intervals [169]:
+            xmin = 82.7938 
+            xmax = 82.9238 
+            text = "in" 
+        intervals [170]:
+            xmin = 82.9238 
+            xmax = 83.0338 
+            text = "a" 
+        intervals [171]:
+            xmin = 83.0338 
+            xmax = 83.6184 
+            text = "bank" 
+        intervals [172]:
+            xmin = 83.6184 
+            xmax = 84.2221 
+            text = "#" 
+        intervals [173]:
+            xmin = 84.2221 
+            xmax = 84.3821 
+            text = "in" 
+        intervals [174]:
+            xmin = 84.3821 
+            xmax = 84.4221 
+            text = "a" 
+        intervals [175]:
+            xmin = 84.4221 
+            xmax = 85.0918 
+            text = "bank" 
+        intervals [176]:
+            xmin = 85.0918 
+            xmax = 86.6134 
+            text = "#" 
+        intervals [177]:
+            xmin = 86.6134 
+            xmax = 86.97860533185407 
+            text = "that" 
+        intervals [178]:
+            xmin = 86.97860533185407 
+            xmax = 87.1034 
+            text = "s" 
+        intervals [179]:
+            xmin = 87.1034 
+            xmax = 87.2834 
+            text = "my" 
+        intervals [180]:
+            xmin = 87.2834 
+            xmax = 87.9934 
+            text = "brother" 
+        intervals [181]:
+            xmin = 87.9934 
+            xmax = 88.7734 
+            text = "allen" 
+        intervals [182]:
+            xmin = 88.7734 
+            xmax = 88.9834 
+            text = "oh" 
+        intervals [183]:
+            xmin = 88.9834 
+            xmax = 89.1234 
+            text = "your" 
+        intervals [184]:
+            xmin = 89.1234 
+            xmax = 89.72749999999999 
+            text = "brother" 
+        intervals [185]:
+            xmin = 89.72749999999999 
+            xmax = 90.1665 
+            text = "#" 
+        intervals [186]:
+            xmin = 90.1665 
+            xmax = 90.3765 
+            text = "he" 
+        intervals [187]:
+            xmin = 90.3765 
+            xmax = 90.9565 
+            text = "lives" 
+        intervals [188]:
+            xmin = 90.9565 
+            xmax = 91.1765 
+            text = "in" 
+        intervals [189]:
+            xmin = 91.1765 
+            xmax = 92.0363 
+            text = "sidney" 
+        intervals [190]:
+            xmin = 92.0363 
+            xmax = 92.46039999999999 
+            text = "#" 
+        intervals [191]:
+            xmin = 92.46039999999999 
+            xmax = 92.5304 
+            text = "in" 
+        intervals [192]:
+            xmin = 92.5304 
+            xmax = 93.38406673091568 
+            text = "australia" 
+        intervals [193]:
+            xmin = 93.38406673091568 
+            xmax = 94.0504 
+            text = "yes" 
+        intervals [194]:
+            xmin = 94.0504 
+            xmax = 94.4104 
+            text = "he" 
+        intervals [195]:
+            xmin = 94.4104 
+            xmax = 94.9204 
+            text = "loves" 
+        intervals [196]:
+            xmin = 94.9204 
+            xmax = 95.29990000000001 
+            text = "it" 
+        intervals [197]:
+            xmin = 95.29990000000001 
+            xmax = 95.69409999999999 
+            text = "#" 
+        intervals [198]:
+            xmin = 95.69409999999999 
+            xmax = 96.0641 
+            text = "oh" 
+        intervals [199]:
+            xmin = 96.0641 
+            xmax = 96.16409999999999 
+            text = "i" 
+        intervals [200]:
+            xmin = 96.16409999999999 
+            xmax = 96.6041 
+            text = "want" 
+        intervals [201]:
+            xmin = 96.6041 
+            xmax = 96.6841 
+            text = "to" 
+        intervals [202]:
+            xmin = 96.6841 
+            xmax = 96.9241 
+            text = "see" 
+        intervals [203]:
+            xmin = 96.9241 
+            xmax = 97.5241 
+            text = "australia" 
+        intervals [204]:
+            xmin = 97.5241 
+            xmax = 97.9941 
+            text = "me" 
+        intervals [205]:
+            xmin = 97.9941 
+            xmax = 98.9736 
+            text = "too" 
+        intervals [206]:
+            xmin = 98.9736 
+            xmax = 99.2779 
+            text = "#" 
+        intervals [207]:
+            xmin = 99.2779 
+            xmax = 99.7479 
+            text = "perhaps" 
+        intervals [208]:
+            xmin = 99.7479 
+            xmax = 100.0079 
+            text = "one" 
+        intervals [209]:
+            xmin = 100.0079 
+            xmax = 100.46289999999999 
+            text = "day" 
+        intervals [210]:
+            xmin = 100.46289999999999 
+            xmax = 100.8533 
+            text = "#" 
+        intervals [211]:
+            xmin = 100.8533 
+            xmax = 101.2831 
+            text = "and" 
+        intervals [212]:
+            xmin = 101.2831 
+            xmax = 101.53750000000001 
+            text = "#" 
+        intervals [213]:
+            xmin = 101.53750000000001 
+            xmax = 101.64750000000001 
+            text = "and" 
+        intervals [214]:
+            xmin = 101.64750000000001 
+            xmax = 101.76681285062743 
+            text = "who" 
+        intervals [215]:
+            xmin = 101.76681285062743 
+            xmax = 101.8675 
+            text = "s" 
+        intervals [216]:
+            xmin = 101.8675 
+            xmax = 102.2172 
+            text = "that" 
+        intervals [217]:
+            xmin = 102.2172 
+            xmax = 102.80590000000001 
+            text = "#" 
+        intervals [218]:
+            xmin = 102.80590000000001 
+            xmax = 103.2859 
+            text = "photo" 
+        intervals [219]:
+            xmin = 103.2859 
+            xmax = 103.66590000000001 
+            text = "oh" 
+        intervals [220]:
+            xmin = 103.66590000000001 
+            xmax = 103.90564305012417 
+            text = "that" 
+        intervals [221]:
+            xmin = 103.90564305012417 
+            xmax = 104.0159 
+            text = "s" 
+        intervals [222]:
+            xmin = 104.0159 
+            xmax = 104.2059 
+            text = "just" 
+        intervals [223]:
+            xmin = 104.2059 
+            xmax = 104.36590000000001 
+            text = "my" 
+        intervals [224]:
+            xmin = 104.36590000000001 
+            xmax = 104.94590000000001 
+            text = "sister" 
+        intervals [225]:
+            xmin = 104.94590000000001 
+            xmax = 105.33167828399297 
+            text = "betty" 
+        intervals [226]:
+            xmin = 105.33167828399297 
+            xmax = 105.7582 
+            text = "#" 
+        intervals [227]:
+            xmin = 105.7582 
+            xmax = 105.7882 
+            text = "oh" 
+        intervals [228]:
+            xmin = 105.7882 
+            xmax = 105.93820000000001 
+            text = "your" 
+        intervals [229]:
+            xmin = 105.93820000000001 
+            xmax = 106.47760000000001 
+            text = "sister" 
+        intervals [230]:
+            xmin = 106.47760000000001 
+            xmax = 106.8219 
+            text = "#" 
+        intervals [231]:
+            xmin = 106.8219 
+            xmax = 106.95190000000001 
+            text = "she" 
+        intervals [232]:
+            xmin = 106.95190000000001 
+            xmax = 107.2119 
+            text = "lives" 
+        intervals [233]:
+            xmin = 107.2119 
+            xmax = 107.41817445176005 
+            text = "near" 
+        intervals [234]:
+            xmin = 107.41817445176005 
+            xmax = 108.06362176452213 
+            text = "here" 
+        intervals [235]:
+            xmin = 108.06362176452213 
+            xmax = 108.3219 
+            text = "i" 
+        intervals [236]:
+            xmin = 108.3219 
+            xmax = 108.7619 
+            text = "see" 
+        intervals [237]:
+            xmin = 108.7619 
+            xmax = 109.1855 
+            text = "her" 
+        intervals [238]:
+            xmin = 109.1855 
+            xmax = 109.64450000000001 
+            text = "#" 
+        intervals [239]:
+            xmin = 109.64450000000001 
+            xmax = 110.0745 
+            text = "every" 
+        intervals [240]:
+            xmin = 110.0745 
+            xmax = 110.34400000000001 
+            text = "day" 
+        intervals [241]:
+            xmin = 110.34400000000001 
+            xmax = 110.98750000000001 
+            text = "#" 
+        intervals [242]:
+            xmin = 110.98750000000001 
+            xmax = 111.2475 
+            text = "every" 
+        intervals [243]:
+            xmin = 111.2475 
+            xmax = 111.6422 
+            text = "day" 
+        intervals [244]:
+            xmin = 111.6422 
+            xmax = 112.1461 
+            text = "#" 
+        intervals [245]:
+            xmin = 112.1461 
+            xmax = 112.6807 
+            text = "yes" 
+        intervals [246]:
+            xmin = 112.6807 
+            xmax = 113.0849 
+            text = "#" 
+        intervals [247]:
+            xmin = 113.0849 
+            xmax = 113.1449 
+            text = "we" 
+        intervals [248]:
+            xmin = 113.1449 
+            xmax = 113.3649 
+            text = "go" 
+        intervals [249]:
+            xmin = 113.3649 
+            xmax = 113.95490000000001 
+            text = "shopping" 
+        intervals [250]:
+            xmin = 113.95490000000001 
+            xmax = 114.5291 
+            text = "together" 
+        intervals [251]:
+            xmin = 114.5291 
+            xmax = 114.8584 
+            text = "#" 
+        intervals [252]:
+            xmin = 114.8584 
+            xmax = 114.95840000000001 
+            text = "you" 
+        intervals [253]:
+            xmin = 114.95840000000001 
+            xmax = 115.11840000000001 
+            text = "go" 
+        intervals [254]:
+            xmin = 115.11840000000001 
+            xmax = 115.6324 
+            text = "shopping" 
+        intervals [255]:
+            xmin = 115.6324 
+            xmax = 116.4805 
+            text = "#" 
+        intervals [256]:
+            xmin = 116.4805 
+            xmax = 117.3559668682137 
+            text = "<now>" 
+        intervals [257]:
+            xmin = 117.3559668682137 
+            xmax = 118.2475 
+            text = "#" 
+        intervals [258]:
+            xmin = 118.2475 
+            xmax = 118.43909847057776 
+            text = "she" 
+        intervals [259]:
+            xmin = 118.43909847057776 
+            xmax = 118.5575 
+            text = "s" 
+        intervals [260]:
+            xmin = 118.5575 
+            xmax = 118.5875 
+            text = "a" 
+        intervals [261]:
+            xmin = 118.5875 
+            xmax = 119.2424 
+            text = "very" 
+        intervals [262]:
+            xmin = 119.2424 
+            xmax = 119.55170000000001 
+            text = "#" 
+        intervals [263]:
+            xmin = 119.55170000000001 
+            xmax = 120.1911 
+            text = "difficult" 
+        intervals [264]:
+            xmin = 120.1911 
+            xmax = 120.7149 
+            text = "#" 
+        intervals [265]:
+            xmin = 120.7149 
+            xmax = 121.1546 
+            text = "person" 
+        intervals [266]:
+            xmin = 121.1546 
+            xmax = 121.93402164550209 
+            text = "#" 
+        intervals [267]:
+            xmin = 121.93402164550209 
+            xmax = 122.38155995397865 
+            text = "but" 
+        intervals [268]:
+            xmin = 122.38155995397865 
+            xmax = 122.52803855785095 
+            text = "she" 
+        intervals [269]:
+            xmin = 122.52803855785095 
+            xmax = 122.70209414788754 
+            text = "s" 
+        intervals [270]:
+            xmin = 122.70209414788754 
+            xmax = 122.8290982624552 
+            text = "your" 
+        intervals [271]:
+            xmin = 122.8290982624552 
+            xmax = 123.39154505554063 
+            text = "sister" 
+        intervals [272]:
+            xmin = 123.39154505554063 
+            xmax = 124.41967360204085 
+            text = "yes" 
+        intervals [273]:
+            xmin = 124.41967360204085 
+            xmax = 124.9579291352086 
+            text = "<now>" 
+        intervals [274]:
+            xmin = 124.9579291352086 
+            xmax = 125.22470000000001 
+            text = "#" 
+        intervals [275]:
+            xmin = 125.22470000000001 
+            xmax = 125.37456992629882 
+            text = "she" 
+        intervals [276]:
+            xmin = 125.37456992629882 
+            xmax = 125.5547 
+            text = "s" 
+        intervals [277]:
+            xmin = 125.5547 
+            xmax = 125.60470000000001 
+            text = "a" 
+        intervals [278]:
+            xmin = 125.60470000000001 
+            xmax = 126.1446 
+            text = "very" 
+        intervals [279]:
+            xmin = 126.1446 
+            xmax = 126.43390000000001 
+            text = "#" 
+        intervals [280]:
+            xmin = 126.43390000000001 
+            xmax = 127.0839 
+            text = "difficult" 
+        intervals [281]:
+            xmin = 127.0839 
+            xmax = 127.87476510727544 
+            text = "sister" 
+        intervals [282]:
+            xmin = 127.87476510727544 
+            xmax = 129.22040394011074 
+            text = "<now>" 
+        intervals [283]:
+            xmin = 129.22040394011074 
+            xmax = 129.6951 
+            text = "#" 
+        intervals [284]:
+            xmin = 129.6951 
+            xmax = 130.1092 
+            text = "#" 
+        intervals [285]:
+            xmin = 130.1092 
+            xmax = 130.3292 
+            text = "and" 
+        intervals [286]:
+            xmin = 130.3292 
+            xmax = 130.984 
+            text = "this" 
+        intervals [287]:
+            xmin = 130.984 
+            xmax = 133.2639 
+            text = "#" 
+        intervals [288]:
+            xmin = 133.2639 
+            xmax = 133.4739 
+            text = "this" 
+        intervals [289]:
+            xmin = 133.4739 
+            xmax = 133.5939 
+            text = "is" 
+        intervals [290]:
+            xmin = 133.5939 
+            xmax = 133.6539 
+            text = "a" 
+        intervals [291]:
+            xmin = 133.6539 
+            xmax = 134.2637 
+            text = "photo" 
+        intervals [292]:
+            xmin = 134.2637 
+            xmax = 135.047 
+            text = "#" 
+        intervals [293]:
+            xmin = 135.047 
+            xmax = 135.197 
+            text = "of" 
+        intervals [294]:
+            xmin = 135.197 
+            xmax = 135.327 
+            text = "my" 
+        intervals [295]:
+            xmin = 135.327 
+            xmax = 135.8867 
+            text = "mother" 
+        intervals [296]:
+            xmin = 135.8867 
+            xmax = 136.6101 
+            text = "#" 
+        intervals [297]:
+            xmin = 136.6101 
+            xmax = 136.7501 
+            text = "and" 
+        intervals [298]:
+            xmin = 136.7501 
+            xmax = 136.9201 
+            text = "my" 
+        intervals [299]:
+            xmin = 136.9201 
+            xmax = 137.5147 
+            text = "father" 
+        intervals [300]:
+            xmin = 137.5147 
+            xmax = 138.0885 
+            text = "#" 
+        intervals [301]:
+            xmin = 138.0885 
+            xmax = 138.2185 
+            text = "your" 
+        intervals [302]:
+            xmin = 138.2185 
+            xmax = 138.5767008877764 
+            text = "mother" 
+        intervals [303]:
+            xmin = 138.5767008877764 
+            xmax = 138.73415732085633 
+            text = "and" 
+        intervals [304]:
+            xmin = 138.73415732085633 
+            xmax = 138.89161375393627 
+            text = "your" 
+        intervals [305]:
+            xmin = 138.89161375393627 
+            xmax = 139.56287538969812 
+            text = "father" 
+        intervals [306]:
+            xmin = 139.56287538969812 
+            xmax = 139.6540343772707 
+            text = "#" 
+        intervals [307]:
+            xmin = 139.6540343772707 
+            xmax = 139.84463953310433 
+            text = "are" 
+        intervals [308]:
+            xmin = 139.84463953310433 
+            xmax = 139.96066006274216 
+            text = "your" 
+        intervals [309]:
+            xmin = 139.96066006274216 
+            xmax = 140.49932680748933 
+            text = "parents" 
+        intervals [310]:
+            xmin = 140.49932680748933 
+            xmax = 141.37199999999999 
+            text = "yes" 
+        intervals [311]:
+            xmin = 141.37199999999999 
+            xmax = 141.6864 
+            text = "#" 
+        intervals [312]:
+            xmin = 141.6864 
+            xmax = 141.82527571763615 
+            text = "my" 
+        intervals [313]:
+            xmin = 141.82527571763615 
+            xmax = 142.79487585818103 
+            text = "parents" 
+        intervals [314]:
+            xmin = 142.79487585818103 
+            xmax = 143.23409643466715 
+            text = "on" 
+        intervals [315]:
+            xmin = 143.23409643466715 
+            xmax = 143.50757339738493 
+            text = "their" 
+        intervals [316]:
+            xmin = 143.50757339738493 
+            xmax = 144.50585491641866 
+            text = "anniversary" 
+        intervals [317]:
+            xmin = 144.50585491641866 
+            xmax = 144.68435305514026 
+            text = "#" 
+        intervals [318]:
+            xmin = 144.68435305514026 
+            xmax = 145.1439678287887 
+            text = "day" 
+        intervals [319]:
+            xmin = 145.1439678287887 
+            xmax = 145.5036 
+            text = "#" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "DialogueAct" 
+        xmin = -0 
+        xmax = 145.5036 
+        intervals: size = 104 
+        intervals [1]:
+            xmin = -0 
+            xmax = 1.7641 
+            text = "Opening" 
+        intervals [2]:
+            xmin = 1.7641 
+            xmax = 2.3628 
+            text = "" 
+        intervals [3]:
+            xmin = 2.3628 
+            xmax = 4.2428 
+            text = "Other forward function" 
+        intervals [4]:
+            xmin = 4.2428 
+            xmax = 5.180312768825431 
+            text = "Explicit-performative" 
+        intervals [5]:
+            xmin = 5.180312768825431 
+            xmax = 8.1593 
+            text = "" 
+        intervals [6]:
+            xmin = 8.1593 
+            xmax = 9.1189 
+            text = "Offer" 
+        intervals [7]:
+            xmin = 9.1189 
+            xmax = 9.4981 
+            text = "" 
+        intervals [8]:
+            xmin = 9.4981 
+            xmax = 10.5569 
+            text = "Accept" 
+        intervals [9]:
+            xmin = 10.5569 
+            xmax = 13.4454 
+            text = "" 
+        intervals [10]:
+            xmin = 13.4454 
+            xmax = 15.013416780370699 
+            text = "Action-directive" 
+        intervals [11]:
+            xmin = 15.013416780370699 
+            xmax = 16.21404722421701 
+            text = "Assert" 
+        intervals [12]:
+            xmin = 16.21404722421701 
+            xmax = 16.357127536177966 
+            text = "" 
+        intervals [13]:
+            xmin = 16.357127536177966 
+            xmax = 17.2526 
+            text = "Reject" 
+        intervals [14]:
+            xmin = 17.2526 
+            xmax = 18.8988 
+            text = "" 
+        intervals [15]:
+            xmin = 18.8988 
+            xmax = 26.0526 
+            text = "Info-Request" 
+        intervals [16]:
+            xmin = 26.0526 
+            xmax = 26.6118 
+            text = "" 
+        intervals [17]:
+            xmin = 26.6118 
+            xmax = 28.1617 
+            text = "Assert" 
+        intervals [18]:
+            xmin = 28.1617 
+            xmax = 28.7354 
+            text = "" 
+        intervals [19]:
+            xmin = 28.7354 
+            xmax = 30.685399999999998 
+            text = "Completion" 
+        intervals [20]:
+            xmin = 30.685399999999998 
+            xmax = 31.54679135633097 
+            text = "" 
+        intervals [21]:
+            xmin = 31.54679135633097 
+            xmax = 35.894 
+            text = "Assert" 
+        intervals [22]:
+            xmin = 35.894 
+            xmax = 36.1286 
+            text = "" 
+        intervals [23]:
+            xmin = 36.1286 
+            xmax = 37.9283 
+            text = "Completion" 
+        intervals [24]:
+            xmin = 37.9283 
+            xmax = 38.2376 
+            text = "" 
+        intervals [25]:
+            xmin = 38.2376 
+            xmax = 39.1076 
+            text = "Information-Relation" 
+        intervals [26]:
+            xmin = 39.1076 
+            xmax = 41.0076 
+            text = "Assert" 
+        intervals [27]:
+            xmin = 41.0076 
+            xmax = 44.941 
+            text = "Information-Relation" 
+        intervals [28]:
+            xmin = 44.941 
+            xmax = 46.9111 
+            text = "Info-Request" 
+        intervals [29]:
+            xmin = 46.9111 
+            xmax = 47.1256 
+            text = "" 
+        intervals [30]:
+            xmin = 47.1256 
+            xmax = 50.0556 
+            text = "Answer" 
+        intervals [31]:
+            xmin = 50.0556 
+            xmax = 50.3999 
+            text = "" 
+        intervals [32]:
+            xmin = 50.3999 
+            xmax = 52.1799 
+            text = "Assert" 
+        intervals [33]:
+            xmin = 52.1799 
+            xmax = 53.0099 
+            text = "Acknowledge" 
+        intervals [34]:
+            xmin = 53.0099 
+            xmax = 53.84506691773492 
+            text = "" 
+        intervals [35]:
+            xmin = 53.84506691773492 
+            xmax = 55.447599999999994 
+            text = "Assert" 
+        intervals [36]:
+            xmin = 55.447599999999994 
+            xmax = 55.79327828246363 
+            text = "" 
+        intervals [37]:
+            xmin = 55.79327828246363 
+            xmax = 55.8668 
+            text = "Exclamation" 
+        intervals [38]:
+            xmin = 55.8668 
+            xmax = 56.8767 
+            text = "Assert" 
+        intervals [39]:
+            xmin = 56.8767 
+            xmax = 57.8694 
+            text = "" 
+        intervals [40]:
+            xmin = 57.8694 
+            xmax = 63.7432 
+            text = "Offer" 
+        intervals [41]:
+            xmin = 63.7432 
+            xmax = 65.37771308859706 
+            text = "Info-Request" 
+        intervals [42]:
+            xmin = 65.37771308859706 
+            xmax = 66.1614 
+            text = "Answer" 
+        intervals [43]:
+            xmin = 66.1614 
+            xmax = 66.775 
+            text = "" 
+        intervals [44]:
+            xmin = 66.775 
+            xmax = 67.5149 
+            text = "Repeat" 
+        intervals [45]:
+            xmin = 67.5149 
+            xmax = 68.77922921606312 
+            text = "" 
+        intervals [46]:
+            xmin = 68.77922921606312 
+            xmax = 71.23190137113075 
+            text = "Assert" 
+        intervals [47]:
+            xmin = 71.23190137113075 
+            xmax = 71.63471249148857 
+            text = "Exclamation" 
+        intervals [48]:
+            xmin = 71.63471249148857 
+            xmax = 72.3271 
+            text = "" 
+        intervals [49]:
+            xmin = 72.3271 
+            xmax = 73.5371 
+            text = "Assert" 
+        intervals [50]:
+            xmin = 73.5371 
+            xmax = 75.53441363867214 
+            text = "Assert" 
+        intervals [51]:
+            xmin = 75.53441363867214 
+            xmax = 76.1347 
+            text = "Exclamation" 
+        intervals [52]:
+            xmin = 76.1347 
+            xmax = 76.9218741635269 
+            text = "" 
+        intervals [53]:
+            xmin = 76.9218741635269 
+            xmax = 80.0911 
+            text = "Assert" 
+        intervals [54]:
+            xmin = 80.0911 
+            xmax = 80.4303 
+            text = "" 
+        intervals [55]:
+            xmin = 80.4303 
+            xmax = 81.3752 
+            text = "Repeat" 
+        intervals [56]:
+            xmin = 81.3752 
+            xmax = 81.6147 
+            text = "" 
+        intervals [57]:
+            xmin = 81.6147 
+            xmax = 83.6184 
+            text = "Assert" 
+        intervals [58]:
+            xmin = 83.6184 
+            xmax = 84.2221 
+            text = "" 
+        intervals [59]:
+            xmin = 84.2221 
+            xmax = 85.0918 
+            text = "Repeat" 
+        intervals [60]:
+            xmin = 85.0918 
+            xmax = 86.6134 
+            text = "" 
+        intervals [61]:
+            xmin = 86.6134 
+            xmax = 88.7734 
+            text = "Assert" 
+        intervals [62]:
+            xmin = 88.7734 
+            xmax = 88.9834 
+            text = "Exclamation" 
+        intervals [63]:
+            xmin = 88.9834 
+            xmax = 89.72749999999999 
+            text = "Repeat" 
+        intervals [64]:
+            xmin = 89.72749999999999 
+            xmax = 90.1665 
+            text = "" 
+        intervals [65]:
+            xmin = 90.1665 
+            xmax = 92.0363 
+            text = "Assert" 
+        intervals [66]:
+            xmin = 92.0363 
+            xmax = 92.46039999999999 
+            text = "" 
+        intervals [67]:
+            xmin = 92.46039999999999 
+            xmax = 93.38406673091568 
+            text = "Rephrase" 
+        intervals [68]:
+            xmin = 93.38406673091568 
+            xmax = 94.0504 
+            text = "Information-Relation" 
+        intervals [69]:
+            xmin = 94.0504 
+            xmax = 95.29990000000001 
+            text = "Assert" 
+        intervals [70]:
+            xmin = 95.29990000000001 
+            xmax = 95.69409999999999 
+            text = "" 
+        intervals [71]:
+            xmin = 95.69409999999999 
+            xmax = 96.0641 
+            text = "Exclamation" 
+        intervals [72]:
+            xmin = 96.0641 
+            xmax = 97.5241 
+            text = "Assert" 
+        intervals [73]:
+            xmin = 97.5241 
+            xmax = 98.9736 
+            text = "Information-Relation" 
+        intervals [74]:
+            xmin = 98.9736 
+            xmax = 99.2779 
+            text = "" 
+        intervals [75]:
+            xmin = 99.2779 
+            xmax = 100.46289999999999 
+            text = "Other forward function" 
+        intervals [76]:
+            xmin = 100.46289999999999 
+            xmax = 100.8533 
+            text = "" 
+        intervals [77]:
+            xmin = 100.8533 
+            xmax = 103.2859 
+            text = "Info-Request" 
+        intervals [78]:
+            xmin = 103.2859 
+            xmax = 105.7582 
+            text = "Assert" 
+        intervals [79]:
+            xmin = 105.7582 
+            xmax = 105.7882 
+            text = "Exclamation" 
+        intervals [80]:
+            xmin = 105.7882 
+            xmax = 106.47760000000001 
+            text = "Repeat" 
+        intervals [81]:
+            xmin = 106.47760000000001 
+            xmax = 106.8219 
+            text = "" 
+        intervals [82]:
+            xmin = 106.8219 
+            xmax = 108.06362176452213 
+            text = "Assert" 
+        intervals [83]:
+            xmin = 108.06362176452213 
+            xmax = 110.34400000000001 
+            text = "Assert" 
+        intervals [84]:
+            xmin = 110.34400000000001 
+            xmax = 110.98750000000001 
+            text = "" 
+        intervals [85]:
+            xmin = 110.98750000000001 
+            xmax = 111.6422 
+            text = "Repeat" 
+        intervals [86]:
+            xmin = 111.6422 
+            xmax = 112.1461 
+            text = "" 
+        intervals [87]:
+            xmin = 112.1461 
+            xmax = 112.6807 
+            text = "Information-Relation" 
+        intervals [88]:
+            xmin = 112.6807 
+            xmax = 113.0849 
+            text = "" 
+        intervals [89]:
+            xmin = 113.0849 
+            xmax = 114.5291 
+            text = "Assert" 
+        intervals [90]:
+            xmin = 114.5291 
+            xmax = 114.8584 
+            text = "" 
+        intervals [91]:
+            xmin = 114.8584 
+            xmax = 115.6324 
+            text = "Repeat" 
+        intervals [92]:
+            xmin = 115.6324 
+            xmax = 118.2475 
+            text = "" 
+        intervals [93]:
+            xmin = 118.2475 
+            xmax = 121.1546 
+            text = "Assert" 
+        intervals [94]:
+            xmin = 121.1546 
+            xmax = 121.93402164550209 
+            text = "" 
+        intervals [95]:
+            xmin = 121.93402164550209 
+            xmax = 123.39154505554063 
+            text = "Information-Relation" 
+        intervals [96]:
+            xmin = 123.39154505554063 
+            xmax = 124.41967360204085 
+            text = "Information-Relation" 
+        intervals [97]:
+            xmin = 124.41967360204085 
+            xmax = 125.22470000000001 
+            text = "" 
+        intervals [98]:
+            xmin = 125.22470000000001 
+            xmax = 127.87476510727544 
+            text = "Assert" 
+        intervals [99]:
+            xmin = 127.87476510727544 
+            xmax = 130.1092 
+            text = "" 
+        intervals [100]:
+            xmin = 130.1092 
+            xmax = 137.5147 
+            text = "Assert" 
+        intervals [101]:
+            xmin = 137.5147 
+            xmax = 138.0885 
+            text = "" 
+        intervals [102]:
+            xmin = 138.0885 
+            xmax = 140.49932680748933 
+            text = "Rephrase" 
+        intervals [103]:
+            xmin = 140.49932680748933 
+            xmax = 145.15136100642067 
+            text = "Information-Relation" 
+        intervals [104]:
+            xmin = 145.15136100642067 
+            xmax = 145.5036 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = -0 
+        xmax = 145.5036 
+        intervals: size = 83 
+        intervals [1]:
+            xmin = -0 
+            xmax = 4.227215539299479 
+            text = "Agatha" 
+        intervals [2]:
+            xmin = 4.227215539299479 
+            xmax = 5.202270483187701 
+            text = "Elena" 
+        intervals [3]:
+            xmin = 5.202270483187701 
+            xmax = 8.14772991559678 
+            text = "" 
+        intervals [4]:
+            xmin = 8.14772991559678 
+            xmax = 9.107058166841645 
+            text = "Agatha" 
+        intervals [5]:
+            xmin = 9.107058166841645 
+            xmax = 9.515952175568964 
+            text = "" 
+        intervals [6]:
+            xmin = 9.515952175568964 
+            xmax = 10.553913890030621 
+            text = "Elena" 
+        intervals [7]:
+            xmin = 10.553913890030621 
+            xmax = 13.431898643765216 
+            text = "" 
+        intervals [8]:
+            xmin = 13.431898643765216 
+            xmax = 16.231249934283017 
+            text = "Agatha" 
+        intervals [9]:
+            xmin = 16.231249934283017 
+            xmax = 16.351379139820214 
+            text = "" 
+        intervals [10]:
+            xmin = 16.351379139820214 
+            xmax = 17.247800620491642 
+            text = "Elena" 
+        intervals [11]:
+            xmin = 17.247800620491642 
+            xmax = 18.923674652704165 
+            text = "" 
+        intervals [12]:
+            xmin = 18.923674652704165 
+            xmax = 26.047866420145535 
+            text = "Agatha" 
+        intervals [13]:
+            xmin = 26.047866420145535 
+            xmax = 26.620475036107564 
+            text = "" 
+        intervals [14]:
+            xmin = 26.620475036107564 
+            xmax = 28.16169091515669 
+            text = "Elena" 
+        intervals [15]:
+            xmin = 28.16169091515669 
+            xmax = 28.77503192824767 
+            text = "" 
+        intervals [16]:
+            xmin = 28.77503192824767 
+            xmax = 30.662235045450682 
+            text = "Agatha" 
+        intervals [17]:
+            xmin = 30.662235045450682 
+            xmax = 36.140418473414606 
+            text = "Elena" 
+        intervals [18]:
+            xmin = 36.140418473414606 
+            xmax = 37.93326143475746 
+            text = "Agatha" 
+        intervals [19]:
+            xmin = 37.93326143475746 
+            xmax = 38.238831190030176 
+            text = "" 
+        intervals [20]:
+            xmin = 38.238831190030176 
+            xmax = 41.015693192855714 
+            text = "Elena" 
+        intervals [21]:
+            xmin = 41.015693192855714 
+            xmax = 46.9111 
+            text = "Agatha" 
+        intervals [22]:
+            xmin = 46.9111 
+            xmax = 47.139629915464525 
+            text = "" 
+        intervals [23]:
+            xmin = 47.139629915464525 
+            xmax = 50.049068045483445 
+            text = "Elena" 
+        intervals [24]:
+            xmin = 50.049068045483445 
+            xmax = 50.38645788199043 
+            text = "" 
+        intervals [25]:
+            xmin = 50.38645788199043 
+            xmax = 52.19502753597666 
+            text = "Agatha" 
+        intervals [26]:
+            xmin = 52.19502753597666 
+            xmax = 53.00374653528389 
+            text = "Elena" 
+        intervals [27]:
+            xmin = 53.00374653528389 
+            xmax = 53.877783648816006 
+            text = "" 
+        intervals [28]:
+            xmin = 53.877783648816006 
+            xmax = 55.45045291315185 
+            text = "Agatha" 
+        intervals [29]:
+            xmin = 55.45045291315185 
+            xmax = 55.764986766019014 
+            text = "" 
+        intervals [30]:
+            xmin = 55.764986766019014 
+            xmax = 56.87251291357932 
+            text = "Elena" 
+        intervals [31]:
+            xmin = 56.87251291357932 
+            xmax = 57.888090272872404 
+            text = "" 
+        intervals [32]:
+            xmin = 57.888090272872404 
+            xmax = 63.19086870724365 
+            text = "Agatha" 
+        intervals [33]:
+            xmin = 63.19086870724365 
+            xmax = 63.74524986452268 
+            text = "" 
+        intervals [34]:
+            xmin = 63.74524986452268 
+            xmax = 65.36682902302081 
+            text = "Elena" 
+        intervals [35]:
+            xmin = 65.36682902302081 
+            xmax = 66.18461704047546 
+            text = "Agatha" 
+        intervals [36]:
+            xmin = 66.18461704047546 
+            xmax = 66.78050153529918 
+            text = "" 
+        intervals [37]:
+            xmin = 66.78050153529918 
+            xmax = 67.53538277984463 
+            text = "Elena" 
+        intervals [38]:
+            xmin = 67.53538277984463 
+            xmax = 68.7795213266296 
+            text = "" 
+        intervals [39]:
+            xmin = 68.7795213266296 
+            xmax = 71.24861207163688 
+            text = "Agatha" 
+        intervals [40]:
+            xmin = 71.24861207163688 
+            xmax = 73.53967636114531 
+            text = "Elena" 
+        intervals [41]:
+            xmin = 73.53967636114531 
+            xmax = 75.53696632685184 
+            text = "Agatha" 
+        intervals [42]:
+            xmin = 75.53696632685184 
+            xmax = 76.12068880342712 
+            text = "Elena" 
+        intervals [43]:
+            xmin = 76.12068880342712 
+            xmax = 76.93664197211075 
+            text = "" 
+        intervals [44]:
+            xmin = 76.93664197211075 
+            xmax = 80.11343388606916 
+            text = "Agatha" 
+        intervals [45]:
+            xmin = 80.11343388606916 
+            xmax = 80.4303 
+            text = "" 
+        intervals [46]:
+            xmin = 80.4303 
+            xmax = 81.3752 
+            text = "Elena" 
+        intervals [47]:
+            xmin = 81.3752 
+            xmax = 81.63369593260858 
+            text = "" 
+        intervals [48]:
+            xmin = 81.63369593260858 
+            xmax = 83.6309858983151 
+            text = "Agatha" 
+        intervals [49]:
+            xmin = 83.6309858983151 
+            xmax = 84.2221 
+            text = "" 
+        intervals [50]:
+            xmin = 84.2221 
+            xmax = 85.0918 
+            text = "Elena" 
+        intervals [51]:
+            xmin = 85.0918 
+            xmax = 86.61905750055321 
+            text = "" 
+        intervals [52]:
+            xmin = 86.61905750055321 
+            xmax = 88.77361439269333 
+            text = "Agatha" 
+        intervals [53]:
+            xmin = 88.77361439269333 
+            xmax = 89.72749999999999 
+            text = "Elena" 
+        intervals [54]:
+            xmin = 89.72749999999999 
+            xmax = 90.1900649432504 
+            text = "" 
+        intervals [55]:
+            xmin = 90.1900649432504 
+            xmax = 92.03008798252336 
+            text = "Agatha" 
+        intervals [56]:
+            xmin = 92.03008798252336 
+            xmax = 92.46039999999999 
+            text = "" 
+        intervals [57]:
+            xmin = 92.46039999999999 
+            xmax = 93.38787801067915 
+            text = "Elena" 
+        intervals [58]:
+            xmin = 93.38787801067915 
+            xmax = 95.32226120581224 
+            text = "Agatha" 
+        intervals [59]:
+            xmin = 95.32226120581224 
+            xmax = 95.69409999999999 
+            text = "" 
+        intervals [60]:
+            xmin = 95.69409999999999 
+            xmax = 97.5241 
+            text = "Elena" 
+        intervals [61]:
+            xmin = 97.5241 
+            xmax = 100.8533 
+            text = "Agatha" 
+        intervals [62]:
+            xmin = 100.8533 
+            xmax = 103.2859 
+            text = "Elena" 
+        intervals [63]:
+            xmin = 103.2859 
+            xmax = 105.3401644196316 
+            text = "Agatha" 
+        intervals [64]:
+            xmin = 105.3401644196316 
+            xmax = 105.7582 
+            text = "" 
+        intervals [65]:
+            xmin = 105.7582 
+            xmax = 106.47760000000001 
+            text = "Elena" 
+        intervals [66]:
+            xmin = 106.47760000000001 
+            xmax = 106.82105723090295 
+            text = "" 
+        intervals [67]:
+            xmin = 106.82105723090295 
+            xmax = 110.35956307565863 
+            text = "Agatha" 
+        intervals [68]:
+            xmin = 110.35956307565863 
+            xmax = 110.98750000000001 
+            text = "" 
+        intervals [69]:
+            xmin = 110.98750000000001 
+            xmax = 111.6422 
+            text = "Elena" 
+        intervals [70]:
+            xmin = 111.6422 
+            xmax = 112.15240603700148 
+            text = "" 
+        intervals [71]:
+            xmin = 112.15240603700148 
+            xmax = 114.52713662614862 
+            text = "Agatha" 
+        intervals [72]:
+            xmin = 114.52713662614862 
+            xmax = 114.8584 
+            text = "" 
+        intervals [73]:
+            xmin = 114.8584 
+            xmax = 115.6324 
+            text = "Elena" 
+        intervals [74]:
+            xmin = 115.6324 
+            xmax = 118.26379848430437 
+            text = "" 
+        intervals [75]:
+            xmin = 118.26379848430437 
+            xmax = 121.14178323803898 
+            text = "Agatha" 
+        intervals [76]:
+            xmin = 121.14178323803898 
+            xmax = 121.93402164550209 
+            text = "" 
+        intervals [77]:
+            xmin = 121.93402164550209 
+            xmax = 123.4178024158345 
+            text = "Elena" 
+        intervals [78]:
+            xmin = 123.4178024158345 
+            xmax = 127.86845643390494 
+            text = "Agatha" 
+        intervals [79]:
+            xmin = 127.86845643390494 
+            xmax = 130.10973489477126 
+            text = "" 
+        intervals [80]:
+            xmin = 130.10973489477126 
+            xmax = 137.50128043714972 
+            text = "Agatha" 
+        intervals [81]:
+            xmin = 137.50128043714972 
+            xmax = 138.0885 
+            text = "" 
+        intervals [82]:
+            xmin = 138.0885 
+            xmax = 140.51200749206066 
+            text = "Elena" 
+        intervals [83]:
+            xmin = 140.51200749206066 
+            xmax = 145.5036 
+            text = "Agatha" 

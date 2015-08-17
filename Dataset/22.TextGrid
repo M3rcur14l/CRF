@@ -1,0 +1,406 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 19.328367346938776 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "TokensAlign" 
+        xmin = 0 
+        xmax = 19.328367346938776 
+        intervals: size = 56 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3900013589041004 
+            text = "hi" 
+        intervals [2]:
+            xmin = 0.3900013589041004 
+            xmax = 0.6100021254653878 
+            text = "i" 
+        intervals [3]:
+            xmin = 0.6100021254653878 
+            xmax = 0.7549052192651204 
+            text = "am" 
+        intervals [4]:
+            xmin = 0.7549052192651204 
+            xmax = 1.020003554056878 
+            text = "bill" 
+        intervals [5]:
+            xmin = 1.020003554056878 
+            xmax = 1.4200049478046732 
+            text = "pellowe" 
+        intervals [6]:
+            xmin = 1.4200049478046732 
+            xmax = 2.2400078049876537 
+            text = "nice" 
+        intervals [7]:
+            xmin = 2.2400078049876537 
+            xmax = 2.3500081882682973 
+            text = "to" 
+        intervals [8]:
+            xmin = 2.3500081882682973 
+            xmax = 2.6100090942043637 
+            text = "meet" 
+        intervals [9]:
+            xmin = 2.6100090942043637 
+            xmax = 2.7611405654399825 
+            text = "you" 
+        intervals [10]:
+            xmin = 2.7611405654399825 
+            xmax = 3.263633516277457 
+            text = "#" 
+        intervals [11]:
+            xmin = 3.263633516277457 
+            xmax = 3.4614798621289213 
+            text = "nice" 
+        intervals [12]:
+            xmin = 3.4614798621289213 
+            xmax = 3.617291629830464 
+            text = "to" 
+        intervals [13]:
+            xmin = 3.617291629830464 
+            xmax = 3.778297123122058 
+            text = "meet" 
+        intervals [14]:
+            xmin = 3.778297123122058 
+            xmax = 3.900013589041004 
+            text = "you" 
+        intervals [15]:
+            xmin = 3.900013589041004 
+            xmax = 4.3154534036322785 
+            text = "too" 
+        intervals [16]:
+            xmin = 4.3154534036322785 
+            xmax = 4.976354977981423 
+            text = "#" 
+        intervals [17]:
+            xmin = 4.976354977981423 
+            xmax = 5.220018188408727 
+            text = "what" 
+        intervals [18]:
+            xmin = 5.220018188408727 
+            xmax = 5.389969173938936 
+            text = "do" 
+        intervals [19]:
+            xmin = 5.389969173938936 
+            xmax = 5.592264785671438 
+            text = "you" 
+        intervals [20]:
+            xmin = 5.592264785671438 
+            xmax = 5.764956161540647 
+            text = "do" 
+        intervals [21]:
+            xmin = 5.764956161540647 
+            xmax = 6.528122269275731 
+            text = "#" 
+        intervals [22]:
+            xmin = 6.528122269275731 
+            xmax = 6.569239263530305 
+            text = "i" 
+        intervals [23]:
+            xmin = 6.569239263530305 
+            xmax = 6.610356257784878 
+            text = "am" 
+        intervals [24]:
+            xmin = 6.610356257784878 
+            xmax = 6.666275369971099 
+            text = "a" 
+        intervals [25]:
+            xmin = 6.666275369971099 
+            xmax = 7.167902699876898 
+            text = "university" 
+        intervals [26]:
+            xmin = 7.167902699876898 
+            xmax = 7.6637062665116185 
+            text = "teacher" 
+        intervals [27]:
+            xmin = 7.6637062665116185 
+            xmax = 8.349278044398405 
+            text = "#" 
+        intervals [28]:
+            xmin = 8.349278044398405 
+            xmax = 8.492538301605759 
+            text = "how" 
+        intervals [29]:
+            xmin = 8.492538301605759 
+            xmax = 8.675866518979523 
+            text = "about" 
+        intervals [30]:
+            xmin = 8.675866518979523 
+            xmax = 8.815958591558847 
+            text = "you" 
+        intervals [31]:
+            xmin = 8.815958591558847 
+            xmax = 9.592247430605486 
+            text = "#" 
+        intervals [32]:
+            xmin = 9.592247430605486 
+            xmax = 9.73387351690313 
+            text = "me" 
+        intervals [33]:
+            xmin = 9.73387351690313 
+            xmax = 10.063675091871394 
+            text = "too" 
+        intervals [34]:
+            xmin = 10.063675091871394 
+            xmax = 11.165440935351688 
+            text = "#" 
+        intervals [35]:
+            xmin = 11.165440935351688 
+            xmax = 11.394581948520438 
+            text = "what" 
+        intervals [36]:
+            xmin = 11.394581948520438 
+            xmax = 12.062754745680552 
+            text = "university" 
+        intervals [37]:
+            xmin = 12.062754745680552 
+            xmax = 12.231810513636725 
+            text = "do" 
+        intervals [38]:
+            xmin = 12.231810513636725 
+            xmax = 12.489419302903276 
+            text = "you" 
+        intervals [39]:
+            xmin = 12.489419302903276 
+            xmax = 12.6536477090546 
+            text = "teach" 
+        intervals [40]:
+            xmin = 12.6536477090546 
+            xmax = 12.789550195327612 
+            text = "at" 
+        intervals [41]:
+            xmin = 12.789550195327612 
+            xmax = 13.33319826999627 
+            text = "#" 
+        intervals [42]:
+            xmin = 13.33319826999627 
+            xmax = 13.47966133163572 
+            text = "i" 
+        intervals [43]:
+            xmin = 13.47966133163572 
+            xmax = 13.71665109432441 
+            text = "teach" 
+        intervals [44]:
+            xmin = 13.71665109432441 
+            xmax = 13.86631695341106 
+            text = "at" 
+        intervals [45]:
+            xmin = 13.86631695341106 
+            xmax = 14.272552856646248 
+            text = "kinki" 
+        intervals [46]:
+            xmin = 14.272552856646248 
+            xmax = 14.963913991835307 
+            text = "university" 
+        intervals [47]:
+            xmin = 14.963913991835307 
+            xmax = 15.789456674373978 
+            text = "#" 
+        intervals [48]:
+            xmin = 15.789456674373978 
+            xmax = 15.944326745487139 
+            text = "a" 
+        intervals [49]:
+            xmin = 15.944326745487139 
+            xmax = 16.1491326579215 
+            text = "you" 
+        intervals [50]:
+            xmin = 16.1491326579215 
+            xmax = 16.840071285584674 
+            text = "#" 
+        intervals [51]:
+            xmin = 16.840071285584674 
+            xmax = 17.190550190010807 
+            text = "oh" 
+        intervals [52]:
+            xmin = 17.190550190010807 
+            xmax = 17.28822685594104 
+            text = "i" 
+        intervals [53]:
+            xmin = 17.28822685594104 
+            xmax = 17.54542850441471 
+            text = "teach" 
+        intervals [54]:
+            xmin = 17.54542850441471 
+            xmax = 17.737092878478865 
+            text = "at" 
+        intervals [55]:
+            xmin = 17.737092878478865 
+            xmax = 18.30825271319005 
+            text = "kurume" 
+        intervals [56]:
+            xmin = 18.30825271319005 
+            xmax = 19.328367346938776 
+            text = "university" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "DialogueAct" 
+        xmin = 0 
+        xmax = 19.328367346938776 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.7611405654399825 
+            text = "assert" 
+        intervals [2]:
+            xmin = 2.7611405654399825 
+            xmax = 3.2632526687752925 
+            text = "#" 
+        intervals [3]:
+            xmin = 3.2632526687752925 
+            xmax = 4.3154534036322785 
+            text = "info-request" 
+        intervals [4]:
+            xmin = 4.3154534036322785 
+            xmax = 4.976354977981423 
+            text = "#" 
+        intervals [5]:
+            xmin = 4.976354977981423 
+            xmax = 5.764956161540647 
+            text = "info-request" 
+        intervals [6]:
+            xmin = 5.764956161540647 
+            xmax = 6.526477589505548 
+            text = "#" 
+        intervals [7]:
+            xmin = 6.526477589505548 
+            xmax = 7.357040873447938 
+            text = "answer" 
+        intervals [8]:
+            xmin = 7.357040873447938 
+            xmax = 7.6637062665116185 
+            text = "" 
+        intervals [9]:
+            xmin = 7.6637062665116185 
+            xmax = 8.349278044398405 
+            text = "#" 
+        intervals [10]:
+            xmin = 8.349278044398405 
+            xmax = 8.815958591558847 
+            text = "info-request" 
+        intervals [11]:
+            xmin = 8.815958591558847 
+            xmax = 9.590602750841269 
+            text = "#" 
+        intervals [12]:
+            xmin = 9.590602750841269 
+            xmax = 10.063675091871394 
+            text = "answer" 
+        intervals [13]:
+            xmin = 10.063675091871394 
+            xmax = 11.165440935351688 
+            text = "#" 
+        intervals [14]:
+            xmin = 11.165440935351688 
+            xmax = 12.790415816259287 
+            text = "info-request" 
+        intervals [15]:
+            xmin = 12.790415816259287 
+            xmax = 13.33319826999627 
+            text = "#" 
+        intervals [16]:
+            xmin = 13.33319826999627 
+            xmax = 14.963913991835307 
+            text = "answer" 
+        intervals [17]:
+            xmin = 14.963913991835307 
+            xmax = 15.78798511879013 
+            text = "#" 
+        intervals [18]:
+            xmin = 15.78798511879013 
+            xmax = 16.1491326579215 
+            text = "info-request" 
+        intervals [19]:
+            xmin = 16.1491326579215 
+            xmax = 16.838945978373495 
+            text = "#" 
+        intervals [20]:
+            xmin = 16.838945978373495 
+            xmax = 19.328367346938776 
+            text = "answer" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 19.328367346938776 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.7611405654399825 
+            text = "bill" 
+        intervals [2]:
+            xmin = 2.7611405654399825 
+            xmax = 3.263633516277457 
+            text = "#" 
+        intervals [3]:
+            xmin = 3.263633516277457 
+            xmax = 4.315886193143422 
+            text = "john" 
+        intervals [4]:
+            xmin = 4.315886193143422 
+            xmax = 4.976354977981423 
+            text = "#" 
+        intervals [5]:
+            xmin = 4.976354977981423 
+            xmax = 5.764956161540647 
+            text = "john" 
+        intervals [6]:
+            xmin = 5.764956161540647 
+            xmax = 6.526477589505548 
+            text = "#" 
+        intervals [7]:
+            xmin = 6.526477589505548 
+            xmax = 7.663273449060884 
+            text = "bill" 
+        intervals [8]:
+            xmin = 7.663273449060884 
+            xmax = 8.35057646881102 
+            text = "#" 
+        intervals [9]:
+            xmin = 8.35057646881102 
+            xmax = 8.815958591558847 
+            text = "bill" 
+        intervals [10]:
+            xmin = 8.815958591558847 
+            xmax = 9.590602750841269 
+            text = "#" 
+        intervals [11]:
+            xmin = 9.590602750841269 
+            xmax = 10.063675091871394 
+            text = "john" 
+        intervals [12]:
+            xmin = 10.063675091871394 
+            xmax = 11.165440935351688 
+            text = "#" 
+        intervals [13]:
+            xmin = 11.165440935351688 
+            xmax = 12.790415816259287 
+            text = "john" 
+        intervals [14]:
+            xmin = 12.790415816259287 
+            xmax = 13.33319826999627 
+            text = "#" 
+        intervals [15]:
+            xmin = 13.33319826999627 
+            xmax = 14.96244243625146 
+            text = "bill" 
+        intervals [16]:
+            xmin = 14.96244243625146 
+            xmax = 15.786783735922246 
+            text = "#" 
+        intervals [17]:
+            xmin = 15.786783735922246 
+            xmax = 16.150257965132678 
+            text = "john" 
+        intervals [18]:
+            xmin = 16.150257965132678 
+            xmax = 16.840071285584674 
+            text = "#" 
+        intervals [19]:
+            xmin = 16.840071285584674 
+            xmax = 19.328367346938776 
+            text = "john" 

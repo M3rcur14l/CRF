@@ -1,0 +1,522 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 35.7758 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "TokensAlign" 
+        xmin = 0 
+        xmax = 35.7758 
+        intervals: size = 86 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.225 
+            text = "hi" 
+        intervals [2]:
+            xmin = 0.225 
+            xmax = 1.015 
+            text = "rob" 
+        intervals [3]:
+            xmin = 1.015 
+            xmax = 1.335 
+            text = "how" 
+        intervals [4]:
+            xmin = 1.335 
+            xmax = 1.535 
+            text = "are" 
+        intervals [5]:
+            xmin = 1.535 
+            xmax = 1.765 
+            text = "you" 
+        intervals [6]:
+            xmin = 1.765 
+            xmax = 2.445 
+            text = "today" 
+        intervals [7]:
+            xmin = 2.445 
+            xmax = 3.385 
+            text = "hello" 
+        intervals [8]:
+            xmin = 3.385 
+            xmax = 3.955 
+            text = "li" 
+        intervals [9]:
+            xmin = 3.955 
+            xmax = 4.095 
+            text = "i" 
+        intervals [10]:
+            xmin = 4.095 
+            xmax = 4.245 
+            text = "am" 
+        intervals [11]:
+            xmin = 4.245 
+            xmax = 4.765 
+            text = "really" 
+        intervals [12]:
+            xmin = 4.765 
+            xmax = 5.645 
+            text = "angry" 
+        intervals [13]:
+            xmin = 5.645 
+            xmax = 6.735 
+            text = "why" 
+        intervals [14]:
+            xmin = 6.735 
+            xmax = 7.295 
+            text = "well" 
+        intervals [15]:
+            xmin = 7.295 
+            xmax = 8.155 
+            text = "because" 
+        intervals [16]:
+            xmin = 8.155 
+            xmax = 8.285 
+            text = "i" 
+        intervals [17]:
+            xmin = 8.285 
+            xmax = 8.635 
+            text = "work" 
+        intervals [18]:
+            xmin = 8.635 
+            xmax = 8.875 
+            text = "very" 
+        intervals [19]:
+            xmin = 8.875 
+            xmax = 9.645 
+            text = "hard" 
+        intervals [20]:
+            xmin = 9.645 
+            xmax = 9.725 
+            text = "i" 
+        intervals [21]:
+            xmin = 9.725 
+            xmax = 10.165 
+            text = "get" 
+        intervals [22]:
+            xmin = 10.165 
+            xmax = 11.115 
+            text = "results" 
+        intervals [23]:
+            xmin = 11.115 
+            xmax = 11.235 
+            text = "i" 
+        intervals [24]:
+            xmin = 11.235 
+            xmax = 11.605 
+            text = "do" 
+        intervals [25]:
+            xmin = 11.605 
+            xmax = 12.135 
+            text = "much" 
+        intervals [26]:
+            xmin = 12.135 
+            xmax = 12.455 
+            text = "more" 
+        intervals [27]:
+            xmin = 12.455 
+            xmax = 12.545 
+            text = "than" 
+        intervals [28]:
+            xmin = 12.545 
+            xmax = 12.665 
+            text = "i" 
+        intervals [29]:
+            xmin = 12.665 
+            xmax = 13.045 
+            text = "really" 
+        intervals [30]:
+            xmin = 13.045 
+            xmax = 13.265 
+            text = "should" 
+        intervals [31]:
+            xmin = 13.265 
+            xmax = 13.785 
+            text = "and" 
+        intervals [32]:
+            xmin = 13.785 
+            xmax = 14.635 
+            text = "nobody" 
+        intervals [33]:
+            xmin = 14.635 
+            xmax = 15.775 
+            text = "notices" 
+        intervals [34]:
+            xmin = 15.775 
+            xmax = 15.855 
+            text = "i" 
+        intervals [35]:
+            xmin = 15.855 
+            xmax = 16.165 
+            text = "don" 
+        intervals [36]:
+            xmin = 16.165 
+            xmax = 16.195 
+            text = "t" 
+        intervals [37]:
+            xmin = 16.195 
+            xmax = 16.525 
+            text = "get" 
+        intervals [38]:
+            xmin = 16.525 
+            xmax = 16.815 
+            text = "any" 
+        intervals [39]:
+            xmin = 16.815 
+            xmax = 18.875 
+            text = "recognition" 
+        intervals [40]:
+            xmin = 18.875 
+            xmax = 19.895 
+            text = "yes" 
+        intervals [41]:
+            xmin = 19.895 
+            xmax = 20.035 
+            text = "you" 
+        intervals [42]:
+            xmin = 20.035 
+            xmax = 20.415 
+            text = "do" 
+        intervals [43]:
+            xmin = 20.415 
+            xmax = 20.715 
+            text = "work" 
+        intervals [44]:
+            xmin = 20.715 
+            xmax = 21.045 
+            text = "hard" 
+        intervals [45]:
+            xmin = 21.045 
+            xmax = 22.095 
+            text = "rob" 
+        intervals [46]:
+            xmin = 22.095 
+            xmax = 22.175 
+            text = "you" 
+        intervals [47]:
+            xmin = 22.175 
+            xmax = 22.515 
+            text = "should" 
+        intervals [48]:
+            xmin = 22.515 
+            xmax = 22.685 
+            text = "earn" 
+        intervals [49]:
+            xmin = 22.685 
+            xmax = 22.745 
+            text = "a" 
+        intervals [50]:
+            xmin = 22.745 
+            xmax = 23.875 
+            text = "fortune" 
+        intervals [51]:
+            xmin = 23.875 
+            xmax = 24.035 
+            text = "i" 
+        intervals [52]:
+            xmin = 24.035 
+            xmax = 24.805 
+            text = "know" 
+        intervals [53]:
+            xmin = 24.805 
+            xmax = 25.265 
+            text = "you" 
+        intervals [54]:
+            xmin = 25.265 
+            xmax = 25.585 
+            text = "see" 
+        intervals [55]:
+            xmin = 25.585 
+            xmax = 25.905 
+            text = "that" 
+        intervals [56]:
+            xmin = 25.905 
+            xmax = 25.985 
+            text = "is" 
+        intervals [57]:
+            xmin = 25.985 
+            xmax = 26.545 
+            text = "it" 
+        intervals [58]:
+            xmin = 26.545 
+            xmax = 26.575 
+            text = "i" 
+        intervals [59]:
+            xmin = 26.575 
+            xmax = 26.915 
+            text = "am" 
+        intervals [60]:
+            xmin = 26.915 
+            xmax = 27.085 
+            text = "going" 
+        intervals [61]:
+            xmin = 27.085 
+            xmax = 27.225 
+            text = "to" 
+        intervals [62]:
+            xmin = 27.225 
+            xmax = 27.295 
+            text = "go" 
+        intervals [63]:
+            xmin = 27.295 
+            xmax = 27.395 
+            text = "and" 
+        intervals [64]:
+            xmin = 27.395 
+            xmax = 27.595 
+            text = "see" 
+        intervals [65]:
+            xmin = 27.595 
+            xmax = 27.655 
+            text = "the" 
+        intervals [66]:
+            xmin = 27.655 
+            xmax = 28.195 
+            text = "boss" 
+        intervals [67]:
+            xmin = 28.195 
+            xmax = 28.515 
+            text = "right" 
+        intervals [68]:
+            xmin = 28.515 
+            xmax = 28.985 
+            text = "now" 
+        intervals [69]:
+            xmin = 28.985 
+            xmax = 29.105 
+            text = "i" 
+        intervals [70]:
+            xmin = 29.105 
+            xmax = 29.195 
+            text = "am" 
+        intervals [71]:
+            xmin = 29.195 
+            xmax = 29.365 
+            text = "going" 
+        intervals [72]:
+            xmin = 29.365 
+            xmax = 29.495 
+            text = "to" 
+        intervals [73]:
+            xmin = 29.495 
+            xmax = 30.015 
+            text = "ask" 
+        intervals [74]:
+            xmin = 30.015 
+            xmax = 30.295 
+            text = "for" 
+        intervals [75]:
+            xmin = 30.295 
+            xmax = 30.425 
+            text = "a" 
+        intervals [76]:
+            xmin = 30.425 
+            xmax = 30.765 
+            text = "pay" 
+        intervals [77]:
+            xmin = 30.765 
+            xmax = 31.555 
+            text = "rise" 
+        intervals [78]:
+            xmin = 31.555 
+            xmax = 31.865 
+            text = "good" 
+        intervals [79]:
+            xmin = 31.865 
+            xmax = 32.045 
+            text = "on" 
+        intervals [80]:
+            xmin = 32.045 
+            xmax = 32.245 
+            text = "you" 
+        intervals [81]:
+            xmin = 32.245 
+            xmax = 32.915 
+            text = "rob" 
+        intervals [82]:
+            xmin = 32.915 
+            xmax = 33.175 
+            text = "right" 
+        intervals [83]:
+            xmin = 33.175 
+            xmax = 33.685 
+            text = "now" 
+        intervals [84]:
+            xmin = 33.685 
+            xmax = 34.385 
+            text = "yes" 
+        intervals [85]:
+            xmin = 34.385 
+            xmax = 35.665 
+            text = "right" 
+        intervals [86]:
+            xmin = 35.665 
+            xmax = 35.7758 
+            text = "now" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "DialogueAct" 
+        xmin = 0 
+        xmax = 35.7758 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.016025063108547 
+            text = "conventional-form" 
+        intervals [2]:
+            xmin = 1.016025063108547 
+            xmax = 2.454950804162724 
+            text = "info-request" 
+        intervals [3]:
+            xmin = 2.454950804162724 
+            xmax = 2.4621655629139068 
+            text = "" 
+        intervals [4]:
+            xmin = 2.4621655629139068 
+            xmax = 3.941191106906338 
+            text = "conventional-form" 
+        intervals [5]:
+            xmin = 3.941191106906338 
+            xmax = 3.9456413249587037 
+            text = "" 
+        intervals [6]:
+            xmin = 3.9456413249587037 
+            xmax = 5.655539148988978 
+            text = "answer" 
+        intervals [7]:
+            xmin = 5.655539148988978 
+            xmax = 6.737752961666366 
+            text = "info-request" 
+        intervals [8]:
+            xmin = 6.737752961666366 
+            xmax = 6.747062455697589 
+            text = "" 
+        intervals [9]:
+            xmin = 6.747062455697589 
+            xmax = 6.759099493372607 
+            text = "information-relation" 
+        intervals [10]:
+            xmin = 6.759099493372607 
+            xmax = 9.627459107723578 
+            text = "answer" 
+        intervals [11]:
+            xmin = 9.627459107723578 
+            xmax = 18.885113595233737 
+            text = "information-relation" 
+        intervals [12]:
+            xmin = 18.885113595233737 
+            xmax = 18.909789559715954 
+            text = "" 
+        intervals [13]:
+            xmin = 18.909789559715954 
+            xmax = 22.055424375231564 
+            text = "accept" 
+        intervals [14]:
+            xmin = 22.055424375231564 
+            xmax = 23.85911406302721 
+            text = "assert" 
+        intervals [15]:
+            xmin = 23.85911406302721 
+            xmax = 23.878962257265606 
+            text = "" 
+        intervals [16]:
+            xmin = 23.878962257265606 
+            xmax = 24.773592342412247 
+            text = "accept" 
+        intervals [17]:
+            xmin = 24.773592342412247 
+            xmax = 24.789844471919732 
+            text = "information-related" 
+        intervals [18]:
+            xmin = 24.789844471919732 
+            xmax = 31.54285866302664 
+            text = "information-relation" 
+        intervals [19]:
+            xmin = 31.54285866302664 
+            xmax = 31.558515235364077 
+            text = "" 
+        intervals [20]:
+            xmin = 31.558515235364077 
+            xmax = 32.90046036194615 
+            text = "accept" 
+        intervals [21]:
+            xmin = 32.90046036194615 
+            xmax = 32.91488987943628 
+            text = "" 
+        intervals [22]:
+            xmin = 32.91488987943628 
+            xmax = 33.67965430641316 
+            text = "info-request" 
+        intervals [23]:
+            xmin = 33.67965430641316 
+            xmax = 35.7758 
+            text = "answer" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 35.7758 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.008181173129445243 
+            text = "" 
+        intervals [2]:
+            xmin = 0.008181173129445243 
+            xmax = 2.4467696304154263 
+            text = "Li" 
+        intervals [3]:
+            xmin = 2.4467696304154263 
+            xmax = 2.450128025243885 
+            text = "" 
+        intervals [4]:
+            xmin = 2.450128025243885 
+            xmax = 5.653480909962749 
+            text = "Rob" 
+        intervals [5]:
+            xmin = 5.653480909962749 
+            xmax = 5.660472481308961 
+            text = "" 
+        intervals [6]:
+            xmin = 5.660472481308961 
+            xmax = 6.742686293713984 
+            text = "Li" 
+        intervals [7]:
+            xmin = 6.742686293713984 
+            xmax = 6.747062455697589 
+            text = "" 
+        intervals [8]:
+            xmin = 6.747062455697589 
+            xmax = 18.902090960166305 
+            text = "Rob" 
+        intervals [9]:
+            xmin = 18.902090960166305 
+            xmax = 18.90487366199304 
+            text = "" 
+        intervals [10]:
+            xmin = 18.90487366199304 
+            xmax = 23.877184370544555 
+            text = "Li" 
+        intervals [11]:
+            xmin = 23.877184370544555 
+            xmax = 23.895656235287117 
+            text = "" 
+        intervals [12]:
+            xmin = 23.895656235287117 
+            xmax = 31.55086838975205 
+            text = "Rob" 
+        intervals [13]:
+            xmin = 31.55086838975205 
+            xmax = 31.55278506472178 
+            text = "" 
+        intervals [14]:
+            xmin = 31.55278506472178 
+            xmax = 33.68479741406789 
+            text = "Li" 
+        intervals [15]:
+            xmin = 33.68479741406789 
+            xmax = 35.7758 
+            text = "Rob" 

@@ -1,0 +1,414 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 25.0497 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "TokensAlign" 
+        xmin = 0 
+        xmax = 25.0497 
+        intervals: size = 70 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3691 
+            text = "#" 
+        intervals [2]:
+            xmin = 0.3691 
+            xmax = 0.4291 
+            text = "it" 
+        intervals [3]:
+            xmin = 0.4291 
+            xmax = 0.5191 
+            text = "s" 
+        intervals [4]:
+            xmin = 0.5191 
+            xmax = 0.5791 
+            text = "an" 
+        intervals [5]:
+            xmin = 0.5791 
+            xmax = 0.9191 
+            text = "island" 
+        intervals [6]:
+            xmin = 0.9191 
+            xmax = 1.0591 
+            text = "that" 
+        intervals [7]:
+            xmin = 1.0591 
+            xmax = 1.3191 
+            text = "cannot" 
+        intervals [8]:
+            xmin = 1.3191 
+            xmax = 1.4291 
+            text = "be" 
+        intervals [9]:
+            xmin = 1.4291 
+            xmax = 1.7391 
+            text = "found" 
+        intervals [10]:
+            xmin = 1.7391 
+            xmax = 3.2991 
+            text = "except" 
+        intervals [11]:
+            xmin = 3.2991 
+            xmax = 3.521321608262667 
+            text = "by" 
+        intervals [12]:
+            xmin = 3.521321608262667 
+            xmax = 3.8491 
+            text = "those" 
+        intervals [13]:
+            xmin = 3.8491 
+            xmax = 3.9391 
+            text = "who" 
+        intervals [14]:
+            xmin = 3.9391 
+            xmax = 4.3091 
+            text = "already" 
+        intervals [15]:
+            xmin = 4.3091 
+            xmax = 4.4891 
+            text = "know" 
+        intervals [16]:
+            xmin = 4.4891 
+            xmax = 4.6591 
+            text = "where" 
+        intervals [17]:
+            xmin = 4.6591 
+            xmax = 4.8715882738744725 
+            text = "it" 
+        intervals [18]:
+            xmin = 4.8715882738744725 
+            xmax = 5.9860747846597135 
+            text = "is" 
+        intervals [19]:
+            xmin = 5.9860747846597135 
+            xmax = 6.0674021786899885 
+            text = "the" 
+        intervals [20]:
+            xmin = 6.0674021786899885 
+            xmax = 6.193911458292638 
+            text = "ship" 
+        intervals [21]:
+            xmin = 6.193911458292638 
+            xmax = 6.2891 
+            text = "s" 
+        intervals [22]:
+            xmin = 6.2891 
+            xmax = 6.4391 
+            text = "real" 
+        intervals [23]:
+            xmin = 6.4391 
+            xmax = 8.0991 
+            text = "enough" 
+        intervals [24]:
+            xmin = 8.0991 
+            xmax = 8.3291 
+            text = "therefore" 
+        intervals [25]:
+            xmin = 8.3291 
+            xmax = 8.4491 
+            text = "its" 
+        intervals [26]:
+            xmin = 8.4491 
+            xmax = 8.8091 
+            text = "anchorage" 
+        intervals [27]:
+            xmin = 8.8091 
+            xmax = 9.0291 
+            text = "must" 
+        intervals [28]:
+            xmin = 9.0291 
+            xmax = 9.1391 
+            text = "be" 
+        intervals [29]:
+            xmin = 9.1391 
+            xmax = 9.1991 
+            text = "a" 
+        intervals [30]:
+            xmin = 9.1991 
+            xmax = 9.3791 
+            text = "real" 
+        intervals [31]:
+            xmin = 9.3791 
+            xmax = 9.8391 
+            text = "place" 
+        intervals [32]:
+            xmin = 9.8391 
+            xmax = 10.0391 
+            text = "where" 
+        intervals [33]:
+            xmin = 10.0391 
+            xmax = 10.133710637692316 
+            text = "is" 
+        intervals [34]:
+            xmin = 10.133710637692316 
+            xmax = 11.399402490753419 
+            text = "it" 
+        intervals [35]:
+            xmin = 11.399402490753419 
+            xmax = 11.5691 
+            text = "why" 
+        intervals [36]:
+            xmin = 11.5691 
+            xmax = 11.935560866212265 
+            text = "ask" 
+        intervals [37]:
+            xmin = 11.935560866212265 
+            xmax = 13.35616606053786 
+            text = "me" 
+        intervals [38]:
+            xmin = 13.35616606053786 
+            xmax = 13.554966357056308 
+            text = "because" 
+        intervals [39]:
+            xmin = 13.554966357056308 
+            xmax = 13.660390756725182 
+            text = "you" 
+        intervals [40]:
+            xmin = 13.660390756725182 
+            xmax = 13.732681773640982 
+            text = "re" 
+        intervals [41]:
+            xmin = 13.732681773640982 
+            xmax = 13.813267552888739 
+            text = "a" 
+        intervals [42]:
+            xmin = 13.813267552888739 
+            xmax = 14.831366041119582 
+            text = "pirate" 
+        intervals [43]:
+            xmin = 14.831366041119582 
+            xmax = 14.921729812264331 
+            text = "and" 
+        intervals [44]:
+            xmin = 14.921729812264331 
+            xmax = 15.0491 
+            text = "you" 
+        intervals [45]:
+            xmin = 15.0491 
+            xmax = 15.191702999871634 
+            text = "want" 
+        intervals [46]:
+            xmin = 15.191702999871634 
+            xmax = 15.294115273835683 
+            text = "to" 
+        intervals [47]:
+            xmin = 15.294115273835683 
+            xmax = 15.553158084450631 
+            text = "turn" 
+        intervals [48]:
+            xmin = 15.553158084450631 
+            xmax = 15.794068275418867 
+            text = "pirate" 
+        intervals [49]:
+            xmin = 15.794068275418867 
+            xmax = 16.1791 
+            text = "yourself" 
+        intervals [50]:
+            xmin = 16.1791 
+            xmax = 16.2691 
+            text = "is" 
+        intervals [51]:
+            xmin = 16.2691 
+            xmax = 16.45372380477554 
+            text = "that" 
+        intervals [52]:
+            xmin = 16.45372380477554 
+            xmax = 17.31240217664084 
+            text = "it" 
+        intervals [53]:
+            xmin = 17.31240217664084 
+            xmax = 17.8821 
+            text = "never" 
+        intervals [54]:
+            xmin = 17.8821 
+            xmax = 19.703 
+            text = "#" 
+        intervals [55]:
+            xmin = 19.703 
+            xmax = 20.17162706231776 
+            text = "they" 
+        intervals [56]:
+            xmin = 20.17162706231776 
+            xmax = 20.33270462241145 
+            text = "took" 
+        intervals [57]:
+            xmin = 20.33270462241145 
+            xmax = 20.453 
+            text = "miss" 
+        intervals [58]:
+            xmin = 20.453 
+            xmax = 21.06922056862872 
+            text = "swann" 
+        intervals [59]:
+            xmin = 21.06922056862872 
+            xmax = 21.213 
+            text = "so" 
+        intervals [60]:
+            xmin = 21.213 
+            xmax = 21.363 
+            text = "it" 
+        intervals [61]:
+            xmin = 21.363 
+            xmax = 21.533 
+            text = "is" 
+        intervals [62]:
+            xmin = 21.533 
+            xmax = 21.653 
+            text = "that" 
+        intervals [63]:
+            xmin = 21.653 
+            xmax = 21.750594190561177 
+            text = "you" 
+        intervals [64]:
+            xmin = 21.750594190561177 
+            xmax = 22.073 
+            text = "found" 
+        intervals [65]:
+            xmin = 22.073 
+            xmax = 22.177577564142858 
+            text = "a" 
+        intervals [66]:
+            xmin = 22.177577564142858 
+            xmax = 22.543 
+            text = "girl" 
+        intervals [67]:
+            xmin = 22.543 
+            xmax = 23.5957 
+            text = "#" 
+        intervals [68]:
+            xmin = 23.5957 
+            xmax = 23.7457 
+            text = "i" 
+        intervals [69]:
+            xmin = 23.7457 
+            xmax = 24.2655 
+            text = "see" 
+        intervals [70]:
+            xmin = 24.2655 
+            xmax = 25.0497 
+            text = "#" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "DialogueAct" 
+        xmin = 0 
+        xmax = 25.0497 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3691 
+            text = "" 
+        intervals [2]:
+            xmin = 0.3691 
+            xmax = 5.9860747846597135 
+            text = "Assert" 
+        intervals [3]:
+            xmin = 5.9860747846597135 
+            xmax = 9.8391 
+            text = "Re-Assert" 
+        intervals [4]:
+            xmin = 9.8391 
+            xmax = 11.399402490753419 
+            text = "Info-request" 
+        intervals [5]:
+            xmin = 11.399402490753419 
+            xmax = 13.35616606053786 
+            text = "Info-request" 
+        intervals [6]:
+            xmin = 13.35616606053786 
+            xmax = 14.831366041119582 
+            text = "Hold" 
+        intervals [7]:
+            xmin = 14.831366041119582 
+            xmax = 17.31240217664084 
+            text = "Info-request" 
+        intervals [8]:
+            xmin = 17.31240217664084 
+            xmax = 17.8821 
+            text = "Reject" 
+        intervals [9]:
+            xmin = 17.8821 
+            xmax = 19.703 
+            text = "" 
+        intervals [10]:
+            xmin = 19.703 
+            xmax = 21.06922056862872 
+            text = "Assert" 
+        intervals [11]:
+            xmin = 21.06922056862872 
+            xmax = 22.543 
+            text = "Re-Assert" 
+        intervals [12]:
+            xmin = 22.543 
+            xmax = 23.5957 
+            text = "" 
+        intervals [13]:
+            xmin = 23.5957 
+            xmax = 24.2655 
+            text = "Communication-management" 
+        intervals [14]:
+            xmin = 24.2655 
+            xmax = 25.0497 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 25.0497 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3691 
+            text = "" 
+        intervals [2]:
+            xmin = 0.3691 
+            xmax = 5.9860747846597135 
+            text = "Jack" 
+        intervals [3]:
+            xmin = 5.9860747846597135 
+            xmax = 11.399402490753419 
+            text = "Will" 
+        intervals [4]:
+            xmin = 11.399402490753419 
+            xmax = 13.35616606053786 
+            text = "Jack" 
+        intervals [5]:
+            xmin = 13.35616606053786 
+            xmax = 14.831366041119582 
+            text = "Will" 
+        intervals [6]:
+            xmin = 14.831366041119582 
+            xmax = 17.31240217664084 
+            text = "Jack" 
+        intervals [7]:
+            xmin = 17.31240217664084 
+            xmax = 17.8821 
+            text = "Will" 
+        intervals [8]:
+            xmin = 17.8821 
+            xmax = 19.703 
+            text = "" 
+        intervals [9]:
+            xmin = 19.703 
+            xmax = 21.06922056862872 
+            text = "Will" 
+        intervals [10]:
+            xmin = 21.06922056862872 
+            xmax = 22.543 
+            text = "Jack" 
+        intervals [11]:
+            xmin = 22.543 
+            xmax = 23.5957 
+            text = "" 
+        intervals [12]:
+            xmin = 23.5957 
+            xmax = 24.2655 
+            text = "Jackl" 
+        intervals [13]:
+            xmin = 24.2655 
+            xmax = 25.0497 
+            text = "" 
