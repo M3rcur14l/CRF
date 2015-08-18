@@ -13,7 +13,10 @@ public class Runner {
         Process tokenization = new ProcessBuilder("/Applications/Praat.app/Contents/MacOS/Praat",
                 "Dataset/tokenizer.praat").inheritIO().start();
 
-        Process tagging = new ProcessBuilder("python", "EnRDRPOSTagger.py",
+        Process featuresGeneration = new ProcessBuilder("/Applications/Praat.app/Contents/MacOS/Praat",
+                "Dataset/features_generator.praat").inheritIO().start();
+
+        Process posTagging = new ProcessBuilder("python", "EnRDRPOSTagger.py",
                 "tag", "../Models/English.RDR",
                 "../Dicts/English.DICT", "../../tokens.txt")
                 .directory(new File("Dataset/postagger/pSCRDRtagger")).inheritIO().start();
