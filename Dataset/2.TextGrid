@@ -817,7 +817,7 @@ item []:
         intervals [2]:
             xmin = 4.405 
             xmax = 5.5847 
-            text = "conventional form" 
+            text = "conventional-form" 
         intervals [3]:
             xmin = 5.5847 
             xmax = 6.6124 
@@ -825,7 +825,7 @@ item []:
         intervals [4]:
             xmin = 6.6124 
             xmax = 7.8773 
-            text = "conventional form" 
+            text = "conventional-form" 
         intervals [5]:
             xmin = 7.8773 
             xmax = 9.3789 
@@ -845,7 +845,7 @@ item []:
         intervals [9]:
             xmin = 12.623237649442668 
             xmax = 13.236492143293187 
-            text = "conventional form" 
+            text = "conventional-form" 
         intervals [10]:
             xmin = 13.236492143293187 
             xmax = 13.6726 
@@ -1025,7 +1025,7 @@ item []:
         intervals [54]:
             xmin = 67.0993 
             xmax = 70.16902184272146 
-            text = "reject part" 
+            text = "reject-part" 
         intervals [55]:
             xmin = 70.16902184272146 
             xmax = 71.6186 
@@ -1081,7 +1081,7 @@ item []:
         intervals [68]:
             xmin = 88.0086 
             xmax = 88.5734 
-            text = "communication management" 
+            text = "communication-management" 
         intervals [69]:
             xmin = 88.5734 
             xmax = 90.0002 
@@ -1089,7 +1089,7 @@ item []:
         intervals [70]:
             xmin = 90.0002 
             xmax = 90.6151 
-            text = "conventional form" 
+            text = "conventional-form" 
         intervals [71]:
             xmin = 90.6151 
             xmax = 92.0868 
@@ -1097,7 +1097,7 @@ item []:
         intervals [72]:
             xmin = 92.0868 
             xmax = 92.4916 
-            text = "conventional form" 
+            text = "conventional-form" 
         intervals [73]:
             xmin = 92.4916 
             xmax = 95.0835 

@@ -853,7 +853,7 @@ item []:
         intervals [2]:
             xmin = 0.2888685545693582 
             xmax = 1.8427201250137648 
-            text = "conventional form" 
+            text = "conventional-form" 
         intervals [3]:
             xmin = 1.8427201250137648 
             xmax = 2.2621746166009116 
@@ -861,7 +861,7 @@ item []:
         intervals [4]:
             xmin = 2.2621746166009116 
             xmax = 2.9107320736049824 
-            text = "conventional form" 
+            text = "conventional-form" 
         intervals [5]:
             xmin = 2.9107320736049824 
             xmax = 3.1017313290012916 

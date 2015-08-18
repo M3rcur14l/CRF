@@ -427,7 +427,7 @@ item []:
         intervals [104]:
             xmin = 35.94741124728693 
             xmax = 36.1455 
-            text = "back" 
+            text = "backnowledgement" 
         intervals [105]:
             xmin = 36.1455 
             xmax = 36.2355 
@@ -2283,7 +2283,7 @@ item []:
         intervals [568]:
             xmin = 185.8906 
             xmax = 186.4498 
-            text = "back" 
+            text = "backnowledgement" 
         intervals [569]:
             xmin = 186.4498 
             xmax = 187.71740000000003 
@@ -2295,7 +2295,7 @@ item []:
         intervals [571]:
             xmin = 187.8874 
             xmax = 188.55740000000003 
-            text = "sack" 
+            text = "sacknowledgement" 
         intervals [572]:
             xmin = 188.55740000000003 
             xmax = 189.16740000000001 
@@ -2327,7 +2327,7 @@ item []:
         intervals [579]:
             xmin = 191.4636 
             xmax = 191.92360000000002 
-            text = "back" 
+            text = "backnowledgement" 
         intervals [580]:
             xmin = 191.92360000000002 
             xmax = 192.47250000000003 
@@ -2343,7 +2343,7 @@ item []:
         intervals [583]:
             xmin = 193.0516 
             xmax = 193.4961 
-            text = "crack" 
+            text = "cracknowledgement" 
         intervals [584]:
             xmin = 193.4961 
             xmax = 194.01500000000001 
@@ -2363,7 +2363,7 @@ item []:
         intervals [588]:
             xmin = 195.07500000000002 
             xmax = 195.70360000000002 
-            text = "sack" 
+            text = "sacknowledgement" 
         intervals [589]:
             xmin = 195.70360000000002 
             xmax = 196.07780000000002 
@@ -2539,7 +2539,7 @@ item []:
         intervals [632]:
             xmin = 208.46200000000002 
             xmax = 208.972 
-            text = "sack" 
+            text = "sacknowledgement" 
         intervals [633]:
             xmin = 208.972 
             xmax = 209.072 
@@ -2547,7 +2547,7 @@ item []:
         intervals [634]:
             xmin = 209.072 
             xmax = 209.67200000000003 
-            text = "crack" 
+            text = "cracknowledgement" 
         intervals [635]:
             xmin = 209.67200000000003 
             xmax = 209.822 
@@ -2559,7 +2559,7 @@ item []:
         intervals [637]:
             xmin = 209.98200000000003 
             xmax = 210.71200000000002 
-            text = "back" 
+            text = "backnowledgement" 
         intervals [638]:
             xmin = 210.71200000000002 
             xmax = 210.80200000000002 
@@ -2587,7 +2587,7 @@ item []:
         intervals [644]:
             xmin = 211.382 
             xmax = 211.79200000000003 
-            text = "back" 
+            text = "backnowledgement" 
         intervals [645]:
             xmin = 211.79200000000003 
             xmax = 212.012 
@@ -2603,7 +2603,7 @@ item []:
         intervals [648]:
             xmin = 212.322 
             xmax = 212.7996 
-            text = "crack" 
+            text = "cracknowledgement" 
         intervals [649]:
             xmin = 212.7996 
             xmax = 213.12390000000002 
@@ -2733,11 +2733,11 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 3.449439879965635 
-            text = "TaskManagement" 
+            text = "task-managment" 
         intervals [2]:
             xmin = 3.449439879965635 
             xmax = 5.4696 
-            text = "Assert" 
+            text = "assert" 
         intervals [3]:
             xmin = 5.4696 
             xmax = 6.0034 
@@ -2745,7 +2745,7 @@ item []:
         intervals [4]:
             xmin = 6.0034 
             xmax = 6.7829 
-            text = "Reassert" 
+            text = "reassert" 
         intervals [5]:
             xmin = 6.7829 
             xmax = 7.2021 
@@ -2753,7 +2753,7 @@ item []:
         intervals [6]:
             xmin = 7.2021 
             xmax = 8.183393812243116 
-            text = "Assert" 
+            text = "assert" 
         intervals [7]:
             xmin = 8.183393812243116 
             xmax = 8.9646 
@@ -2761,7 +2761,7 @@ item []:
         intervals [8]:
             xmin = 8.9646 
             xmax = 9.9042 
-            text = "Assert" 
+            text = "assert" 
         intervals [9]:
             xmin = 9.9042 
             xmax = 12.244 
@@ -2769,7 +2769,7 @@ item []:
         intervals [10]:
             xmin = 12.244 
             xmax = 13.2234 
-            text = "Action-Directive" 
+            text = "action-directive" 
         intervals [11]:
             xmin = 13.2234 
             xmax = 14.0965 
@@ -2777,7 +2777,7 @@ item []:
         intervals [12]:
             xmin = 14.0965 
             xmax = 14.5914 
-            text = "Abandoned" 
+            text = "abandoned" 
         intervals [13]:
             xmin = 14.5914 
             xmax = 15.4795 
@@ -2785,7 +2785,7 @@ item []:
         intervals [14]:
             xmin = 15.4795 
             xmax = 16.860498504448525 
-            text = "Reassert+TaskManagement" 
+            text = "reassert" 
         intervals [15]:
             xmin = 16.860498504448525 
             xmax = 19.75995625057871 
@@ -2793,7 +2793,7 @@ item []:
         intervals [16]:
             xmin = 19.75995625057871 
             xmax = 20.3116 
-            text = "OtherForwardFunction" 
+            text = "other-forward-function" 
         intervals [17]:
             xmin = 20.3116 
             xmax = 21.31989484051767 
@@ -2801,11 +2801,11 @@ item []:
         intervals [18]:
             xmin = 21.31989484051767 
             xmax = 21.988887270801456 
-            text = "ConventionalForm" 
+            text = "conventional-form" 
         intervals [19]:
             xmin = 21.988887270801456 
             xmax = 22.4629 
-            text = "ConventionalForm+ack" 
+            text = "conventional-form" 
         intervals [20]:
             xmin = 22.4629 
             xmax = 22.99254411916907 
@@ -2813,7 +2813,7 @@ item []:
         intervals [21]:
             xmin = 22.99254411916907 
             xmax = 23.224564623007105 
-            text = "ConventionalForm+ack" 
+            text = "conventional-form" 
         intervals [22]:
             xmin = 23.224564623007105 
             xmax = 24.748165931543504 
@@ -2821,7 +2821,7 @@ item []:
         intervals [23]:
             xmin = 24.748165931543504 
             xmax = 25.9574 
-            text = "Assert" 
+            text = "assert" 
         intervals [24]:
             xmin = 25.9574 
             xmax = 27.12654428222504 
@@ -2829,7 +2829,7 @@ item []:
         intervals [25]:
             xmin = 27.12654428222504 
             xmax = 28.074729869136064 
-            text = "Info-Request" 
+            text = "info-request" 
         intervals [26]:
             xmin = 28.074729869136064 
             xmax = 28.6821 
@@ -2837,7 +2837,7 @@ item []:
         intervals [27]:
             xmin = 28.6821 
             xmax = 29.322605775969137 
-            text = "Assert" 
+            text = "assert" 
         intervals [28]:
             xmin = 29.322605775969137 
             xmax = 29.6856 
@@ -2845,7 +2845,7 @@ item []:
         intervals [29]:
             xmin = 29.6856 
             xmax = 30.8354 
-            text = "Hold+Info-Request" 
+            text = "hold" 
         intervals [30]:
             xmin = 30.8354 
             xmax = 31.3941 
@@ -2853,7 +2853,7 @@ item []:
         intervals [31]:
             xmin = 31.3941 
             xmax = 31.864 
-            text = "Answer" 
+            text = "answer" 
         intervals [32]:
             xmin = 31.864 
             xmax = 32.308 
@@ -2861,15 +2861,15 @@ item []:
         intervals [33]:
             xmin = 32.308 
             xmax = 34.65264649152002 
-            text = "Assert" 
+            text = "assert" 
         intervals [34]:
             xmin = 34.65264649152002 
             xmax = 34.96587417170136 
-            text = "Uninterpretable" 
+            text = "uninterpretable" 
         intervals [35]:
             xmin = 34.96587417170136 
             xmax = 36.39 
-            text = "Action-Directive" 
+            text = "action-directive" 
         intervals [36]:
             xmin = 36.39 
             xmax = 36.6046 
@@ -2877,7 +2877,7 @@ item []:
         intervals [37]:
             xmin = 36.6046 
             xmax = 37.2246 
-            text = "Abandoned" 
+            text = "abandoned" 
         intervals [38]:
             xmin = 37.2246 
             xmax = 37.5389 
@@ -2885,7 +2885,7 @@ item []:
         intervals [39]:
             xmin = 37.5389 
             xmax = 38.9734 
-            text = "Info-Request" 
+            text = "info-request" 
         intervals [40]:
             xmin = 38.9734 
             xmax = 39.5321 
@@ -2893,7 +2893,7 @@ item []:
         intervals [41]:
             xmin = 39.5321 
             xmax = 40.4666 
-            text = "Answer" 
+            text = "answer" 
         intervals [42]:
             xmin = 40.4666 
             xmax = 41.2249 
@@ -2901,7 +2901,7 @@ item []:
         intervals [43]:
             xmin = 41.2249 
             xmax = 41.6397 
-            text = "Ack" 
+            text = "acknowledgement" 
         intervals [44]:
             xmin = 41.6397 
             xmax = 42.4329 
@@ -2909,7 +2909,7 @@ item []:
         intervals [45]:
             xmin = 42.4329 
             xmax = 42.9224 
-            text = "Repeat-Rephrase" 
+            text = "repeat-rephrase" 
         intervals [46]:
             xmin = 42.9224 
             xmax = 43.1419 
@@ -2917,7 +2917,7 @@ item []:
         intervals [47]:
             xmin = 43.1419 
             xmax = 43.9413 
-            text = "Info-Request" 
+            text = "info-request" 
         intervals [48]:
             xmin = 43.9413 
             xmax = 46.1206 
@@ -2925,7 +2925,7 @@ item []:
         intervals [49]:
             xmin = 46.1206 
             xmax = 48.2443 
-            text = "Assert" 
+            text = "assert" 
         intervals [50]:
             xmin = 48.2443 
             xmax = 48.7532 
@@ -2933,19 +2933,19 @@ item []:
         intervals [51]:
             xmin = 48.7532 
             xmax = 49.363200000000006 
-            text = "Reassert+Abandoned" 
+            text = "reassert" 
         intervals [52]:
             xmin = 49.363200000000006 
             xmax = 51.8016 
-            text = "Action-Directive" 
+            text = "action-directive" 
         intervals [53]:
             xmin = 51.8016 
             xmax = 54.1516 
-            text = "TaskManagement" 
+            text = "task-managment" 
         intervals [54]:
             xmin = 54.1516 
             xmax = 55.2995 
-            text = "Reassert" 
+            text = "reassert" 
         intervals [55]:
             xmin = 55.2995 
             xmax = 55.6437 
@@ -2953,7 +2953,7 @@ item []:
         intervals [56]:
             xmin = 55.6437 
             xmax = 58.7867 
-            text = "Reassert+TaskManagement" 
+            text = "assert" 
         intervals [57]:
             xmin = 58.7867 
             xmax = 59.335082891511725 
@@ -2961,7 +2961,7 @@ item []:
         intervals [58]:
             xmin = 59.335082891511725 
             xmax = 59.87606480261398 
-            text = "CommunicationManagement" 
+            text = "communication-management" 
         intervals [59]:
             xmin = 59.87606480261398 
             xmax = 60.9823 
@@ -2969,7 +2969,7 @@ item []:
         intervals [60]:
             xmin = 60.9823 
             xmax = 64.65642288585644 
-            text = "Info-Request+TaskManagement" 
+            text = "info-request" 
         intervals [61]:
             xmin = 64.65642288585644 
             xmax = 65.46422837582651 
@@ -2977,7 +2977,7 @@ item []:
         intervals [62]:
             xmin = 65.46422837582651 
             xmax = 67.232 
-            text = "Answer+Assert" 
+            text = "answer" 
         intervals [63]:
             xmin = 67.232 
             xmax = 68.7485 
@@ -2985,7 +2985,7 @@ item []:
         intervals [64]:
             xmin = 68.7485 
             xmax = 69.548 
-            text = "Reassert" 
+            text = "reassert" 
         intervals [65]:
             xmin = 69.548 
             xmax = 70.6705 
@@ -2993,11 +2993,11 @@ item []:
         intervals [66]:
             xmin = 70.6705 
             xmax = 71.2005 
-            text = "CommunicationManagement" 
+            text = "communication-management" 
         intervals [67]:
             xmin = 71.2005 
             xmax = 72.6992 
-            text = "Assert" 
+            text = "assert" 
         intervals [68]:
             xmin = 72.6992 
             xmax = 73.3178 
@@ -3005,7 +3005,7 @@ item []:
         intervals [69]:
             xmin = 73.3178 
             xmax = 74.50280000000001 
-            text = "Abandoned" 
+            text = "abandoned" 
         intervals [70]:
             xmin = 74.50280000000001 
             xmax = 74.9119 
@@ -3013,7 +3013,7 @@ item []:
         intervals [71]:
             xmin = 74.9119 
             xmax = 76.2659 
-            text = "Assert" 
+            text = "assert" 
         intervals [72]:
             xmin = 76.2659 
             xmax = 76.9443 
@@ -3021,11 +3021,11 @@ item []:
         intervals [73]:
             xmin = 76.9443 
             xmax = 79.278 
-            text = "Assert" 
+            text = "assert" 
         intervals [74]:
             xmin = 79.278 
             xmax = 80.6118 
-            text = "Info-Request+Abandoned" 
+            text = "info-request" 
         intervals [75]:
             xmin = 80.6118 
             xmax = 81.1057 
@@ -3033,27 +3033,27 @@ item []:
         intervals [76]:
             xmin = 81.1057 
             xmax = 82.92877517002334 
-            text = "Info-Request" 
+            text = "info-request" 
         intervals [77]:
             xmin = 82.92877517002334 
             xmax = 83.5857 
-            text = "Answer" 
+            text = "answer" 
         intervals [78]:
             xmin = 83.5857 
             xmax = 85.0957 
-            text = "Reassert" 
+            text = "reassert" 
         intervals [79]:
             xmin = 85.0957 
             xmax = 85.3857 
-            text = "Ack" 
+            text = "acknowledgement" 
         intervals [80]:
             xmin = 85.3857 
             xmax = 86.04570000000001 
-            text = "Uninterpretable" 
+            text = "uninterpretable" 
         intervals [81]:
             xmin = 86.04570000000001 
             xmax = 87.7523 
-            text = "Assert" 
+            text = "assert" 
         intervals [82]:
             xmin = 87.7523 
             xmax = 88.7301 
@@ -3061,7 +3061,7 @@ item []:
         intervals [83]:
             xmin = 88.7301 
             xmax = 89.3147 
-            text = "Action-Directive" 
+            text = "action-directive" 
         intervals [84]:
             xmin = 89.3147 
             xmax = 90.07300000000001 
@@ -3069,7 +3069,7 @@ item []:
         intervals [85]:
             xmin = 90.07300000000001 
             xmax = 91.17760000000001 
-            text = "Reassert+Action-Directive" 
+            text = "reassert" 
         intervals [86]:
             xmin = 91.17760000000001 
             xmax = 91.5967 
@@ -3077,7 +3077,7 @@ item []:
         intervals [87]:
             xmin = 91.5967 
             xmax = 92.5813 
-            text = "Assert" 
+            text = "assert" 
         intervals [88]:
             xmin = 92.5813 
             xmax = 92.9655 
@@ -3085,7 +3085,7 @@ item []:
         intervals [89]:
             xmin = 92.9655 
             xmax = 93.6055 
-            text = "Info-Request" 
+            text = "info-request" 
         intervals [90]:
             xmin = 93.6055 
             xmax = 95.3116 
@@ -3093,7 +3093,7 @@ item []:
         intervals [91]:
             xmin = 95.3116 
             xmax = 96.4212 
-            text = "Answer+CommunicationManagement" 
+            text = "answer" 
         intervals [92]:
             xmin = 96.4212 
             xmax = 97.77140000000001 
@@ -3101,7 +3101,7 @@ item []:
         intervals [93]:
             xmin = 97.77140000000001 
             xmax = 99.78900920322563 
-            text = "Assert" 
+            text = "assert" 
         intervals [94]:
             xmin = 99.78900920322563 
             xmax = 100.43069162186639 
@@ -3109,7 +3109,7 @@ item []:
         intervals [95]:
             xmin = 100.43069162186639 
             xmax = 102.54525150347744 
-            text = "Assert" 
+            text = "assert" 
         intervals [96]:
             xmin = 102.54525150347744 
             xmax = 103.04790000000001 
@@ -3117,7 +3117,7 @@ item []:
         intervals [97]:
             xmin = 103.04790000000001 
             xmax = 103.7074 
-            text = "Action-Directive" 
+            text = "action-directive" 
         intervals [98]:
             xmin = 103.7074 
             xmax = 105.8478 
@@ -3125,7 +3125,7 @@ item []:
         intervals [99]:
             xmin = 105.8478 
             xmax = 106.6277 
-            text = "Assert" 
+            text = "assert" 
         intervals [100]:
             xmin = 106.6277 
             xmax = 106.9021 
@@ -3133,7 +3133,7 @@ item []:
         intervals [101]:
             xmin = 106.9021 
             xmax = 108.26160000000002 
-            text = "Assert" 
+            text = "assert" 
         intervals [102]:
             xmin = 108.26160000000002 
             xmax = 108.64580000000001 
@@ -3141,15 +3141,15 @@ item []:
         intervals [103]:
             xmin = 108.64580000000001 
             xmax = 109.61500311798797 
-            text = "Assert+Abandoned" 
+            text = "assert+abandoned" 
         intervals [104]:
             xmin = 109.61500311798797 
             xmax = 110.38105373248888 
-            text = "Uninterpretable" 
+            text = "uninterpretable" 
         intervals [105]:
             xmin = 110.38105373248888 
             xmax = 113.88150000000002 
-            text = "Action-Directive" 
+            text = "action-directive" 
         intervals [106]:
             xmin = 113.88150000000002 
             xmax = 114.43030000000002 
@@ -3157,7 +3157,7 @@ item []:
         intervals [107]:
             xmin = 114.43030000000002 
             xmax = 115.04490000000001 
-            text = "Reassert" 
+            text = "reassert" 
         intervals [108]:
             xmin = 115.04490000000001 
             xmax = 116.11260000000001 
@@ -3165,7 +3165,7 @@ item []:
         intervals [109]:
             xmin = 116.11260000000001 
             xmax = 116.69260000000001 
-            text = "Reassert" 
+            text = "reassert" 
         intervals [110]:
             xmin = 116.69260000000001 
             xmax = 118.1941 
@@ -3173,7 +3173,7 @@ item []:
         intervals [111]:
             xmin = 118.1941 
             xmax = 119.3739 
-            text = "Reassert" 
+            text = "reassert" 
         intervals [112]:
             xmin = 119.3739 
             xmax = 120.38319052077959 
@@ -3181,11 +3181,11 @@ item []:
         intervals [113]:
             xmin = 120.38319052077959 
             xmax = 120.85837285824772 
-            text = "Abandoned" 
+            text = "abandoned" 
         intervals [114]:
             xmin = 120.85837285824772 
             xmax = 121.8709 
-            text = "Completion" 
+            text = "completion" 
         intervals [115]:
             xmin = 121.8709 
             xmax = 122.67410000000001 
@@ -3193,7 +3193,7 @@ item []:
         intervals [116]:
             xmin = 122.67410000000001 
             xmax = 123.58350000000002 
-            text = "Repeat-Rephrase" 
+            text = "repeat-rephrase" 
         intervals [117]:
             xmin = 123.58350000000002 
             xmax = 124.5164 
@@ -3201,7 +3201,7 @@ item []:
         intervals [118]:
             xmin = 124.5164 
             xmax = 125.48140000000001 
-            text = "Action-Directive+Completion" 
+            text = "action-directive" 
         intervals [119]:
             xmin = 125.48140000000001 
             xmax = 126.23970000000001 
@@ -3209,7 +3209,7 @@ item []:
         intervals [120]:
             xmin = 126.23970000000001 
             xmax = 127.8987 
-            text = "Assert" 
+            text = "assert" 
         intervals [121]:
             xmin = 127.8987 
             xmax = 128.53730000000002 
@@ -3217,11 +3217,11 @@ item []:
         intervals [122]:
             xmin = 128.53730000000002 
             xmax = 131.3856 
-            text = "Ack+Assert" 
+            text = "acknowledgement" 
         intervals [123]:
             xmin = 131.3856 
             xmax = 132.2692 
-            text = "Abandoned" 
+            text = "abandoned" 
         intervals [124]:
             xmin = 132.2692 
             xmax = 133.1073 
@@ -3229,11 +3229,11 @@ item []:
         intervals [125]:
             xmin = 133.1073 
             xmax = 135.5712 
-            text = "Assert" 
+            text = "assert" 
         intervals [126]:
             xmin = 135.5712 
             xmax = 143.47920000000002 
-            text = "Assert" 
+            text = "assert" 
         intervals [127]:
             xmin = 143.47920000000002 
             xmax = 144.3822 
@@ -3241,7 +3241,7 @@ item []:
         intervals [128]:
             xmin = 144.3822 
             xmax = 144.9222 
-            text = "Abandoned" 
+            text = "abandoned" 
         intervals [129]:
             xmin = 144.9222 
             xmax = 145.5657 
@@ -3249,7 +3249,7 @@ item []:
         intervals [130]:
             xmin = 145.5657 
             xmax = 146.1457 
-            text = "Self-Talking" 
+            text = "self-Talking" 
         intervals [131]:
             xmin = 146.1457 
             xmax = 148.03650000000002 
@@ -3257,7 +3257,7 @@ item []:
         intervals [132]:
             xmin = 148.03650000000002 
             xmax = 148.9514 
-            text = "Self-Talking" 
+            text = "self-Talking" 
         intervals [133]:
             xmin = 148.9514 
             xmax = 149.5401 
@@ -3265,7 +3265,7 @@ item []:
         intervals [134]:
             xmin = 149.5401 
             xmax = 150.1901 
-            text = "Self-Talking" 
+            text = "self-Talking" 
         intervals [135]:
             xmin = 150.1901 
             xmax = 151.1379 
@@ -3273,7 +3273,7 @@ item []:
         intervals [136]:
             xmin = 151.1379 
             xmax = 151.5679 
-            text = "Abandoned" 
+            text = "abandoned" 
         intervals [137]:
             xmin = 151.5679 
             xmax = 152.10667296359276 
@@ -3281,7 +3281,7 @@ item []:
         intervals [138]:
             xmin = 152.10667296359276 
             xmax = 152.48186429395625 
-            text = "ExclamatoryForm" 
+            text = "exclamatory-form" 
         intervals [139]:
             xmin = 152.48186429395625 
             xmax = 153.5191 
@@ -3289,7 +3289,7 @@ item []:
         intervals [140]:
             xmin = 153.5191 
             xmax = 155.3377 
-            text = "Reassert" 
+            text = "reassert" 
         intervals [141]:
             xmin = 155.3377 
             xmax = 155.84120000000001 
@@ -3301,7 +3301,7 @@ item []:
         intervals [143]:
             xmin = 156.40490000000003 
             xmax = 157.33440000000002 
-            text = "TaskManagement+Performative" 
+            text = "task-managment" 
         intervals [144]:
             xmin = 157.33440000000002 
             xmax = 158.0079 
@@ -3309,7 +3309,7 @@ item []:
         intervals [145]:
             xmin = 158.0079 
             xmax = 158.32790000000003 
-            text = "ConventionalForm" 
+            text = "conventional-form" 
         intervals [146]:
             xmin = 158.32790000000003 
             xmax = 159.186 
@@ -3317,7 +3317,7 @@ item []:
         intervals [147]:
             xmin = 159.186 
             xmax = 161.42430000000002 
-            text = "Assert" 
+            text = "assert" 
         intervals [148]:
             xmin = 161.42430000000002 
             xmax = 162.37230000000002 
@@ -3325,11 +3325,11 @@ item []:
         intervals [149]:
             xmin = 162.37230000000002 
             xmax = 162.84230000000002 
-            text = "Ack" 
+            text = "acknowledgement" 
         intervals [150]:
             xmin = 162.84230000000002 
             xmax = 164.0113 
-            text = "Abandoned" 
+            text = "abandoned" 
         intervals [151]:
             xmin = 164.0113 
             xmax = 164.65990000000002 
@@ -3337,7 +3337,7 @@ item []:
         intervals [152]:
             xmin = 164.65990000000002 
             xmax = 165.14950000000002 
-            text = "Info-Request" 
+            text = "info-request" 
         intervals [153]:
             xmin = 165.14950000000002 
             xmax = 165.48951258915832 
@@ -3345,7 +3345,7 @@ item []:
         intervals [154]:
             xmin = 165.48951258915832 
             xmax = 165.78405533869835 
-            text = "Abandoned" 
+            text = "abandoned" 
         intervals [155]:
             xmin = 165.78405533869835 
             xmax = 166.92610000000002 
@@ -3353,7 +3353,7 @@ item []:
         intervals [156]:
             xmin = 166.92610000000002 
             xmax = 168.23000000000002 
-            text = "Assert" 
+            text = "assert" 
         intervals [157]:
             xmin = 168.23000000000002 
             xmax = 168.83870000000002 
@@ -3361,7 +3361,7 @@ item []:
         intervals [158]:
             xmin = 168.83870000000002 
             xmax = 169.13870000000003 
-            text = "Info-Request" 
+            text = "info-request" 
         intervals [159]:
             xmin = 169.13870000000003 
             xmax = 170.35100000000003 
@@ -3369,19 +3369,19 @@ item []:
         intervals [160]:
             xmin = 170.35100000000003 
             xmax = 171.14100000000002 
-            text = "Reject+Info-Request" 
+            text = "info-request" 
         intervals [161]:
             xmin = 171.14100000000002 
             xmax = 172.561 
-            text = "Reassert+Info-Request" 
+            text = "reassert" 
         intervals [162]:
             xmin = 172.561 
             xmax = 174.36100000000002 
-            text = "Reassert+Info-Request" 
+            text = "reassert" 
         intervals [163]:
             xmin = 174.36100000000002 
             xmax = 175.061 
-            text = "Abandoned" 
+            text = "abandoned" 
         intervals [164]:
             xmin = 175.061 
             xmax = 176.1184 
@@ -3393,11 +3393,11 @@ item []:
         intervals [166]:
             xmin = 176.76700000000002 
             xmax = 177.91700000000003 
-            text = "Answer+Assert" 
+            text = "answer" 
         intervals [167]:
             xmin = 177.91700000000003 
             xmax = 178.8408 
-            text = "Accept+Reassert" 
+            text = "reassert" 
         intervals [168]:
             xmin = 178.8408 
             xmax = 179.3048 
@@ -3405,7 +3405,7 @@ item []:
         intervals [169]:
             xmin = 179.3048 
             xmax = 180.1441 
-            text = "Info-Request" 
+            text = "info-request" 
         intervals [170]:
             xmin = 180.1441 
             xmax = 181.91510000000002 
@@ -3413,7 +3413,7 @@ item []:
         intervals [171]:
             xmin = 181.91510000000002 
             xmax = 182.3299 
-            text = "Accept" 
+            text = "accept" 
         intervals [172]:
             xmin = 182.3299 
             xmax = 182.78400000000002 
@@ -3421,7 +3421,7 @@ item []:
         intervals [173]:
             xmin = 182.78400000000002 
             xmax = 183.28400000000002 
-            text = "Info-Request" 
+            text = "info-request" 
         intervals [174]:
             xmin = 183.28400000000002 
             xmax = 184.06810000000002 
@@ -3429,7 +3429,7 @@ item []:
         intervals [175]:
             xmin = 184.06810000000002 
             xmax = 189.67110000000002 
-            text = "Answer+Action-Directive" 
+            text = "action-directive" 
         intervals [176]:
             xmin = 189.67110000000002 
             xmax = 190.76360000000003 
@@ -3437,7 +3437,7 @@ item []:
         intervals [177]:
             xmin = 190.76360000000003 
             xmax = 196.65720000000002 
-            text = "Reassert+Action-Directive" 
+            text = "action-directive" 
         intervals [178]:
             xmin = 196.65720000000002 
             xmax = 197.68828592507174 
@@ -3445,7 +3445,7 @@ item []:
         intervals [179]:
             xmin = 197.68828592507174 
             xmax = 197.93724467765915 
-            text = "Ack" 
+            text = "acknowledgement" 
         intervals [180]:
             xmin = 197.93724467765915 
             xmax = 198.28910000000002 
@@ -3453,15 +3453,15 @@ item []:
         intervals [181]:
             xmin = 198.28910000000002 
             xmax = 199.8991 
-            text = "Info-Request" 
+            text = "info-request" 
         intervals [182]:
             xmin = 199.8991 
             xmax = 200.2409897544186 
-            text = "Answer" 
+            text = "answer" 
         intervals [183]:
             xmin = 200.2409897544186 
             xmax = 201.2991 
-            text = "Action-Directive" 
+            text = "action-directive" 
         intervals [184]:
             xmin = 201.2991 
             xmax = 202.31910000000002 
@@ -3469,15 +3469,15 @@ item []:
         intervals [185]:
             xmin = 202.31910000000002 
             xmax = 202.8591 
-            text = "Info-Request" 
+            text = "info-request" 
         intervals [186]:
             xmin = 202.8591 
             xmax = 204.9291 
-            text = "Answer" 
+            text = "answer" 
         intervals [187]:
             xmin = 204.9291 
             xmax = 206.0789 
-            text = "Ack" 
+            text = "acknowledgement" 
         intervals [188]:
             xmin = 206.0789 
             xmax = 206.92200000000003 
@@ -3485,11 +3485,11 @@ item []:
         intervals [189]:
             xmin = 206.92200000000003 
             xmax = 210.71200000000002 
-            text = "Assert+TaskManagement" 
+            text = "task-managment" 
         intervals [190]:
             xmin = 210.71200000000002 
             xmax = 212.7996 
-            text = "Assert" 
+            text = "assert" 
         intervals [191]:
             xmin = 212.7996 
             xmax = 214.46630000000002 
@@ -3497,7 +3497,7 @@ item []:
         intervals [192]:
             xmin = 214.46630000000002 
             xmax = 215.2958 
-            text = "Ack+Abandoned" 
+            text = "aabandoned" 
         intervals [193]:
             xmin = 215.2958 
             xmax = 218.2024185467836 
@@ -3505,11 +3505,11 @@ item []:
         intervals [194]:
             xmin = 218.2024185467836 
             xmax = 220.11892198732068 
-            text = "Assert+ExclamatoryForm" 
+            text = "exclamatory-form" 
         intervals [195]:
             xmin = 220.11892198732068 
             xmax = 220.93943393246786 
-            text = "Assert+TaskManagement" 
+            text = "task-managment" 
         intervals [196]:
             xmin = 220.93943393246786 
             xmax = 221.20241853027144 
@@ -3517,19 +3517,19 @@ item []:
         intervals [197]:
             xmin = 221.20241853027144 
             xmax = 221.57552837160102 
-            text = "ExclamatoryForm" 
+            text = "exclamatory-form" 
         intervals [198]:
             xmin = 221.57552837160102 
             xmax = 222.1786397139535 
-            text = "Uninterpretable" 
+            text = "uninterpretable" 
         intervals [199]:
             xmin = 222.1786397139535 
             xmax = 224.01251890162507 
-            text = "Assert" 
+            text = "assert" 
         intervals [200]:
             xmin = 224.01251890162507 
             xmax = 224.27630000000002 
-            text = "Action-Directive" 
+            text = "action-directive" 
     item [3]:
         class = "IntervalTier" 
         name = "Speaker" 
