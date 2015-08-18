@@ -1,580 +1,580 @@
 
-	#
-info-request	what
-info-request	the
-info-request	#
-info-request	devil
-info-request	have
-info-request	i
-info-request	done
-info-request	with
-info-request	my
-info-request	slippers
-	#
-answer	here
-answer	are
-answer	your
-answer	slippers
-	#
-assert	this
-assert	<now>
-assert	<now>
-assert	and
-assert	this
-assert	<now>
-action-directive	take
-action-directive	your
-action-directive	slippers
-action-directive	and
-action-directive	may
-action-directive	you
-action-directive	never
-action-directive	have
-action-directive	a
-action-directive	day
-action-directive	s
-action-directive	luck
-action-directive	with
-action-directive	them
-	#
-abandoned	what
-abandoned	on
-	#
-uninterpretable	<now>
-	#
-info-request	what
-info-request	is
-info-request	the
-info-request	matter
-info-request	is
-info-request	anything
-info-request	wrong
-	#
-answer	no
-assert	nothing
-assert	is
-assert	wrong
-assert	with
-assert	you
-assert	I
-assert	won
-assert	your
-assert	bet
-assert	for
-assert	you
-info-request	have
-info-request	not
-info-request	I
-info-request	<now>
-assert	that
-assert	is
-assert	enough
-assert	for
-assert	you
-assert	<now>
-info-request	I
-info-request	do
-info-request	not
-info-request	matter
-info-request	I
-info-request	suppose
-	#
-repeat-rephrase	you
-repeat-rephrase	won
-repeat-rephrase	my
-repeat-rephrase	bet
-assert	you
-assert	presumptuous
-assert	insect
-assert	I
-assert	won
-assert	it
-info-request	why
-info-request	did
-info-request	you
-info-request	throw
-info-request	the
-info-request	slippers
-info-request	at
-info-request	me
-info-request	before
-	#
-answer	because
-answer	I
-answer	wanted
-answer	to
-answer	smash
-answer	your
-answer	face
-assert	I
-assert	could
-assert	kill
-assert	you
-assert	selfish
-assert	brute
-info-request	<now>
-info-request	why
-info-request	did
-info-request	not
-info-request	you
-info-request	leave
-info-request	me
-info-request	where
-info-request	you
-info-request	picked
-info-request	me
-info-request	out
-info-request	of
-info-request	in
-info-request	the
-info-request	gutter
-	#
-assert	you
-assert	thank
-assert	god
-assert	it
-assert	is
-assert	all
-assert	over
-assert	now
-assert	you
-assert	can
-assert	throw
-assert	me
-assert	back
-assert	again
-assert	there
-info-request	do
-info-request	you
-	#
-hold	<now>
-hold	so
-hold	the
-hold	creature
-hold	is
-hold	nervous
-hold	after
-hold	all
-	#
-uninterpretable	<now>
-	#
-uninterpretable	<now>
-	#
-uninterpretable	<now>
-	#
-action-directive	claws
-action-directive	in
-action-directive	you
-action-directive	cat
-info-request	how
-info-request	dare
-info-request	you
-info-request	show
-info-request	your
-info-request	temper
-info-request	to
-info-request	me
-	#
-action-directive	sit
-action-directive	down
-action-directive	and
-action-directive	be
-action-directive	quiet
-	#
-info-request	<now>
-info-request	what
-info-request	is
-info-request	to
-info-request	become
-info-request	of
-info-request	me
-repeat-rephrase	what
-repeat-rephrase	is
-repeat-rephrase	to
-repeat-rephrase	become
-repeat-rephrase	of
-repeat-rephrase	me
-	#
-repeat-rephrase	how
-repeat-rephrase	the
-repeat-rephrase	devil
-repeat-rephrase	do
-repeat-rephrase	I
-repeat-rephrase	know
-repeat-rephrase	what
-repeat-rephrase	is
-repeat-rephrase	to
-repeat-rephrase	become
-repeat-rephrase	of
-repeat-rephrase	you
-info-request	what
-info-request	does
-info-request	it
-info-request	matter
-info-request	what
-info-request	becomes
-info-request	of
-info-request	you
-	#
-assert	<now>
-assert	you
-assert	do
-assert	not
-assert	care
-repeat-rephrase	I
-repeat-rephrase	know
-repeat-rephrase	you
-repeat-rephrase	do
-repeat-rephrase	not
-repeat-rephrase	care
-	#
-assert	<now>
-assert	you
-assert	would
-assert	not
-assert	care
-assert	if
-assert	I
-assert	was
-assert	dead
-assert	I
-assert	am
-assert	nothing
-assert	to
-assert	you
-assert	not
-assert	as
-assert	much
-assert	as
-assert	them
-assert	slippers
-	#
-correct-misspeaking	those
-correct-misspeaking	slippers
-	#
-accept	those
-accept	slippers
-	#
-assert	I
-assert	did
-assert	not
-assert	think
-assert	it
-assert	meant
-assert	any
-assert	difference
-assert	now
-	#
-info-request	<now>
-info-request	why
-info-request	have
-info-request	you
-info-request	suddenly
-info-request	begun
-info-request	going
-info-request	on
-info-request	like
-info-request	this
-info-request	<now>
-	#
-info-request	may
-info-request	I
-info-request	ask
-info-request	if
-info-request	you
-info-request	complain
-info-request	of
-info-request	your
-info-request	treatment
-info-request	here
-	#
-answer	no
-	#
-info-request	has
-info-request	anybody
-info-request	behaved
-info-request	badly
-info-request	colonel
-info-request	pickering
-info-request	mrs
-info-request	pearce
-	#
-answer	no
-	#
-info-request	well
-info-request	you
-info-request	do
-info-request	not
-info-request	pretend
-info-request	that
-info-request	I
-info-request	have
-info-request	treated
-info-request	you
-info-request	badly
-	#
-answer	no
-	#
-repeat-rephrase	no
-assert	I
-assert	am
-assert	glad
-assert	to
-assert	hear
-assert	that
-	#
-assert	perhaps
-assert	you
-assert	are
-assert	tired
-assert	after
-assert	the
-assert	strain
-assert	of
-assert	the
-assert	day
-	#
-abandoned	would
-abandoned	you
-abandoned	have
-	#
-offer	would
-offer	you
-offer	have
-offer	a
-offer	chocolate
-	#
-reject	no
-	#
-conventional-form	thank
-conventional-form	you
-	#
-abandoned	well
-abandoned	it
-abandoned	is
-abandoned	only
-abandoned	natural
-abandoned	that
-assert	you
-assert	should
-assert	be
-assert	anguished
-assert	but
-assert	#
-assert	it
-assert	is
-assert	all
-assert	over
-assert	now
-	#
-action-directive	nothing
-action-directive	more
-action-directive	to
-action-directive	worry
-action-directive	about
-	#
-reject	no
-repeat-rephrase	nothing
-repeat-rephrase	more
-repeat-rephrase	for
-repeat-rephrase	you
-repeat-rephrase	to
-repeat-rephrase	worry
-repeat-rephrase	about
-	#
-esclamation	<now>
-esclamation	god
-assert	I
-assert	wish
-assert	I
-assert	was
-assert	dead
-	#
-info-request	why
-	#
-repeat-rephrase	in
-repeat-rephrase	heaven
-repeat-rephrase	s
-repeat-rephrase	name
-repeat-rephrase	why
-	#
-action-directive	now
-action-directive	listen
-action-directive	to
-action-directive	me
-action-directive	eliza
-assert	all
-assert	this
-assert	irritation
-assert	is
-assert	purely
-assert	subjective
-	#
-SNU	I
-SNU	do
-SNU	not
-SNU	understand
-assert	I
-assert	am
-assert	too
-assert	ignorant
-	#
-assert	it
-assert	is
-assert	just
-assert	imagination
-assert	nothing
-assert	is
-assert	wrong
-assert	nobody
-assert	is
-assert	hurting
-assert	you
-uninterpretable	<now>
-	#
-action-directive	and
-action-directive	you
-action-directive	go
-action-directive	to
-action-directive	bed
-action-directive	and
-action-directive	sleep
-action-directive	it
-action-directive	off
-action-directive	have
-action-directive	a
-action-directive	little
-action-directive	cry
-action-directive	and
-action-directive	say
-action-directive	your
-action-directive	prayers
-assert	and
-assert	you
-assert	ll
-assert	feel
-assert	very
-assert	much
-assert	more
-assert	comfortable
-	#
-assert	I
-assert	heard
-assert	your
-assert	prayers
-assert	#
-assert	thank
-assert	god
-assert	it
-assert	is
-assert	all
-assert	over
-	#
-repeat-rephrase	well
-repeat-rephrase	do
-repeat-rephrase	not
-repeat-rephrase	you
-repeat-rephrase	thank
-repeat-rephrase	god
-repeat-rephrase	it
-repeat-rephrase	s
-repeat-rephrase	all
-repeat-rephrase	over
-assert	now
-assert	you
-assert	are
-assert	free
-assert	and
-assert	you
-assert	can
-assert	do
-assert	what
-assert	you
-assert	like
-	#
-info-request	what
-info-request	am
-info-request	I
-info-request	fit
-info-request	for
-info-request	what
-info-request	have
-info-request	you
-info-request	left
-info-request	me
-info-request	fit
-info-request	for
-info-request	#
-info-request	<now>
-info-request	where
-info-request	am
-info-request	I
-info-request	to
-info-request	go
-info-request	what
-info-request	am
-info-request	I
-info-request	to
-info-request	do
-	#
-	and
-info-request	what
-info-request	is
-info-request	to
-info-request	become
-info-request	of
-info-request	me
-	#
-assert	<now>
-assert	that
-assert	is
-assert	what
-assert	is
-assert	worrying
-assert	you
-info-request	is
-info-request	it
-	#
-action-directive	<now>
-action-directive	I
-action-directive	would
-action-directive	not
-action-directive	worry
-action-directive	about
-action-directive	that
-action-directive	if
-action-directive	I
-action-directive	were
-action-directive	you
-assert	I
-assert	am
-assert	sure
-assert	you
-assert	will
-assert	not
-assert	have
-assert	any
-assert	difficulty
-assert	in
-assert	settling
-assert	yourself
-assert	somewhere
-assert	or
-assert	other
-	#
-assert	I
-assert	did
-assert	not
-assert	quite
-assert	realize
-assert	you
-assert	were
-assert	going
-assert	away
-	#
-uninterpretable	<now>
-action-directive	you
-action-directive	might
-action-directive	marry
-action-directive	you
-action-directive	know
+
+info-request	word=what	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=the	avgPitch=	dPitch=	intensity=	dIntensity=
+
+info-request	word=devil	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=have	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=i	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=done	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=with	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=my	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=slippers	avgPitch=	dPitch=	intensity=	dIntensity=
+
+answer	word=here	avgPitch=	dPitch=	intensity=	dIntensity=
+answer	word=are	avgPitch=	dPitch=	intensity=	dIntensity=
+answer	word=your	avgPitch=	dPitch=	intensity=	dIntensity=
+answer	word=slippers	avgPitch=	dPitch=	intensity=	dIntensity=
+
+assert	word=this	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=and	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=this	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=take	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=your	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=slippers	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=and	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=may	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=never	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=have	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=a	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=day	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=s	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=luck	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=with	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=them	avgPitch=	dPitch=	intensity=	dIntensity=
+
+abandoned	word=what	avgPitch=	dPitch=	intensity=	dIntensity=
+abandoned	word=on	avgPitch=	dPitch=	intensity=	dIntensity=
+
+uninterpretable	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+
+info-request	word=what	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=the	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=matter	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=anything	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=wrong	avgPitch=	dPitch=	intensity=	dIntensity=
+
+answer	word=no	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=nothing	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=wrong	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=with	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=won	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=your	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=bet	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=for	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=have	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=not	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=that	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=enough	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=for	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=do	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=not	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=matter	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=suppose	avgPitch=	dPitch=	intensity=	dIntensity=
+
+repeat-rephrase	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=won	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=my	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=bet	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=presumptuous	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=insect	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=won	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=it	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=why	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=did	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=throw	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=the	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=slippers	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=at	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=me	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=before	avgPitch=	dPitch=	intensity=	dIntensity=
+
+answer	word=because	avgPitch=	dPitch=	intensity=	dIntensity=
+answer	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+answer	word=wanted	avgPitch=	dPitch=	intensity=	dIntensity=
+answer	word=to	avgPitch=	dPitch=	intensity=	dIntensity=
+answer	word=smash	avgPitch=	dPitch=	intensity=	dIntensity=
+answer	word=your	avgPitch=	dPitch=	intensity=	dIntensity=
+answer	word=face	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=could	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=kill	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=selfish	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=brute	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=why	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=did	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=not	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=leave	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=me	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=where	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=picked	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=me	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=out	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=of	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=in	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=the	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=gutter	avgPitch=	dPitch=	intensity=	dIntensity=
+
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=thank	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=god	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=it	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=all	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=over	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=now	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=can	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=throw	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=me	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=back	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=again	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=there	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=do	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+
+hold	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+hold	word=so	avgPitch=	dPitch=	intensity=	dIntensity=
+hold	word=the	avgPitch=	dPitch=	intensity=	dIntensity=
+hold	word=creature	avgPitch=	dPitch=	intensity=	dIntensity=
+hold	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+hold	word=nervous	avgPitch=	dPitch=	intensity=	dIntensity=
+hold	word=after	avgPitch=	dPitch=	intensity=	dIntensity=
+hold	word=all	avgPitch=	dPitch=	intensity=	dIntensity=
+
+uninterpretable	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+
+uninterpretable	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+
+uninterpretable	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+
+action-directive	word=claws	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=in	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=cat	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=how	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=dare	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=show	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=your	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=temper	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=to	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=me	avgPitch=	dPitch=	intensity=	dIntensity=
+
+action-directive	word=sit	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=down	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=and	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=be	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=quiet	avgPitch=	dPitch=	intensity=	dIntensity=
+
+info-request	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=what	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=to	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=become	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=of	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=me	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=what	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=to	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=become	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=of	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=me	avgPitch=	dPitch=	intensity=	dIntensity=
+
+repeat-rephrase	word=how	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=the	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=devil	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=do	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=know	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=what	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=to	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=become	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=of	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=what	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=does	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=it	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=matter	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=what	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=becomes	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=of	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+
+assert	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=do	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=not	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=care	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=know	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=do	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=not	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=care	avgPitch=	dPitch=	intensity=	dIntensity=
+
+assert	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=would	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=not	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=care	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=if	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=was	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=dead	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=am	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=nothing	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=to	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=not	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=as	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=much	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=as	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=them	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=slippers	avgPitch=	dPitch=	intensity=	dIntensity=
+
+correct-misspeaking	word=those	avgPitch=	dPitch=	intensity=	dIntensity=
+correct-misspeaking	word=slippers	avgPitch=	dPitch=	intensity=	dIntensity=
+
+accept	word=those	avgPitch=	dPitch=	intensity=	dIntensity=
+accept	word=slippers	avgPitch=	dPitch=	intensity=	dIntensity=
+
+assert	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=did	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=not	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=think	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=it	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=meant	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=any	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=difference	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=now	avgPitch=	dPitch=	intensity=	dIntensity=
+
+info-request	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=why	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=have	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=suddenly	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=begun	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=going	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=on	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=like	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=this	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+
+info-request	word=may	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=ask	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=if	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=complain	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=of	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=your	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=treatment	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=here	avgPitch=	dPitch=	intensity=	dIntensity=
+
+answer	word=no	avgPitch=	dPitch=	intensity=	dIntensity=
+
+info-request	word=has	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=anybody	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=behaved	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=badly	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=colonel	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=pickering	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=mrs	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=pearce	avgPitch=	dPitch=	intensity=	dIntensity=
+
+answer	word=no	avgPitch=	dPitch=	intensity=	dIntensity=
+
+info-request	word=well	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=do	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=not	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=pretend	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=that	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=have	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=treated	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=badly	avgPitch=	dPitch=	intensity=	dIntensity=
+
+answer	word=no	avgPitch=	dPitch=	intensity=	dIntensity=
+
+repeat-rephrase	word=no	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=am	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=glad	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=to	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=hear	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=that	avgPitch=	dPitch=	intensity=	dIntensity=
+
+assert	word=perhaps	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=are	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=tired	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=after	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=the	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=strain	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=of	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=the	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=day	avgPitch=	dPitch=	intensity=	dIntensity=
+
+abandoned	word=would	avgPitch=	dPitch=	intensity=	dIntensity=
+abandoned	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+abandoned	word=have	avgPitch=	dPitch=	intensity=	dIntensity=
+
+offer	word=would	avgPitch=	dPitch=	intensity=	dIntensity=
+offer	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+offer	word=have	avgPitch=	dPitch=	intensity=	dIntensity=
+offer	word=a	avgPitch=	dPitch=	intensity=	dIntensity=
+offer	word=chocolate	avgPitch=	dPitch=	intensity=	dIntensity=
+
+reject	word=no	avgPitch=	dPitch=	intensity=	dIntensity=
+
+conventional-form	word=thank	avgPitch=	dPitch=	intensity=	dIntensity=
+conventional-form	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+
+abandoned	word=well	avgPitch=	dPitch=	intensity=	dIntensity=
+abandoned	word=it	avgPitch=	dPitch=	intensity=	dIntensity=
+abandoned	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+abandoned	word=only	avgPitch=	dPitch=	intensity=	dIntensity=
+abandoned	word=natural	avgPitch=	dPitch=	intensity=	dIntensity=
+abandoned	word=that	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=should	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=be	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=anguished	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=but	avgPitch=	dPitch=	intensity=	dIntensity=
+
+assert	word=it	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=all	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=over	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=now	avgPitch=	dPitch=	intensity=	dIntensity=
+
+action-directive	word=nothing	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=more	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=to	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=worry	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=about	avgPitch=	dPitch=	intensity=	dIntensity=
+
+reject	word=no	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=nothing	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=more	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=for	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=to	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=worry	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=about	avgPitch=	dPitch=	intensity=	dIntensity=
+
+esclamation	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+esclamation	word=god	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=wish	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=was	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=dead	avgPitch=	dPitch=	intensity=	dIntensity=
+
+info-request	word=why	avgPitch=	dPitch=	intensity=	dIntensity=
+
+repeat-rephrase	word=in	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=heaven	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=s	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=name	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=why	avgPitch=	dPitch=	intensity=	dIntensity=
+
+action-directive	word=now	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=listen	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=to	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=me	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=eliza	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=all	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=this	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=irritation	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=purely	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=subjective	avgPitch=	dPitch=	intensity=	dIntensity=
+
+SNU	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+SNU	word=do	avgPitch=	dPitch=	intensity=	dIntensity=
+SNU	word=not	avgPitch=	dPitch=	intensity=	dIntensity=
+SNU	word=understand	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=am	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=too	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=ignorant	avgPitch=	dPitch=	intensity=	dIntensity=
+
+assert	word=it	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=just	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=imagination	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=nothing	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=wrong	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=nobody	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=hurting	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+uninterpretable	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+
+action-directive	word=and	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=go	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=to	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=bed	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=and	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=sleep	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=it	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=off	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=have	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=a	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=little	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=cry	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=and	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=say	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=your	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=prayers	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=and	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=ll	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=feel	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=very	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=much	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=more	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=comfortable	avgPitch=	dPitch=	intensity=	dIntensity=
+
+assert	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=heard	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=your	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=prayers	avgPitch=	dPitch=	intensity=	dIntensity=
+
+assert	word=thank	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=god	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=it	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=all	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=over	avgPitch=	dPitch=	intensity=	dIntensity=
+
+repeat-rephrase	word=well	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=do	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=not	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=thank	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=god	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=it	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=s	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=all	avgPitch=	dPitch=	intensity=	dIntensity=
+repeat-rephrase	word=over	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=now	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=are	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=free	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=and	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=can	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=do	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=what	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=like	avgPitch=	dPitch=	intensity=	dIntensity=
+
+info-request	word=what	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=am	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=fit	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=for	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=what	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=have	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=left	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=me	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=fit	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=for	avgPitch=	dPitch=	intensity=	dIntensity=
+
+info-request	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=where	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=am	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=to	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=go	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=what	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=am	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=to	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=do	avgPitch=	dPitch=	intensity=	dIntensity=
+
+	word=and	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=what	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=to	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=become	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=of	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=me	avgPitch=	dPitch=	intensity=	dIntensity=
+
+assert	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=that	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=what	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=worrying	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=is	avgPitch=	dPitch=	intensity=	dIntensity=
+info-request	word=it	avgPitch=	dPitch=	intensity=	dIntensity=
+
+action-directive	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=would	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=not	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=worry	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=about	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=that	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=if	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=were	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=am	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=sure	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=will	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=not	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=have	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=any	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=difficulty	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=in	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=settling	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=yourself	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=somewhere	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=or	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=other	avgPitch=	dPitch=	intensity=	dIntensity=
+
+assert	word=I	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=did	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=not	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=quite	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=realize	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=were	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=going	avgPitch=	dPitch=	intensity=	dIntensity=
+assert	word=away	avgPitch=	dPitch=	intensity=	dIntensity=
+
+uninterpretable	word=<now>	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=might	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=marry	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=you	avgPitch=	dPitch=	intensity=	dIntensity=
+action-directive	word=know	avgPitch=	dPitch=	intensity=	dIntensity=
