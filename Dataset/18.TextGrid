@@ -1857,7 +1857,7 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 2.165 
-            text = "info- request" 
+            text = "info-request" 
         intervals [2]:
             xmin = 2.165 
             xmax = 2.409265429539101 
@@ -2049,7 +2049,7 @@ item []:
         intervals [49]:
             xmin = 90.8952061383817 
             xmax = 91.3585870712485 
-            text = "self talk" 
+            text = "self-talking" 
         intervals [50]:
             xmin = 91.3585870712485 
             xmax = 91.61089449983147 
@@ -2061,7 +2061,7 @@ item []:
         intervals [52]:
             xmin = 93.35779052129321 
             xmax = 96.86462866957784 
-            text = "open option" 
+            text = "open-option" 
         intervals [53]:
             xmin = 96.86462866957784 
             xmax = 100.17460500402295 
@@ -2081,7 +2081,7 @@ item []:
         intervals [57]:
             xmin = 104.8568721946653 
             xmax = 105.81183291210502 
-            text = "self talk" 
+            text = "self-talking" 
         intervals [58]:
             xmin = 105.81183291210502 
             xmax = 106.00690477060454 
@@ -2089,11 +2089,11 @@ item []:
         intervals [59]:
             xmin = 106.00690477060454 
             xmax = 106.99666997769023 
-            text = "self talk" 
+            text = "self-talking" 
         intervals [60]:
             xmin = 106.99666997769023 
             xmax = 111.34881210004203 
-            text = "open option" 
+            text = "open-option" 
         intervals [61]:
             xmin = 111.34881210004203 
             xmax = 111.61395448130688 

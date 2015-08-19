@@ -1489,7 +1489,7 @@ item []:
         intervals [26]:
             xmin = 73.10440238120542 
             xmax = 74.22229999999999 
-            text = "signal-understanding-repeat-rephrase" 
+            text = "repeat-rephrase" 
         intervals [27]:
             xmin = 74.22229999999999 
             xmax = 79.93339999999999 

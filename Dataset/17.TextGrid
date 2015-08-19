@@ -205,11 +205,11 @@ item []:
         intervals [2]:
             xmin = 2.4394 
             xmax = 12.665010945733593 
-            text = "Task" 
+            text = "task-management" 
         intervals [3]:
             xmin = 12.665010945733593 
             xmax = 13.989533831090212 
-            text = "Info-request" 
+            text = "info-request" 
         intervals [4]:
             xmin = 13.989533831090212 
             xmax = 16.308464515114267 
@@ -217,15 +217,15 @@ item []:
         intervals [5]:
             xmin = 16.308464515114267 
             xmax = 16.888705153685898 
-            text = "Accept" 
+            text = "accept" 
         intervals [6]:
             xmin = 16.888705153685898 
             xmax = 17.958087207943375 
-            text = "Understanding" 
+            text = "understanding" 
         intervals [7]:
             xmin = 17.958087207943375 
             xmax = 18.798 
-            text = "Action-directive" 
+            text = "action-directive" 
     item [3]:
         class = "IntervalTier" 
         name = "Speaker" 

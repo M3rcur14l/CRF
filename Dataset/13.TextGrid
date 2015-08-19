@@ -305,31 +305,31 @@ item []:
         intervals [2]:
             xmin = 0.3691 
             xmax = 5.9860747846597135 
-            text = "Assert" 
+            text = "assert" 
         intervals [3]:
             xmin = 5.9860747846597135 
             xmax = 9.8391 
-            text = "Re-Assert" 
+            text = "reassert" 
         intervals [4]:
             xmin = 9.8391 
             xmax = 11.399402490753419 
-            text = "Info-request" 
+            text = "info-request" 
         intervals [5]:
             xmin = 11.399402490753419 
             xmax = 13.35616606053786 
-            text = "Info-request" 
+            text = "info-request" 
         intervals [6]:
             xmin = 13.35616606053786 
             xmax = 14.831366041119582 
-            text = "Hold" 
+            text = "hold" 
         intervals [7]:
             xmin = 14.831366041119582 
             xmax = 17.31240217664084 
-            text = "Info-request" 
+            text = "info-request" 
         intervals [8]:
             xmin = 17.31240217664084 
             xmax = 17.8821 
-            text = "Reject" 
+            text = "reject" 
         intervals [9]:
             xmin = 17.8821 
             xmax = 19.703 
@@ -337,11 +337,11 @@ item []:
         intervals [10]:
             xmin = 19.703 
             xmax = 21.06922056862872 
-            text = "Assert" 
+            text = "assert" 
         intervals [11]:
             xmin = 21.06922056862872 
             xmax = 22.543 
-            text = "Re-Assert" 
+            text = "reassert" 
         intervals [12]:
             xmin = 22.543 
             xmax = 23.5957 
@@ -349,7 +349,7 @@ item []:
         intervals [13]:
             xmin = 23.5957 
             xmax = 24.2655 
-            text = "Communication-management" 
+            text = "communication-management" 
         intervals [14]:
             xmin = 24.2655 
             xmax = 25.0497 

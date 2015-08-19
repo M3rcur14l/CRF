@@ -1253,7 +1253,7 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 2.4095 
-            text = "communication management" 
+            text = "communication-management" 
         intervals [2]:
             xmin = 2.4095 
             xmax = 5.6122 
@@ -1477,7 +1477,7 @@ item []:
         intervals [57]:
             xmin = 186.4213 
             xmax = 188.1374 
-            text = "communication management" 
+            text = "communication-management" 
         intervals [58]:
             xmin = 188.1374 
             xmax = 190.4621 
@@ -1485,7 +1485,7 @@ item []:
         intervals [59]:
             xmin = 190.4621 
             xmax = 192.2829 
-            text = "communication management" 
+            text = "communication-management" 
         intervals [60]:
             xmin = 192.2829 
             xmax = 193.7843 

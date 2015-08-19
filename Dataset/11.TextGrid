@@ -1349,7 +1349,7 @@ item []:
         intervals [24]:
             xmin = 31.8197 
             xmax = 34.6097 
-            text = "info-request, hold" 
+            text = "info-request" 
         intervals [25]:
             xmin = 34.6097 
             xmax = 35.17498310784364 
@@ -1405,7 +1405,7 @@ item []:
         intervals [38]:
             xmin = 55.6744 
             xmax = 58.73166317693175 
-            text = "info-request, hold" 
+            text = "info-request" 
         intervals [39]:
             xmin = 58.73166317693175 
             xmax = 59.40360142514465 
@@ -1421,7 +1421,7 @@ item []:
         intervals [42]:
             xmin = 66.96577629988104 
             xmax = 68.25771554040635 
-            text = "info-request, hold" 
+            text = "info-request" 
         intervals [43]:
             xmin = 68.25771554040635 
             xmax = 69.26075379498504 
@@ -1505,7 +1505,7 @@ item []:
         intervals [63]:
             xmin = 104.8554 
             xmax = 106.39517824033872 
-            text = "info-request, hold" 
+            text = "info-request" 
         intervals [64]:
             xmin = 106.39517824033872 
             xmax = 107.35277139600447 
@@ -1521,7 +1521,7 @@ item []:
         intervals [67]:
             xmin = 113.3786 
             xmax = 114.9886 
-            text = "info-request, hold" 
+            text = "info-request" 
         intervals [68]:
             xmin = 114.9886 
             xmax = 115.3828 

@@ -337,11 +337,11 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 3.5868884216454937 
-            text = "Assert" 
+            text = "assert" 
         intervals [2]:
             xmin = 3.5868884216454937 
             xmax = 5.681633068134681 
-            text = "Assert" 
+            text = "assert" 
         intervals [3]:
             xmin = 5.681633068134681 
             xmax = 12.226394138614138 
@@ -349,27 +349,27 @@ item []:
         intervals [4]:
             xmin = 12.226394138614138 
             xmax = 18.39530626477552 
-            text = "Info Request" 
+            text = "info-request" 
         intervals [5]:
             xmin = 18.39530626477552 
             xmax = 19.700573788757595 
-            text = "Info Request" 
+            text = "info-request" 
         intervals [6]:
             xmin = 19.700573788757595 
             xmax = 21.276566500507627 
-            text = "Assert" 
+            text = "assert" 
         intervals [7]:
             xmin = 21.276566500507627 
             xmax = 24.351009196379835 
-            text = "Ack" 
+            text = "acknowledge" 
         intervals [8]:
             xmin = 24.351009196379835 
             xmax = 26.016717909439915 
-            text = "Info Request" 
+            text = "info-request" 
         intervals [9]:
             xmin = 26.016717909439915 
             xmax = 27.744053409691254 
-            text = "Answer" 
+            text = "answer" 
         intervals [10]:
             xmin = 27.744053409691254 
             xmax = 29.771545890207182 
@@ -377,11 +377,11 @@ item []:
         intervals [11]:
             xmin = 29.771545890207182 
             xmax = 32.457960210164146 
-            text = "Offer" 
+            text = "offer" 
         intervals [12]:
             xmin = 32.457960210164146 
             xmax = 36.5 
-            text = "Open Option" 
+            text = "open-option" 
     item [3]:
         class = "IntervalTier" 
         name = "Speaker" 

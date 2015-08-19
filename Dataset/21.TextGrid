@@ -473,27 +473,27 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 0.985 
-            text = "Conventional form" 
+            text = "conventional-form" 
         intervals [2]:
             xmin = 0.985 
             xmax = 2.125 
-            text = "Info request" 
+            text = "info-request" 
         intervals [3]:
             xmin = 2.125 
             xmax = 3.255 
-            text = "Info request" 
+            text = "info-request" 
         intervals [4]:
             xmin = 3.255 
             xmax = 4.885 
-            text = "conventional form" 
+            text = "conventional-form" 
         intervals [5]:
             xmin = 4.885 
             xmax = 5.8420756663326445 
-            text = "conventional form" 
+            text = "conventional-form" 
         intervals [6]:
             xmin = 5.8420756663326445 
             xmax = 8.605 
-            text = "info request" 
+            text = "info-request" 
         intervals [7]:
             xmin = 8.605 
             xmax = 9.365 
@@ -521,7 +521,7 @@ item []:
         intervals [13]:
             xmin = 23.475 
             xmax = 24.945 
-            text = "open option" 
+            text = "open-option" 
         intervals [14]:
             xmin = 24.945 
             xmax = 27.384416001358854 
@@ -529,11 +529,11 @@ item []:
         intervals [15]:
             xmin = 27.384416001358854 
             xmax = 28.455 
-            text = "accept, commit" 
+            text = "accept" 
         intervals [16]:
             xmin = 28.455 
             xmax = 33.465 
-            text = "assert,offer" 
+            text = "assert" 
         intervals [17]:
             xmin = 33.465 
             xmax = 41.7706 

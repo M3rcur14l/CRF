@@ -465,7 +465,7 @@ item []:
         intervals [2]:
             xmin = 0.878 
             xmax = 5.5150159327921315 
-            text = "Task management" 
+            text = "task-management" 
         intervals [3]:
             xmin = 5.5150159327921315 
             xmax = 6.524175540683777 
@@ -473,7 +473,7 @@ item []:
         intervals [4]:
             xmin = 6.524175540683777 
             xmax = 7.773374270615773 
-            text = "Task management" 
+            text = "task-management" 
         intervals [5]:
             xmin = 7.773374270615773 
             xmax = 8.7265 
@@ -481,19 +481,19 @@ item []:
         intervals [6]:
             xmin = 8.7265 
             xmax = 11.281392754949442 
-            text = "Assert" 
+            text = "assert" 
         intervals [7]:
             xmin = 11.281392754949442 
             xmax = 12.68125604777447 
-            text = "Open-option" 
+            text = "open-option" 
         intervals [8]:
             xmin = 12.68125604777447 
             xmax = 14.6765 
-            text = "Info-request" 
+            text = "info-request" 
         intervals [9]:
             xmin = 14.6765 
             xmax = 22.155 
-            text = "Task-management" 
+            text = "task-management" 
         intervals [10]:
             xmin = 22.155 
             xmax = 24.62309194408307 
@@ -501,7 +501,7 @@ item []:
         intervals [11]:
             xmin = 24.62309194408307 
             xmax = 25.2094 
-            text = "Info-request" 
+            text = "info-request" 
         intervals [12]:
             xmin = 25.2094 
             xmax = 26.6711 
@@ -509,7 +509,7 @@ item []:
         intervals [13]:
             xmin = 26.6711 
             xmax = 27.1811 
-            text = "Answer" 
+            text = "answer" 
         intervals [14]:
             xmin = 27.1811 
             xmax = 28.8423 
@@ -517,7 +517,7 @@ item []:
         intervals [15]:
             xmin = 28.8423 
             xmax = 32.41878571766913 
-            text = "ReAssert" 
+            text = "reassert" 
         intervals [16]:
             xmin = 32.41878571766913 
             xmax = 34.261511322815394 
@@ -525,7 +525,7 @@ item []:
         intervals [17]:
             xmin = 34.261511322815394 
             xmax = 35.90679074430191 
-            text = "Info-request" 
+            text = "info-request" 
         intervals [18]:
             xmin = 35.90679074430191 
             xmax = 38.3425511348751 
@@ -533,7 +533,7 @@ item []:
         intervals [19]:
             xmin = 38.3425511348751 
             xmax = 38.908062403352176 
-            text = "Answer" 
+            text = "answer" 
         intervals [20]:
             xmin = 38.908062403352176 
             xmax = 40.0106 

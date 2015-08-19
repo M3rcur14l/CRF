@@ -509,7 +509,7 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 2.6233956267272354 
-            text = "Assert" 
+            text = "assert" 
         intervals [2]:
             xmin = 2.6233956267272354 
             xmax = 3.531559495715764 
@@ -517,7 +517,7 @@ item []:
         intervals [3]:
             xmin = 3.531559495715764 
             xmax = 5.965854021771562 
-            text = "Assert" 
+            text = "assert" 
         intervals [4]:
             xmin = 5.965854021771562 
             xmax = 7.522019657910254 
@@ -525,7 +525,7 @@ item []:
         intervals [5]:
             xmin = 7.522019657910254 
             xmax = 9.204703825249034 
-            text = "Assert" 
+            text = "assert" 
         intervals [6]:
             xmin = 9.204703825249034 
             xmax = 11.816679473214737 
@@ -533,7 +533,7 @@ item []:
         intervals [7]:
             xmin = 11.816679473214737 
             xmax = 13.593141389938046 
-            text = "Assert" 
+            text = "assert" 
         intervals [8]:
             xmin = 13.593141389938046 
             xmax = 15.497874371226912 
@@ -541,7 +541,7 @@ item []:
         intervals [9]:
             xmin = 15.497874371226912 
             xmax = 18.431938982013182 
-            text = "Assert" 
+            text = "assert" 
         intervals [10]:
             xmin = 18.431938982013182 
             xmax = 19.09899732107672 
@@ -549,7 +549,7 @@ item []:
         intervals [11]:
             xmin = 19.09899732107672 
             xmax = 21.354377768291638 
-            text = "Assert" 
+            text = "assert" 
         intervals [12]:
             xmin = 21.354377768291638 
             xmax = 21.941067630483015 
@@ -557,7 +557,7 @@ item []:
         intervals [13]:
             xmin = 21.941067630483015 
             xmax = 22.92931320969205 
-            text = "Assert" 
+            text = "assert" 
         intervals [14]:
             xmin = 22.92931320969205 
             xmax = 24.239030430143053 
@@ -565,7 +565,7 @@ item []:
         intervals [15]:
             xmin = 24.239030430143053 
             xmax = 24.646652046235843 
-            text = "Repeat-rephrase" 
+            text = "repeat-rephrase" 
         intervals [16]:
             xmin = 24.646652046235843 
             xmax = 25.530278705496848 
@@ -573,7 +573,7 @@ item []:
         intervals [17]:
             xmin = 25.530278705496848 
             xmax = 28.087642938975367 
-            text = "Assert" 
+            text = "assert" 
         intervals [18]:
             xmin = 28.087642938975367 
             xmax = 32.63680610785063 
@@ -589,7 +589,7 @@ item []:
         intervals [21]:
             xmin = 34.92519011174474 
             xmax = 38.815081558304065 
-            text = "Assert, Answer" 
+            text = "assert" 
         intervals [22]:
             xmin = 38.815081558304065 
             xmax = 39.43155134622832 
@@ -605,7 +605,7 @@ item []:
         intervals [25]:
             xmin = 43.30531141370316 
             xmax = 44.20543823436121 
-            text = "Open option" 
+            text = "open-option" 
         intervals [26]:
             xmin = 44.20543823436121 
             xmax = 45.80517857375947 
@@ -613,7 +613,7 @@ item []:
         intervals [27]:
             xmin = 45.80517857375947 
             xmax = 49.53614970041185 
-            text = "Assert - Answer -reject" 
+            text = "assert" 
         intervals [28]:
             xmin = 49.53614970041185 
             xmax = 50.33996180928326 
@@ -633,7 +633,7 @@ item []:
         intervals [32]:
             xmin = 53.37894000176994 
             xmax = 53.9690589926495 
-            text = "Answer" 
+            text = "answer" 
         intervals [33]:
             xmin = 53.9690589926495 
             xmax = 54.6079882958947 
@@ -649,7 +649,7 @@ item []:
         intervals [36]:
             xmin = 55.895620617527726 
             xmax = 56.330511233608526 
-            text = "Answer" 
+            text = "answer" 
         intervals [37]:
             xmin = 56.330511233608526 
             xmax = 57.07793796570668 
@@ -657,7 +657,7 @@ item []:
         intervals [38]:
             xmin = 57.07793796570668 
             xmax = 57.91377001020354 
-            text = "Accept" 
+            text = "accept" 
         intervals [39]:
             xmin = 57.91377001020354 
             xmax = 58.3053 

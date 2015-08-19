@@ -3341,7 +3341,7 @@ item []:
         intervals [111]:
             xmin = 181.75734662970572 
             xmax = 184.18683031297525 
-            text = "Info-request" 
+            text = "info-request" 
         intervals [112]:
             xmin = 184.18683031297525 
             xmax = 185.2053481420914 
