@@ -1,5 +1,4 @@
 
-
 info-request	word=what	avgPitch=--undefined--	deltaPitch=--undefined--	avgIntensity=-2.46	deltaIntensity=-0.54
 info-request	word=the	avgPitch=--undefined--	deltaPitch=--undefined--	avgIntensity=-2.43	deltaIntensity=453.50
 

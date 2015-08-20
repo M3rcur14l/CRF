@@ -17,7 +17,7 @@ import java.util.Scanner;
 public class PosMerger {
 
     final static String POS_TAGGED_PATH = "Dataset/features.txt";
-    final static String FEATURES_PATH = "Dataset/tokens.txt.TAGGED";
+    final static String FEATURES_PATH = "Dataset/tokens-tagged.txt";
     final static Charset ENCODING = StandardCharsets.UTF_8;
 
 

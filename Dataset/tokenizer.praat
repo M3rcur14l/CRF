@@ -1,6 +1,6 @@
 strings = Create Strings as file list: "gridlist", "*.TextGrid"
 numberOfFiles = Get number of strings
-writeFileLine: "tokens.txt", ""
+writeFile: "tokens.txt", ""
 
 for j to 10
 
