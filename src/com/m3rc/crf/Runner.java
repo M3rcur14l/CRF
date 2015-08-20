@@ -8,18 +8,23 @@ import java.io.IOException;
  */
 public class Runner {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, InterruptedException {
 
         Process tokenization = new ProcessBuilder("/Applications/Praat.app/Contents/MacOS/Praat",
                 "Dataset/tokenizer.praat").inheritIO().start();
+        System.out.println("Tokenizing...");
 
         Process featuresGeneration = new ProcessBuilder("/Applications/Praat.app/Contents/MacOS/Praat",
                 "Dataset/features_generator.praat").inheritIO().start();
+        System.out.println("Generating features...");
+        featuresGeneration.waitFor();
 
         Process posTagging = new ProcessBuilder("python", "EnRDRPOSTagger.py",
                 "tag", "../Models/English.RDR",
                 "../Dicts/English.DICT", "../../tokens.txt")
                 .directory(new File("Dataset/postagger/pSCRDRtagger")).inheritIO().start();
+        System.out.println("Generating postag...");
+
 
     }
 

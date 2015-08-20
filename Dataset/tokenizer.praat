@@ -1,8 +1,8 @@
 strings = Create Strings as file list: "gridlist", "*.TextGrid"
-n = Get number of strings
+numberOfFiles = Get number of strings
 writeFileLine: "tokens.txt", ""
 
-for j to 1
+for j to numberOfFiles
 
 	select Strings gridlist
 
