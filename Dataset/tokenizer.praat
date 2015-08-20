@@ -2,7 +2,7 @@ strings = Create Strings as file list: "gridlist", "*.TextGrid"
 numberOfFiles = Get number of strings
 writeFileLine: "tokens.txt", ""
 
-for j to numberOfFiles
+for j to 10
 
 	select Strings gridlist
 
@@ -13,11 +13,18 @@ for j to numberOfFiles
 	select TextGrid myTextGrid
 	int = Get number of intervals: 1
 
+	j$ = string$(j)
+
 	for i to int
 		select TextGrid myTextGrid
-		label$ = Get label of interval: 1, i
-	
-		appendFileLine: "tokens.txt", label$
-	
+		word$ = Get label of interval: 1, i
+
+		if word$ = "#"
+        	appendFileLine: "tokens.txt", ""
+        else
+        	appendFile: "tokens.txt", word$ + " "
+        endif
+
 	endfor
+
 endfor
