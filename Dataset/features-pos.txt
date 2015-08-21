@@ -1284,3 +1284,676 @@
 
 03.wav	conventional-closing	word=bye	avgPitch=127.50	deltaPitch=--undefined--	avgIntensity=79.17	deltaIntensity=-84.85	pos=NN
 
+04.wav	task-managment	word=so	avgPitch=169.13	deltaPitch=--undefined--	avgIntensity=77.09	deltaIntensity=-3.41	pos=RB
+
+04.wav	task-managment	word=that	avgPitch=181.96	deltaPitch=--undefined--	avgIntensity=72.25	deltaIntensity=171.01	pos=IN
+04.wav	task-managment	word=s	avgPitch=160.38	deltaPitch=-511.52	avgIntensity=63.39	deltaIntensity=-146.56	pos=VBZ
+04.wav	task-managment	word=the	avgPitch=161.50	deltaPitch=-174.76	avgIntensity=66.39	deltaIntensity=35.20	pos=DT
+04.wav	task-managment	word=basics	avgPitch=138.77	deltaPitch=71.17	avgIntensity=67.75	deltaIntensity=-0.63	pos=NNS
+04.wav	task-managment	word=<now>	avgPitch=214.62	deltaPitch=-10.37	avgIntensity=65.92	deltaIntensity=0.84	pos=VBP
+04.wav	assert	word=in	avgPitch=130.55	deltaPitch=-393.85	avgIntensity=68.41	deltaIntensity=18.32	pos=IN
+04.wav	assert	word=england	avgPitch=139.99	deltaPitch=--undefined--	avgIntensity=69.40	deltaIntensity=-53.92	pos=NN
+
+04.wav	assert	word=we	avgPitch=152.70	deltaPitch=--undefined--	avgIntensity=67.34	deltaIntensity=236.55	pos=PRP
+04.wav	assert	word=like	avgPitch=150.52	deltaPitch=-96.56	avgIntensity=74.13	deltaIntensity=9.40	pos=VBP
+04.wav	assert	word=to	avgPitch=134.59	deltaPitch=-109.65	avgIntensity=69.11	deltaIntensity=-38.57	pos=TO
+04.wav	assert	word=drink	avgPitch=135.26	deltaPitch=-80.67	avgIntensity=68.76	deltaIntensity=4.93	pos=VB
+04.wav	assert	word=tea	avgPitch=107.45	deltaPitch=-4.52	avgIntensity=70.77	deltaIntensity=-92.81	pos=NN
+
+04.wav	reassert	word=we	avgPitch=179.61	deltaPitch=234.25	avgIntensity=71.60	deltaIntensity=226.82	pos=PRP
+04.wav	reassert	word=drink	avgPitch=165.25	deltaPitch=-214.54	avgIntensity=67.02	deltaIntensity=-9.61	pos=VBP
+04.wav	reassert	word=tea	avgPitch=114.12	deltaPitch=-213.64	avgIntensity=68.67	deltaIntensity=-75.16	pos=NN
+
+04.wav	assert	word=we	avgPitch=120.68	deltaPitch=560.36	avgIntensity=72.40	deltaIntensity=472.18	pos=PRP
+04.wav	assert	word=also	avgPitch=126.34	deltaPitch=97.49	avgIntensity=69.83	deltaIntensity=-24.10	pos=RB
+04.wav	assert	word=drink	avgPitch=144.34	deltaPitch=-10.33	avgIntensity=66.55	deltaIntensity=-18.47	pos=VBP
+04.wav	assert	word=coffee	avgPitch=123.58	deltaPitch=-4.64	avgIntensity=64.89	deltaIntensity=-84.66	pos=NN
+
+04.wav	assert	word=we	avgPitch=150.91	deltaPitch=72.98	avgIntensity=73.96	deltaIntensity=682.62	pos=PRP
+04.wav	assert	word=also	avgPitch=146.81	deltaPitch=12.78	avgIntensity=72.69	deltaIntensity=-22.58	pos=RB
+04.wav	assert	word=drink	avgPitch=153.92	deltaPitch=-16.31	avgIntensity=68.65	deltaIntensity=-4.62	pos=VBP
+04.wav	assert	word=beer	avgPitch=142.17	deltaPitch=-139.03	avgIntensity=71.37	deltaIntensity=-110.46	pos=NN
+
+04.wav	action-directive	word=let	avgPitch=199.62	deltaPitch=--undefined--	avgIntensity=70.81	deltaIntensity=208.40	pos=VB
+04.wav	action-directive	word=s	avgPitch=--undefined--	deltaPitch=-590.38	avgIntensity=66.44	deltaIntensity=21.14	pos=PRP
+04.wav	action-directive	word=go	avgPitch=152.39	deltaPitch=--undefined--	avgIntensity=72.50	deltaIntensity=15.90	pos=VB
+04.wav	action-directive	word=shopping	avgPitch=167.85	deltaPitch=-117.75	avgIntensity=69.30	deltaIntensity=-68.70	pos=NN
+
+04.wav	abandoned	word=so	avgPitch=124.45	deltaPitch=157.88	avgIntensity=72.17	deltaIntensity=177.69	pos=RB
+04.wav	abandoned	word=<now>	avgPitch=123.61	deltaPitch=-16.55	avgIntensity=74.54	deltaIntensity=-129.39	pos=IN
+
+04.wav	reassert	word=i	avgPitch=125.27	deltaPitch=42.14	avgIntensity=70.79	deltaIntensity=185.75	pos=FW
+04.wav	reassert	word=ll	avgPitch=127.91	deltaPitch=-33.86	avgIntensity=71.89	deltaIntensity=-26.48	pos=FW
+04.wav	reassert	word=just	avgPitch=123.24	deltaPitch=6.60	avgIntensity=69.20	deltaIntensity=-53.96	pos=RB
+04.wav	reassert	word=come	avgPitch=128.83	deltaPitch=-21.30	avgIntensity=64.34	deltaIntensity=-42.44	pos=VBN
+04.wav	reassert	word=into	avgPitch=120.68	deltaPitch=-74.28	avgIntensity=64.10	deltaIntensity=14.26	pos=IN
+04.wav	reassert	word=the	avgPitch=113.82	deltaPitch=-126.11	avgIntensity=67.22	deltaIntensity=-18.13	pos=DT
+04.wav	reassert	word=shop	avgPitch=108.01	deltaPitch=-47.88	avgIntensity=62.28	deltaIntensity=-45.46	pos=NN
+04.wav	reassert	word=ok	avgPitch=100.86	deltaPitch=--undefined--	avgIntensity=54.91	deltaIntensity=-90.26	pos=NN
+
+04.wav	other-forward-function	word=<now>	avgPitch=219.09	deltaPitch=--undefined--	avgIntensity=72.78	deltaIntensity=2.19	pos=NN
+
+04.wav	conventional-form	word=afternoon	avgPitch=150.32	deltaPitch=-46.44	avgIntensity=54.10	deltaIntensity=43.27	pos=NN
+04.wav	conventional-form	word=hello	avgPitch=163.62	deltaPitch=46.04	avgIntensity=65.56	deltaIntensity=-28.89	pos=UH
+
+04.wav	conventional-form	word=hi	avgPitch=137.06	deltaPitch=-52.34	avgIntensity=63.21	deltaIntensity=-24.52	pos=UH
+
+04.wav	assert	word=i	avgPitch=190.90	deltaPitch=6.89	avgIntensity=73.71	deltaIntensity=260.14	pos=LS
+04.wav	assert	word=want	avgPitch=161.05	deltaPitch=-94.26	avgIntensity=74.20	deltaIntensity=-19.79	pos=VBP
+04.wav	assert	word=a	avgPitch=160.68	deltaPitch=-93.87	avgIntensity=67.37	deltaIntensity=-61.35	pos=DT
+04.wav	assert	word=fish	avgPitch=148.53	deltaPitch=--undefined--	avgIntensity=66.01	deltaIntensity=-46.30	pos=NN
+
+04.wav	info-request	word=what	avgPitch=147.63	deltaPitch=--undefined--	avgIntensity=58.58	deltaIntensity=134.28	pos=WDT
+04.wav	info-request	word=sort	avgPitch=155.41	deltaPitch=72.49	avgIntensity=60.46	deltaIntensity=34.16	pos=NN
+04.wav	info-request	word=of	avgPitch=165.85	deltaPitch=18.25	avgIntensity=67.17	deltaIntensity=18.60	pos=IN
+04.wav	info-request	word=fish	avgPitch=156.65	deltaPitch=-156.19	avgIntensity=61.72	deltaIntensity=2.43	pos=NN
+04.wav	info-request	word=do	avgPitch=138.07	deltaPitch=-425.78	avgIntensity=67.60	deltaIntensity=118.83	pos=VBP
+04.wav	info-request	word=you	avgPitch=128.66	deltaPitch=-214.08	avgIntensity=69.53	deltaIntensity=-34.25	pos=PRP
+04.wav	info-request	word=want	avgPitch=123.99	deltaPitch=26.39	avgIntensity=65.35	deltaIntensity=-198.59	pos=VB
+
+04.wav	assert	word=we	avgPitch=137.03	deltaPitch=72.87	avgIntensity=66.85	deltaIntensity=264.05	pos=PRP
+04.wav	assert	word=ve	avgPitch=139.45	deltaPitch=107.17	avgIntensity=61.42	deltaIntensity=64.09	pos=VBP
+04.wav	assert	word=got	avgPitch=143.46	deltaPitch=-29.00	avgIntensity=70.70	deltaIntensity=32.87	pos=VBD
+04.wav	assert	word=loads	avgPitch=135.68	deltaPitch=23.81	avgIntensity=65.70	deltaIntensity=-87.80	pos=NNS
+
+04.wav	hold	word=what	avgPitch=168.20	deltaPitch=212.07	avgIntensity=73.36	deltaIntensity=284.01	pos=WDT
+04.wav	hold	word=sort	avgPitch=179.61	deltaPitch=8.38	avgIntensity=75.97	deltaIntensity=4.15	pos=NN
+04.wav	hold	word=of	avgPitch=170.13	deltaPitch=148.44	avgIntensity=74.32	deltaIntensity=-102.05	pos=IN
+04.wav	hold	word=fish	avgPitch=188.52	deltaPitch=76.75	avgIntensity=69.84	deltaIntensity=-5.87	pos=NN
+04.wav	hold	word=are	avgPitch=193.16	deltaPitch=-323.79	avgIntensity=72.56	deltaIntensity=18.72	pos=VBP
+04.wav	hold	word=there	avgPitch=127.00	deltaPitch=-395.52	avgIntensity=73.40	deltaIntensity=-129.53	pos=EX
+
+04.wav	answer	word=loads	avgPitch=151.67	deltaPitch=--undefined--	avgIntensity=73.02	deltaIntensity=0.40	pos=NNS
+
+04.wav	assert	word=i	avgPitch=154.81	deltaPitch=--undefined--	avgIntensity=70.06	deltaIntensity=392.05	pos=FW
+04.wav	assert	word=ain	avgPitch=166.88	deltaPitch=80.78	avgIntensity=69.13	deltaIntensity=-54.07	pos=FW
+04.wav	assert	word=t	avgPitch=162.08	deltaPitch=-114.52	avgIntensity=65.19	deltaIntensity=-82.37	pos=NN
+04.wav	assert	word=got	avgPitch=163.45	deltaPitch=-59.17	avgIntensity=66.65	deltaIntensity=30.79	pos=VBD
+04.wav	assert	word=time	avgPitch=155.58	deltaPitch=-103.52	avgIntensity=68.58	deltaIntensity=-14.01	pos=NN
+04.wav	assert	word=to	avgPitch=128.25	deltaPitch=-167.71	avgIntensity=61.89	deltaIntensity=41.00	pos=TO
+04.wav	assert	word=be	avgPitch=137.13	deltaPitch=79.84	avgIntensity=73.09	deltaIntensity=138.34	pos=VB
+04.wav	assert	word=honest	avgPitch=133.04	deltaPitch=5.60	avgIntensity=70.19	deltaIntensity=-66.25	pos=JJ
+04.wav	assert	word=you	avgPitch=138.03	deltaPitch=--undefined--	avgIntensity=62.41	deltaIntensity=-135.67	pos=PRP
+04.wav	assert	word=ve	avgPitch=--undefined--	deltaPitch=188.49	avgIntensity=54.45	deltaIntensity=84.78	pos=VBP
+04.wav	assert	word=come	avgPitch=153.34	deltaPitch=--undefined--	avgIntensity=69.29	deltaIntensity=117.98	pos=VBN
+04.wav	assert	word=at	avgPitch=135.57	deltaPitch=-355.49	avgIntensity=70.65	deltaIntensity=-32.38	pos=IN
+04.wav	assert	word=a	avgPitch=116.71	deltaPitch=71.78	avgIntensity=65.95	deltaIntensity=-11.70	pos=DT
+04.wav	assert	word=busy	avgPitch=141.12	deltaPitch=70.58	avgIntensity=69.74	deltaIntensity=3.25	pos=JJ
+04.wav	assert	word=time	avgPitch=133.90	deltaPitch=60.04	avgIntensity=66.75	deltaIntensity=-11.97	pos=NN
+04.wav	uninterpretable	word=<now>	avgPitch=178.04	deltaPitch=170.16	avgIntensity=62.39	deltaIntensity=23.04	pos=NN
+04.wav	action-directive	word=have	avgPitch=187.20	deltaPitch=80.20	avgIntensity=73.96	deltaIntensity=110.85	pos=VBP
+04.wav	action-directive	word=a	avgPitch=190.79	deltaPitch=-227.04	avgIntensity=80.01	deltaIntensity=-60.49	pos=DT
+04.wav	action-directive	word=look	avgPitch=168.55	deltaPitch=-72.74	avgIntensity=68.99	deltaIntensity=-40.62	pos=NN
+04.wav	action-directive	word=and	avgPitch=160.85	deltaPitch=-89.10	avgIntensity=63.29	deltaIntensity=13.06	pos=CC
+04.wav	action-directive	word=come	avgPitch=153.13	deltaPitch=-21.97	avgIntensity=71.25	deltaIntensity=18.71	pos=VB
+04.wav	action-directive	word=back	avgPitch=157.43	deltaPitch=17.19	avgIntensity=66.21	deltaIntensity=-33.41	pos=RB
+04.wav	action-directive	word=to	avgPitch=156.53	deltaPitch=-292.48	avgIntensity=64.64	deltaIntensity=42.68	pos=TO
+04.wav	action-directive	word=me	avgPitch=131.11	deltaPitch=-192.08	avgIntensity=70.05	deltaIntensity=-40.01	pos=PRP
+
+04.wav	abandoned	word=i	avgPitch=154.07	deltaPitch=412.82	avgIntensity=66.65	deltaIntensity=324.87	pos=FW
+04.wav	abandoned	word=don	avgPitch=147.50	deltaPitch=194.88	avgIntensity=74.70	deltaIntensity=64.10	pos=VBP
+04.wav	abandoned	word=t	avgPitch=183.31	deltaPitch=268.00	avgIntensity=76.27	deltaIntensity=-10.45	pos=NN
+04.wav	abandoned	word=know	avgPitch=179.66	deltaPitch=-0.31	avgIntensity=73.44	deltaIntensity=-2.19	pos=VB
+04.wav	abandoned	word=what	avgPitch=183.28	deltaPitch=-14.31	avgIntensity=76.09	deltaIntensity=-98.06	pos=WP
+
+04.wav	info-request	word=what	avgPitch=206.06	deltaPitch=181.65	avgIntensity=72.85	deltaIntensity=104.87	pos=WDT
+04.wav	info-request	word=type	avgPitch=212.84	deltaPitch=-30.46	avgIntensity=72.85	deltaIntensity=-5.48	pos=NN
+04.wav	info-request	word=of	avgPitch=199.06	deltaPitch=-188.89	avgIntensity=71.59	deltaIntensity=-20.64	pos=IN
+04.wav	info-request	word=fish	avgPitch=197.73	deltaPitch=-74.48	avgIntensity=71.19	deltaIntensity=14.98	pos=NN
+04.wav	info-request	word=is	avgPitch=180.44	deltaPitch=-362.19	avgIntensity=75.34	deltaIntensity=4.54	pos=VBZ
+04.wav	info-request	word=this	avgPitch=150.64	deltaPitch=-32.06	avgIntensity=71.79	deltaIntensity=-69.62	pos=DT
+
+04.wav	answer	word=that	avgPitch=134.10	deltaPitch=--undefined--	avgIntensity=69.97	deltaIntensity=212.41	pos=IN
+04.wav	answer	word=s	avgPitch=--undefined--	deltaPitch=125.58	avgIntensity=67.17	deltaIntensity=53.56	pos=VBZ
+04.wav	answer	word=a	avgPitch=149.17	deltaPitch=--undefined--	avgIntensity=76.40	deltaIntensity=-3.39	pos=DT
+04.wav	answer	word=kipper	avgPitch=139.89	deltaPitch=-72.61	avgIntensity=66.49	deltaIntensity=-84.09	pos=NN
+
+04.wav	acknowledge	word=ok	avgPitch=132.33	deltaPitch=141.83	avgIntensity=70.62	deltaIntensity=-2.81	pos=NN
+
+04.wav	repeat-rephrase	word=a	avgPitch=123.75	deltaPitch=-436.56	avgIntensity=63.19	deltaIntensity=466.17	pos=DT
+04.wav	repeat-rephrase	word=kipper	avgPitch=147.35	deltaPitch=8.12	avgIntensity=63.30	deltaIntensity=-26.01	pos=NN
+
+04.wav	info-request	word=what	avgPitch=227.86	deltaPitch=--undefined--	avgIntensity=69.96	deltaIntensity=137.17	pos=WDT
+04.wav	info-request	word=s	avgPitch=--undefined--	deltaPitch=-669.47	avgIntensity=78.08	deltaIntensity=64.15	pos=NNS
+04.wav	info-request	word=a	avgPitch=174.30	deltaPitch=--undefined--	avgIntensity=75.09	deltaIntensity=-214.48	pos=DT
+04.wav	info-request	word=kipper	avgPitch=161.03	deltaPitch=44.93	avgIntensity=65.21	deltaIntensity=-96.52	pos=NN
+
+04.wav	assert	word=chinese	avgPitch=156.90	deltaPitch=-86.22	avgIntensity=65.96	deltaIntensity=51.18	pos=JJ
+04.wav	assert	word=and	avgPitch=145.38	deltaPitch=-121.03	avgIntensity=59.47	deltaIntensity=-58.18	pos=CC
+04.wav	assert	word=japanese	avgPitch=146.00	deltaPitch=-0.42	avgIntensity=60.72	deltaIntensity=10.17	pos=JJ
+04.wav	assert	word=know	avgPitch=145.16	deltaPitch=-28.86	avgIntensity=64.86	deltaIntensity=0.33	pos=VBP
+04.wav	assert	word=fish	avgPitch=141.96	deltaPitch=-12.95	avgIntensity=60.77	deltaIntensity=11.99	pos=NN
+04.wav	assert	word=really	avgPitch=140.75	deltaPitch=3.36	avgIntensity=68.94	deltaIntensity=52.51	pos=RB
+04.wav	assert	word=well	avgPitch=142.67	deltaPitch=-103.00	avgIntensity=71.79	deltaIntensity=-120.73	pos=RB
+
+04.wav	reassert	word=they	avgPitch=136.55	deltaPitch=335.79	avgIntensity=69.81	deltaIntensity=343.43	pos=PRP
+04.wav	reassert	word=don	avgPitch=146.91	deltaPitch=89.39	avgIntensity=71.63	deltaIntensity=-11.48	pos=VBP
+04.wav	reassert	word=t	avgPitch=153.53	deltaPitch=14.75	avgIntensity=67.63	deltaIntensity=-317.09	pos=NN
+04.wav	reassert	word=need	avgPitch=147.35	deltaPitch=-27.16	avgIntensity=62.12	deltaIntensity=-10.07	pos=NN
+04.wav	action-directive	word=stop	avgPitch=145.39	deltaPitch=-49.62	avgIntensity=64.61	deltaIntensity=-38.58	pos=NN
+
+04.wav	action-directive	word=thinking	avgPitch=141.76	deltaPitch=32.46	avgIntensity=68.00	deltaIntensity=96.55	pos=VBG
+04.wav	action-directive	word=we	avgPitch=134.40	deltaPitch=-201.94	avgIntensity=69.88	deltaIntensity=43.32	pos=PRP
+04.wav	action-directive	word=re	avgPitch=129.64	deltaPitch=-44.22	avgIntensity=70.60	deltaIntensity=-31.72	pos=VB
+04.wav	action-directive	word=just	avgPitch=129.98	deltaPitch=11.67	avgIntensity=66.71	deltaIntensity=-33.72	pos=RB
+04.wav	action-directive	word=talking	avgPitch=131.98	deltaPitch=-21.25	avgIntensity=63.85	deltaIntensity=-13.44	pos=VBG
+04.wav	action-directive	word=to	avgPitch=123.18	deltaPitch=-65.54	avgIntensity=62.41	deltaIntensity=-5.34	pos=TO
+04.wav	action-directive	word=chinese	avgPitch=124.77	deltaPitch=27.44	avgIntensity=63.27	deltaIntensity=0.20	pos=JJ
+04.wav	task-managment	word=this	avgPitch=138.00	deltaPitch=101.26	avgIntensity=62.52	deltaIntensity=15.59	pos=DT
+04.wav	task-managment	word=is	avgPitch=142.99	deltaPitch=81.26	avgIntensity=66.07	deltaIntensity=-9.89	pos=VBZ
+04.wav	task-managment	word=for	avgPitch=151.36	deltaPitch=-24.16	avgIntensity=60.90	deltaIntensity=32.25	pos=IN
+04.wav	task-managment	word=anyone	avgPitch=139.58	deltaPitch=-51.91	avgIntensity=70.63	deltaIntensity=12.16	pos=NN
+04.wav	task-managment	word=who	avgPitch=124.65	deltaPitch=-117.00	avgIntensity=67.16	deltaIntensity=-28.15	pos=WP
+04.wav	task-managment	word=wants	avgPitch=124.37	deltaPitch=10.37	avgIntensity=66.97	deltaIntensity=-15.09	pos=VBZ
+04.wav	task-managment	word=to	avgPitch=127.76	deltaPitch=-30.35	avgIntensity=62.63	deltaIntensity=20.36	pos=TO
+04.wav	task-managment	word=learn	avgPitch=119.82	deltaPitch=-116.72	avgIntensity=70.02	deltaIntensity=-15.78	pos=VB
+04.wav	task-managment	word=english	avgPitch=104.41	deltaPitch=67.38	avgIntensity=59.47	deltaIntensity=1.62	pos=JJ
+04.wav	reassert	word=anywhere	avgPitch=158.23	deltaPitch=76.54	avgIntensity=70.94	deltaIntensity=21.33	pos=RB
+04.wav	reassert	word=around	avgPitch=141.92	deltaPitch=-109.59	avgIntensity=69.93	deltaIntensity=-10.00	pos=IN
+04.wav	reassert	word=the	avgPitch=134.12	deltaPitch=-406.91	avgIntensity=68.74	deltaIntensity=-4.04	pos=DT
+04.wav	reassert	word=world	avgPitch=109.37	deltaPitch=-64.52	avgIntensity=69.60	deltaIntensity=-61.47	pos=NN
+
+04.wav	assert	word=they	avgPitch=133.33	deltaPitch=531.37	avgIntensity=73.95	deltaIntensity=382.78	pos=PRP
+04.wav	assert	word=might	avgPitch=142.91	deltaPitch=-84.98	avgIntensity=69.71	deltaIntensity=-32.03	pos=MD
+04.wav	assert	word=be	avgPitch=114.63	deltaPitch=-398.26	avgIntensity=66.90	deltaIntensity=-123.96	pos=VB
+04.wav	assert	word=spanish	avgPitch=115.04	deltaPitch=8.99	avgIntensity=61.03	deltaIntensity=-22.92	pos=NNP
+04.wav	assert	word=they	avgPitch=121.37	deltaPitch=63.83	avgIntensity=49.71	deltaIntensity=50.10	pos=PRP
+04.wav	assert	word=might	avgPitch=124.61	deltaPitch=-36.52	avgIntensity=68.54	deltaIntensity=97.71	pos=MD
+04.wav	assert	word=be	avgPitch=114.44	deltaPitch=-195.31	avgIntensity=68.28	deltaIntensity=-140.95	pos=VB
+04.wav	assert	word=franch	avgPitch=108.99	deltaPitch=-1.09	avgIntensity=57.27	deltaIntensity=-29.50	pos=JJ
+04.wav	assert	word=they	avgPitch=113.69	deltaPitch=58.51	avgIntensity=48.22	deltaIntensity=69.07	pos=PRP
+04.wav	assert	word=might	avgPitch=118.35	deltaPitch=-2.60	avgIntensity=68.32	deltaIntensity=108.11	pos=MD
+04.wav	assert	word=be	avgPitch=113.22	deltaPitch=-101.62	avgIntensity=67.68	deltaIntensity=-10.61	pos=VB
+04.wav	assert	word=german	avgPitch=105.14	deltaPitch=-43.74	avgIntensity=66.94	deltaIntensity=-74.14	pos=JJ
+
+04.wav	communication-management	word=OK	avgPitch=120.54	deltaPitch=64.98	avgIntensity=54.82	deltaIntensity=-9.18	pos=JJ
+
+04.wav	info-request	word=why	avgPitch=154.15	deltaPitch=170.96	avgIntensity=73.67	deltaIntensity=166.09	pos=WRB
+04.wav	info-request	word=do	avgPitch=173.85	deltaPitch=153.11	avgIntensity=72.49	deltaIntensity=9.65	pos=VBP
+04.wav	info-request	word=you	avgPitch=172.53	deltaPitch=-203.73	avgIntensity=74.83	deltaIntensity=-11.12	pos=PRP
+04.wav	info-request	word=only	avgPitch=151.44	deltaPitch=-87.78	avgIntensity=71.27	deltaIntensity=-29.42	pos=RB
+04.wav	info-request	word=care	avgPitch=145.32	deltaPitch=-53.99	avgIntensity=65.71	deltaIntensity=-11.65	pos=VBP
+04.wav	info-request	word=about	avgPitch=132.00	deltaPitch=-140.49	avgIntensity=67.08	deltaIntensity=-7.71	pos=IN
+04.wav	info-request	word=the	avgPitch=115.81	deltaPitch=48.36	avgIntensity=64.09	deltaIntensity=-0.33	pos=DT
+04.wav	info-request	word=chinese	avgPitch=136.35	deltaPitch=-6.79	avgIntensity=67.05	deltaIntensity=-31.30	pos=JJ
+
+04.wav	info-request	word=learning	avgPitch=109.74	deltaPitch=-39.18	avgIntensity=67.93	deltaIntensity=88.42	pos=VBG
+04.wav	info-request	word=about	avgPitch=98.02	deltaPitch=-74.90	avgIntensity=62.77	deltaIntensity=-25.59	pos=IN
+04.wav	info-request	word=this	avgPitch=91.02	deltaPitch=--undefined--	avgIntensity=61.54	deltaIntensity=-97.43	pos=DT
+
+04.wav	answer	word=because	avgPitch=--undefined--	deltaPitch=--undefined--	avgIntensity=53.74	deltaIntensity=161.07	pos=IN
+04.wav	answer	word=most	avgPitch=190.11	deltaPitch=--undefined--	avgIntensity=64.96	deltaIntensity=51.91	pos=JJS
+04.wav	answer	word=spanish	avgPitch=165.12	deltaPitch=-96.02	avgIntensity=63.32	deltaIntensity=-15.83	pos=NNP
+04.wav	answer	word=people	avgPitch=155.54	deltaPitch=-93.52	avgIntensity=59.26	deltaIntensity=-0.21	pos=NNS
+04.wav	answer	word=can	avgPitch=143.60	deltaPitch=169.24	avgIntensity=63.28	deltaIntensity=39.33	pos=MD
+04.wav	answer	word=speak	avgPitch=170.77	deltaPitch=5.21	avgIntensity=62.80	deltaIntensity=-0.40	pos=VB
+04.wav	answer	word=english	avgPitch=145.43	deltaPitch=-29.48	avgIntensity=63.14	deltaIntensity=-84.92	pos=JJ
+
+04.wav	reassert	word=they	avgPitch=157.19	deltaPitch=--undefined--	avgIntensity=61.78	deltaIntensity=210.06	pos=PRP
+04.wav	reassert	word=ve	avgPitch=--undefined--	deltaPitch=216.56	avgIntensity=48.72	deltaIntensity=-4.03	pos=VBP
+04.wav	reassert	word=been	avgPitch=176.68	deltaPitch=--undefined--	avgIntensity=61.41	deltaIntensity=109.99	pos=VBN
+04.wav	reassert	word=taught	avgPitch=184.85	deltaPitch=-54.85	avgIntensity=69.62	deltaIntensity=14.37	pos=VBN
+04.wav	reassert	word=it	avgPitch=156.94	deltaPitch=-250.34	avgIntensity=66.59	deltaIntensity=-371.63	pos=PRP
+
+04.wav	communication-management	word=but	avgPitch=155.90	deltaPitch=32.54	avgIntensity=71.55	deltaIntensity=187.20	pos=CC
+04.wav	communication-management	word=allright	avgPitch=169.83	deltaPitch=-11.52	avgIntensity=68.16	deltaIntensity=-4.98	pos=JJ
+04.wav	assert	word=kipper	avgPitch=151.52	deltaPitch=--undefined--	avgIntensity=69.66	deltaIntensity=-53.33	pos=NN
+
+04.wav	assert	word=it	avgPitch=164.57	deltaPitch=--undefined--	avgIntensity=73.43	deltaIntensity=244.40	pos=PRP
+04.wav	assert	word=s	avgPitch=--undefined--	deltaPitch=374.19	avgIntensity=69.95	deltaIntensity=-62.13	pos=VBZ
+04.wav	assert	word=a	avgPitch=179.54	deltaPitch=--undefined--	avgIntensity=70.94	deltaIntensity=0.34	pos=DT
+04.wav	assert	word=fish	avgPitch=161.07	deltaPitch=-17.45	avgIntensity=69.97	deltaIntensity=-57.45	pos=NN
+
+04.wav	abandoned	word=a	avgPitch=154.83	deltaPitch=-84.25	avgIntensity=70.92	deltaIntensity=1035.00	pos=DT
+04.wav	abandoned	word=sort	avgPitch=167.68	deltaPitch=-17.83	avgIntensity=71.27	deltaIntensity=0.89	pos=NN
+04.wav	abandoned	word=of	avgPitch=147.88	deltaPitch=-173.51	avgIntensity=71.27	deltaIntensity=37.17	pos=IN
+04.wav	abandoned	word=<now>	avgPitch=146.91	deltaPitch=-60.77	avgIntensity=75.72	deltaIntensity=-42.48	pos=NN
+
+04.wav	assert	word=a	avgPitch=--undefined--	deltaPitch=1373.08	avgIntensity=61.02	deltaIntensity=745.21	pos=DT
+04.wav	assert	word=fishy	avgPitch=149.86	deltaPitch=--undefined--	avgIntensity=66.21	deltaIntensity=8.00	pos=JJ
+04.wav	assert	word=sort	avgPitch=149.82	deltaPitch=-25.38	avgIntensity=64.78	deltaIntensity=-19.91	pos=NN
+04.wav	assert	word=of	avgPitch=142.65	deltaPitch=-90.46	avgIntensity=60.56	deltaIntensity=-2.10	pos=IN
+04.wav	assert	word=fish	avgPitch=133.89	deltaPitch=19.65	avgIntensity=64.41	deltaIntensity=-68.51	pos=NN
+
+04.wav	assert	word=there	avgPitch=137.37	deltaPitch=--undefined--	avgIntensity=65.96	deltaIntensity=375.36	pos=RB
+04.wav	assert	word=s	avgPitch=--undefined--	deltaPitch=664.64	avgIntensity=67.35	deltaIntensity=165.49	pos=VBZ
+04.wav	assert	word=some	avgPitch=157.31	deltaPitch=--undefined--	avgIntensity=70.92	deltaIntensity=-2.37	pos=DT
+04.wav	assert	word=fish	avgPitch=143.95	deltaPitch=-28.33	avgIntensity=67.04	deltaIntensity=-4.00	pos=NN
+04.wav	assert	word=that	avgPitch=147.68	deltaPitch=--undefined--	avgIntensity=69.56	deltaIntensity=-39.58	pos=WDT
+04.wav	assert	word=are	avgPitch=--undefined--	deltaPitch=-192.25	avgIntensity=60.71	deltaIntensity=22.70	pos=VBP
+04.wav	assert	word=more	avgPitch=141.91	deltaPitch=--undefined--	avgIntensity=70.24	deltaIntensity=42.29	pos=RBR
+04.wav	assert	word=meaty	avgPitch=132.64	deltaPitch=--undefined--	avgIntensity=68.32	deltaIntensity=-64.00	pos=JJ
+
+04.wav	assert	word=tuna	avgPitch=145.61	deltaPitch=--undefined--	avgIntensity=65.61	deltaIntensity=35.60	pos=NN
+04.wav	info-request	word=what	avgPitch=165.10	deltaPitch=335.95	avgIntensity=61.73	deltaIntensity=30.08	pos=WDT
+04.wav	info-request	word=sort	avgPitch=199.36	deltaPitch=129.41	avgIntensity=70.42	deltaIntensity=23.14	pos=NN
+04.wav	info-request	word=of	avgPitch=188.40	deltaPitch=-157.47	avgIntensity=65.89	deltaIntensity=-44.25	pos=IN
+04.wav	info-request	word=thing	avgPitch=186.76	deltaPitch=-77.07	avgIntensity=66.88	deltaIntensity=52.74	pos=NN
+04.wav	info-request	word=are	avgPitch=176.07	deltaPitch=-219.20	avgIntensity=74.33	deltaIntensity=235.65	pos=VBP
+04.wav	info-request	word=you	avgPitch=175.80	deltaPitch=-64.83	avgIntensity=78.67	deltaIntensity=-83.59	pos=PRP
+04.wav	info-request	word=after	avgPitch=168.29	deltaPitch=-212.84	avgIntensity=64.30	deltaIntensity=-54.55	pos=IN
+04.wav	info-request	word=today	avgPitch=126.85	deltaPitch=-136.64	avgIntensity=66.12	deltaIntensity=-73.14	pos=NN
+
+04.wav	info-request	word=is	avgPitch=148.31	deltaPitch=813.16	avgIntensity=65.25	deltaIntensity=561.47	pos=VBZ
+04.wav	info-request	word=this	avgPitch=168.73	deltaPitch=--undefined--	avgIntensity=72.11	deltaIntensity=-23.72	pos=DT
+04.wav	info-request	word=for	avgPitch=--undefined--	deltaPitch=277.69	avgIntensity=63.11	deltaIntensity=82.40	pos=IN
+04.wav	info-request	word=you	avgPitch=188.17	deltaPitch=--undefined--	avgIntensity=77.88	deltaIntensity=26.70	pos=PRP
+04.wav	info-request	word=or	avgPitch=166.42	deltaPitch=-73.92	avgIntensity=70.86	deltaIntensity=-51.99	pos=CC
+04.wav	info-request	word=for	avgPitch=157.12	deltaPitch=-102.09	avgIntensity=56.04	deltaIntensity=-33.40	pos=IN
+04.wav	info-request	word=someone	avgPitch=153.15	deltaPitch=-75.73	avgIntensity=66.52	deltaIntensity=12.79	pos=NN
+04.wav	info-request	word=else	avgPitch=138.95	deltaPitch=-29.80	avgIntensity=59.11	deltaIntensity=13.23	pos=RB
+04.wav	answer	word=this	avgPitch=137.56	deltaPitch=-33.42	avgIntensity=73.44	deltaIntensity=124.20	pos=DT
+04.wav	answer	word=is	avgPitch=135.37	deltaPitch=68.65	avgIntensity=72.39	deltaIntensity=-49.35	pos=VBZ
+04.wav	answer	word=for	avgPitch=145.80	deltaPitch=79.94	avgIntensity=67.52	deltaIntensity=-4.11	pos=IN
+04.wav	answer	word=me	avgPitch=142.57	deltaPitch=-63.11	avgIntensity=72.02	deltaIntensity=3.22	pos=PRP
+04.wav	reassert	word=i	avgPitch=124.34	deltaPitch=-156.95	avgIntensity=68.61	deltaIntensity=-10.05	pos=FW
+04.wav	reassert	word=d	avgPitch=125.30	deltaPitch=-42.09	avgIntensity=70.92	deltaIntensity=53.25	pos=FW
+04.wav	reassert	word=like	avgPitch=122.24	deltaPitch=6.41	avgIntensity=71.27	deltaIntensity=-47.43	pos=IN
+04.wav	reassert	word=to	avgPitch=126.39	deltaPitch=30.21	avgIntensity=62.86	deltaIntensity=-52.74	pos=TO
+04.wav	reassert	word=buy	avgPitch=124.65	deltaPitch=38.37	avgIntensity=67.05	deltaIntensity=47.02	pos=VB
+04.wav	reassert	word=a	avgPitch=132.91	deltaPitch=531.18	avgIntensity=70.85	deltaIntensity=-5.86	pos=DT
+04.wav	reassert	word=fish	avgPitch=167.15	deltaPitch=-45.78	avgIntensity=66.58	deltaIntensity=-33.59	pos=NN
+04.wav	reassert	word=please	avgPitch=118.72	deltaPitch=-29.61	avgIntensity=60.44	deltaIntensity=8.78	pos=VB
+04.wav	acknowledge	word=right	avgPitch=151.16	deltaPitch=165.40	avgIntensity=71.33	deltaIntensity=13.51	pos=RB
+04.wav	uninterpretable	word=but	avgPitch=166.69	deltaPitch=141.08	avgIntensity=64.36	deltaIntensity=-0.85	pos=CC
+04.wav	uninterpretable	word=<now>	avgPitch=169.50	deltaPitch=-66.61	avgIntensity=71.21	deltaIntensity=-20.06	pos=RB
+04.wav	uninterpretable	word=but	avgPitch=158.03	deltaPitch=20.18	avgIntensity=61.75	deltaIntensity=6.13	pos=CC
+04.wav	assert	word=surely	avgPitch=177.58	deltaPitch=38.97	avgIntensity=73.67	deltaIntensity=32.11	pos=RB
+04.wav	assert	word=you	avgPitch=175.56	deltaPitch=-81.21	avgIntensity=76.20	deltaIntensity=21.09	pos=PRP
+04.wav	assert	word=know	avgPitch=168.64	deltaPitch=-41.34	avgIntensity=75.99	deltaIntensity=-15.31	pos=VBP
+04.wav	assert	word=what	avgPitch=161.92	deltaPitch=-10.53	avgIntensity=71.15	deltaIntensity=-134.90	pos=WP
+04.wav	assert	word=a	avgPitch=167.06	deltaPitch=42.68	avgIntensity=55.75	deltaIntensity=-162.25	pos=DT
+04.wav	assert	word=kipper	avgPitch=163.20	deltaPitch=-42.18	avgIntensity=66.28	deltaIntensity=46.47	pos=NN
+04.wav	assert	word=is	avgPitch=153.14	deltaPitch=33.20	avgIntensity=71.08	deltaIntensity=-109.63	pos=VBZ
+
+04.wav	action-directive	word=look	avgPitch=174.48	deltaPitch=9.57	avgIntensity=70.03	deltaIntensity=236.07	pos=VB
+04.wav	action-directive	word=at	avgPitch=174.82	deltaPitch=-116.91	avgIntensity=68.08	deltaIntensity=-16.69	pos=IN
+04.wav	action-directive	word=it	avgPitch=156.94	deltaPitch=-25.62	avgIntensity=67.53	deltaIntensity=-108.43	pos=PRP
+
+04.wav	reassert	word=look	avgPitch=178.55	deltaPitch=241.32	avgIntensity=71.28	deltaIntensity=180.31	pos=VB
+04.wav	reassert	word=at	avgPitch=208.55	deltaPitch=76.60	avgIntensity=67.87	deltaIntensity=-25.84	pos=IN
+04.wav	reassert	word=the	avgPitch=200.77	deltaPitch=-275.54	avgIntensity=63.78	deltaIntensity=17.72	pos=DT
+04.wav	reassert	word=fish	avgPitch=161.71	deltaPitch=--undefined--	avgIntensity=70.88	deltaIntensity=-36.16	pos=NN
+
+04.wav	assert	word=here	avgPitch=187.23	deltaPitch=--undefined--	avgIntensity=79.82	deltaIntensity=140.66	pos=RB
+04.wav	assert	word=it	avgPitch=182.73	deltaPitch=-54.65	avgIntensity=76.16	deltaIntensity=-140.95	pos=PRP
+04.wav	assert	word=s	avgPitch=182.31	deltaPitch=-410.17	avgIntensity=67.14	deltaIntensity=-274.82	pos=VBZ
+04.wav	assert	word=called	avgPitch=170.42	deltaPitch=-124.64	avgIntensity=67.91	deltaIntensity=-1.58	pos=VBN
+04.wav	assert	word=kipper	avgPitch=153.65	deltaPitch=-136.27	avgIntensity=66.77	deltaIntensity=-63.14	pos=NN
+
+04.wav	info-request	word=where	avgPitch=180.43	deltaPitch=472.74	avgIntensity=78.81	deltaIntensity=222.56	pos=WRB
+04.wav	info-request	word=you	avgPitch=192.93	deltaPitch=-216.41	avgIntensity=78.94	deltaIntensity=-55.59	pos=PRP
+04.wav	info-request	word=from	avgPitch=150.13	deltaPitch=-234.60	avgIntensity=71.02	deltaIntensity=-139.00	pos=IN
+
+04.wav	answer	word=i	avgPitch=143.22	deltaPitch=217.76	avgIntensity=75.05	deltaIntensity=296.07	pos=FW
+04.wav	answer	word=don	avgPitch=143.81	deltaPitch=-64.23	avgIntensity=71.56	deltaIntensity=-25.53	pos=VBP
+04.wav	answer	word=t	avgPitch=126.52	deltaPitch=-268.46	avgIntensity=68.41	deltaIntensity=-113.99	pos=NN
+04.wav	answer	word=speak	avgPitch=133.08	deltaPitch=-35.63	avgIntensity=67.00	deltaIntensity=0.72	pos=VBP
+04.wav	answer	word=english	avgPitch=117.26	deltaPitch=128.53	avgIntensity=68.60	deltaIntensity=-66.76	pos=JJ
+
+04.wav	assert	word=i	avgPitch=186.87	deltaPitch=67.27	avgIntensity=76.19	deltaIntensity=342.87	pos=FW
+04.wav	assert	word=d	avgPitch=193.74	deltaPitch=-1069.80	avgIntensity=73.28	deltaIntensity=-153.75	pos=FW
+04.wav	assert	word=just	avgPitch=133.38	deltaPitch=-248.83	avgIntensity=68.50	deltaIntensity=-21.24	pos=RB
+04.wav	assert	word=wrap	avgPitch=134.02	deltaPitch=95.26	avgIntensity=68.18	deltaIntensity=28.17	pos=VB
+04.wav	assert	word=any	avgPitch=151.48	deltaPitch=12.40	avgIntensity=73.85	deltaIntensity=36.91	pos=DT
+04.wav	assert	word=old	avgPitch=136.25	deltaPitch=-107.31	avgIntensity=74.82	deltaIntensity=-44.50	pos=JJ
+04.wav	assert	word=shit	avgPitch=133.24	deltaPitch=-23.24	avgIntensity=66.29	deltaIntensity=-27.86	pos=NN
+04.wav	assert	word=up	avgPitch=128.35	deltaPitch=12.23	avgIntensity=65.35	deltaIntensity=16.16	pos=RB
+04.wav	assert	word=and	avgPitch=135.44	deltaPitch=9.29	avgIntensity=69.20	deltaIntensity=72.78	pos=CC
+04.wav	assert	word=give 	avgPitch=129.28	deltaPitch=0.22	avgIntensity=72.63	deltaIntensity=41.03	pos=VB
+04.wav	assert	word=it	avgPitch=135.47	deltaPitch=-283.47	avgIntensity=74.53	deltaIntensity=26.26	pos=PRP
+04.wav	assert	word=to	avgPitch=103.15	deltaPitch=-148.33	avgIntensity=75.05	deltaIntensity=-31.89	pos=TO
+04.wav	assert	word=you	avgPitch=119.35	deltaPitch=813.02	avgIntensity=71.06	deltaIntensity=-43.78	pos=PRP
+
+04.wav	assert	word=you	avgPitch=175.56	deltaPitch=-206.03	avgIntensity=80.45	deltaIntensity=94.62	pos=PRP
+04.wav	assert	word=ll	avgPitch=188.33	deltaPitch=555.19	avgIntensity=81.01	deltaIntensity=-75.73	pos=VBP
+04.wav	assert	word=like	avgPitch=205.81	deltaPitch=-139.39	avgIntensity=76.32	deltaIntensity=-35.09	pos=IN
+04.wav	assert	word=this	avgPitch=153.48	deltaPitch=9.00	avgIntensity=72.23	deltaIntensity=-54.62	pos=DT
+
+04.wav	assert	word=tenner	avgPitch=167.23	deltaPitch=-123.53	avgIntensity=73.94	deltaIntensity=-17.67	pos=NN
+
+04.wav	action-directive	word=rip	avgPitch=170.35	deltaPitch=-102.82	avgIntensity=68.94	deltaIntensity=176.15	pos=VB
+04.wav	action-directive	word=you	avgPitch=147.80	deltaPitch=-286.92	avgIntensity=74.70	deltaIntensity=-9.22	pos=PRP
+04.wav	action-directive	word=off	avgPitch=130.18	deltaPitch=672.63	avgIntensity=67.65	deltaIntensity=-93.72	pos=RP
+
+04.wav	assert	word=because	avgPitch=217.60	deltaPitch=-776.05	avgIntensity=73.21	deltaIntensity=181.12	pos=IN
+04.wav	assert	word=i	avgPitch=229.74	deltaPitch=283.50	avgIntensity=76.42	deltaIntensity=84.24	pos=FW
+04.wav	assert	word=m	avgPitch=231.78	deltaPitch=-5.06	avgIntensity=77.42	deltaIntensity=-13.74	pos=NN
+04.wav	assert	word=busy	avgPitch=229.14	deltaPitch=-68.34	avgIntensity=74.77	deltaIntensity=-65.34	pos=JJ
+
+04.wav	assert	word=that	avgPitch=224.25	deltaPitch=46.54	avgIntensity=75.25	deltaIntensity=113.14	pos=IN
+04.wav	assert	word=s	avgPitch=209.84	deltaPitch=246.80	avgIntensity=67.44	deltaIntensity=-64.96	pos=VBZ
+04.wav	assert	word=what	avgPitch=236.59	deltaPitch=155.97	avgIntensity=72.00	deltaIntensity=20.41	pos=WP
+04.wav	assert	word=happens	avgPitch=230.12	deltaPitch=-117.29	avgIntensity=70.09	deltaIntensity=9.46	pos=VBZ
+04.wav	assert	word=in	avgPitch=199.06	deltaPitch=-492.48	avgIntensity=75.03	deltaIntensity=1.67	pos=IN
+04.wav	assert	word=this	avgPitch=180.87	deltaPitch=-320.50	avgIntensity=70.26	deltaIntensity=-56.48	pos=DT
+04.wav	assert	word=country	avgPitch=154.19	deltaPitch=71.33	avgIntensity=67.12	deltaIntensity=-54.35	pos=NN
+
+04.wav	assert+abandoned	word=that	avgPitch=231.07	deltaPitch=159.98	avgIntensity=73.31	deltaIntensity=203.29	pos=IN
+04.wav	assert+abandoned	word=s	avgPitch=228.05	deltaPitch=35.83	avgIntensity=63.58	deltaIntensity=-82.30	pos=NNS
+04.wav	assert+abandoned	word=why	avgPitch=233.22	deltaPitch=-306.19	avgIntensity=68.37	deltaIntensity=119.26	pos=WRB
+04.wav	assert+abandoned	word=they	avgPitch=203.55	deltaPitch=-641.24	avgIntensity=73.12	deltaIntensity=129.52	pos=PRP
+04.wav	assert+abandoned	word=need	avgPitch=188.34	deltaPitch=13.55	avgIntensity=77.43	deltaIntensity=-6.92	pos=VBP
+04.wav	assert+abandoned	word=to	avgPitch=204.77	deltaPitch=-636.03	avgIntensity=72.50	deltaIntensity=-116.65	pos=TO
+04.wav	assert+abandoned	word=be	avgPitch=150.17	deltaPitch=-294.94	avgIntensity=70.44	deltaIntensity=-15.44	pos=VB
+04.wav	assert+abandoned	word=careful	avgPitch=178.23	deltaPitch=2.03	avgIntensity=71.11	deltaIntensity=-3.60	pos=JJ
+04.wav	uninterpretable	word=<now>	avgPitch=151.05	deltaPitch=-29.47	avgIntensity=68.89	deltaIntensity=0.23	pos=NN
+04.wav	action-directive	word=if	avgPitch=155.65	deltaPitch=2.80	avgIntensity=71.29	deltaIntensity=-6.35	pos=IN
+04.wav	action-directive	word=you	avgPitch=151.25	deltaPitch=588.08	avgIntensity=68.42	deltaIntensity=-67.11	pos=PRP
+04.wav	action-directive	word=re	avgPitch=210.30	deltaPitch=1597.12	avgIntensity=65.05	deltaIntensity=141.30	pos=VBP
+04.wav	action-directive	word=coming	avgPitch=204.45	deltaPitch=-162.10	avgIntensity=73.13	deltaIntensity=37.84	pos=VBG
+04.wav	action-directive	word=to	avgPitch=179.32	deltaPitch=-230.35	avgIntensity=72.28	deltaIntensity=-13.13	pos=TO
+04.wav	action-directive	word=england	avgPitch=169.03	deltaPitch=--undefined--	avgIntensity=71.11	deltaIntensity=-56.72	pos=VB
+
+04.wav	action-directive	word=don	avgPitch=190.47	deltaPitch=--undefined--	avgIntensity=77.61	deltaIntensity=156.82	pos=VB
+04.wav	action-directive	word=t	avgPitch=185.43	deltaPitch=-285.76	avgIntensity=64.99	deltaIntensity=15.11	pos=NN
+04.wav	action-directive	word=be	avgPitch=181.90	deltaPitch=-1.42	avgIntensity=78.07	deltaIntensity=26.84	pos=VB
+04.wav	action-directive	word=ripped	avgPitch=185.26	deltaPitch=-63.82	avgIntensity=68.21	deltaIntensity=-20.76	pos=VBN
+04.wav	action-directive	word=off	avgPitch=155.73	deltaPitch=-49.35	avgIntensity=69.55	deltaIntensity=-82.60	pos=RP
+
+04.wav	reassert	word=rip	avgPitch=166.14	deltaPitch=-118.27	avgIntensity=71.66	deltaIntensity=124.08	pos=VB
+04.wav	reassert	word=off	avgPitch=137.22	deltaPitch=--undefined--	avgIntensity=68.31	deltaIntensity=-106.79	pos=RP
+
+04.wav	reassert	word=conned	avgPitch=160.06	deltaPitch=--undefined--	avgIntensity=73.81	deltaIntensity=1.46	pos=VBN
+
+04.wav	reassert	word=taken	avgPitch=185.56	deltaPitch=--undefined--	avgIntensity=72.88	deltaIntensity=114.69	pos=VBN
+04.wav	reassert	word=advantage	avgPitch=162.46	deltaPitch=-84.80	avgIntensity=71.42	deltaIntensity=1.30	pos=NN
+04.wav	reassert	word=of	avgPitch=128.74	deltaPitch=-326.81	avgIntensity=73.75	deltaIntensity=-211.69	pos=IN
+
+04.wav	abandoned	word=<now>	avgPitch=135.49	deltaPitch=111.46	avgIntensity=72.73	deltaIntensity=94.63	pos=NN
+04.wav	completion	word=done	avgPitch=156.66	deltaPitch=174.51	avgIntensity=78.33	deltaIntensity=-12.67	pos=VBN
+04.wav	completion	word=up	avgPitch=159.97	deltaPitch=-16.01	avgIntensity=70.95	deltaIntensity=-53.13	pos=RP
+04.wav	completion	word=like	avgPitch=154.21	deltaPitch=6.67	avgIntensity=70.20	deltaIntensity=-11.54	pos=IN
+04.wav	completion	word=a	avgPitch=161.43	deltaPitch=-82.83	avgIntensity=68.41	deltaIntensity=-69.17	pos=DT
+04.wav	completion	word=kipper	avgPitch=146.47	deltaPitch=-141.37	avgIntensity=63.74	deltaIntensity=-80.44	pos=NN
+
+04.wav	repeat-rephrase	word=done	avgPitch=156.52	deltaPitch=610.35	avgIntensity=76.88	deltaIntensity=308.29	pos=VBN
+04.wav	repeat-rephrase	word=up	avgPitch=165.09	deltaPitch=91.01	avgIntensity=66.59	deltaIntensity=-66.94	pos=RP
+04.wav	repeat-rephrase	word=like	avgPitch=167.44	deltaPitch=-7.97	avgIntensity=68.85	deltaIntensity=2.16	pos=IN
+04.wav	repeat-rephrase	word=a	avgPitch=163.49	deltaPitch=-470.43	avgIntensity=67.02	deltaIntensity=-64.99	pos=DT
+04.wav	repeat-rephrase	word=kipper	avgPitch=148.63	deltaPitch=-131.84	avgIntensity=66.25	deltaIntensity=-73.68	pos=NN
+
+04.wav	action-directive	word=look	avgPitch=183.93	deltaPitch=945.95	avgIntensity=72.89	deltaIntensity=296.07	pos=VB
+04.wav	action-directive	word=at	avgPitch=246.13	deltaPitch=457.92	avgIntensity=78.32	deltaIntensity=44.32	pos=IN
+04.wav	action-directive	word=this	avgPitch=211.41	deltaPitch=-404.51	avgIntensity=75.55	deltaIntensity=-22.67	pos=DT
+04.wav	action-directive	word=foreigner	avgPitch=157.14	deltaPitch=-220.99	avgIntensity=73.34	deltaIntensity=-74.79	pos=NN
+
+04.wav	assert	word=i	avgPitch=158.40	deltaPitch=528.35	avgIntensity=77.25	deltaIntensity=253.67	pos=LS
+04.wav	assert	word=done	avgPitch=167.15	deltaPitch=145.55	avgIntensity=71.05	deltaIntensity=-5.86	pos=VBN
+04.wav	assert	word=him	avgPitch=207.89	deltaPitch=231.48	avgIntensity=75.26	deltaIntensity=-35.58	pos=PRP
+04.wav	assert	word=up	avgPitch=201.87	deltaPitch=-120.30	avgIntensity=65.71	deltaIntensity=-24.02	pos=RP
+04.wav	assert	word=like	avgPitch=180.22	deltaPitch=-95.51	avgIntensity=69.74	deltaIntensity=17.50	pos=IN
+04.wav	assert	word=a	avgPitch=178.94	deltaPitch=-632.58	avgIntensity=69.91	deltaIntensity=-107.68	pos=DT
+04.wav	assert	word=kipper	avgPitch=142.26	deltaPitch=-76.48	avgIntensity=63.28	deltaIntensity=-63.54	pos=NN
+
+04.wav	acknowledge	word=this	avgPitch=152.01	deltaPitch=66.42	avgIntensity=69.20	deltaIntensity=248.19	pos=DT
+04.wav	acknowledge	word=is	avgPitch=149.42	deltaPitch=156.37	avgIntensity=70.47	deltaIntensity=22.60	pos=VBZ
+04.wav	acknowledge	word=when	avgPitch=164.52	deltaPitch=94.13	avgIntensity=71.00	deltaIntensity=6.14	pos=WRB
+04.wav	acknowledge	word=english	avgPitch=180.48	deltaPitch=--undefined--	avgIntensity=72.50	deltaIntensity=-48.94	pos=JJ
+
+04.wav	acknowledge	word=gets	avgPitch=161.91	deltaPitch=--undefined--	avgIntensity=68.71	deltaIntensity=152.62	pos=VBZ
+04.wav	acknowledge	word=complicated	avgPitch=139.45	deltaPitch=-22.69	avgIntensity=67.78	deltaIntensity=-12.32	pos=VBN
+04.wav	abandoned	word=because	avgPitch=143.30	deltaPitch=26.15	avgIntensity=58.61	deltaIntensity=0.66	pos=IN
+04.wav	abandoned	word=kipper	avgPitch=150.70	deltaPitch=-1.51	avgIntensity=68.06	deltaIntensity=-50.86	pos=NN
+
+04.wav	assert	word=a	avgPitch=186.48	deltaPitch=1671.04	avgIntensity=73.00	deltaIntensity=1426.89	pos=DT
+04.wav	assert	word=lot	avgPitch=192.75	deltaPitch=-64.98	avgIntensity=78.35	deltaIntensity=-2.36	pos=NN
+04.wav	assert	word=of	avgPitch=175.43	deltaPitch=-442.47	avgIntensity=72.60	deltaIntensity=-75.66	pos=IN
+04.wav	assert	word=english	avgPitch=157.35	deltaPitch=-122.05	avgIntensity=72.30	deltaIntensity=-3.70	pos=JJ
+04.wav	assert	word=words	avgPitch=136.37	deltaPitch=--undefined--	avgIntensity=71.42	deltaIntensity=-69.33	pos=NNS
+
+04.wav	assert	word=can	avgPitch=156.85	deltaPitch=--undefined--	avgIntensity=66.31	deltaIntensity=353.43	pos=MD
+04.wav	assert	word=mean	avgPitch=145.64	deltaPitch=8.18	avgIntensity=74.30	deltaIntensity=34.58	pos=VB
+04.wav	assert	word=many	avgPitch=159.06	deltaPitch=-42.15	avgIntensity=75.64	deltaIntensity=-22.40	pos=JJ
+04.wav	assert	word=things	avgPitch=135.94	deltaPitch=-27.84	avgIntensity=69.15	deltaIntensity=-75.85	pos=NNS
+
+04.wav	assert	word=<now>	avgPitch=127.45	deltaPitch=-3.60	avgIntensity=72.96	deltaIntensity=-3.32	pos=NN
+
+04.wav	assert	word=where	avgPitch=166.17	deltaPitch=26.99	avgIntensity=76.15	deltaIntensity=1.97	pos=WRB
+
+04.wav	assert	word=wear	avgPitch=166.79	deltaPitch=--undefined--	avgIntensity=76.38	deltaIntensity=9.63	pos=NN
+
+04.wav	assert	word=same	avgPitch=175.22	deltaPitch=--undefined--	avgIntensity=74.55	deltaIntensity=134.38	pos=JJ
+04.wav	assert	word=word	avgPitch=162.94	deltaPitch=--undefined--	avgIntensity=78.59	deltaIntensity=-113.08	pos=NN
+
+04.wav	assert	word=different	avgPitch=152.71	deltaPitch=--undefined--	avgIntensity=66.84	deltaIntensity=94.80	pos=JJ
+04.wav	assert	word=thing	avgPitch=126.32	deltaPitch=-29.35	avgIntensity=67.96	deltaIntensity=-79.40	pos=NN
+
+04.wav	abandoned	word=wearing	avgPitch=143.73	deltaPitch=-32.52	avgIntensity=76.19	deltaIntensity=8.13	pos=VBG
+
+04.wav	self-Talking	word=where	avgPitch=235.08	deltaPitch=933.83	avgIntensity=80.40	deltaIntensity=307.21	pos=WRB
+04.wav	self-Talking	word=ve	avgPitch=243.94	deltaPitch=-53.90	avgIntensity=77.07	deltaIntensity=-6.46	pos=VBP
+04.wav	self-Talking	word=you	avgPitch=229.15	deltaPitch=-1239.83	avgIntensity=79.69	deltaIntensity=-22.40	pos=PRP
+04.wav	self-Talking	word=been	avgPitch=157.15	deltaPitch=-229.32	avgIntensity=75.51	deltaIntensity=-160.70	pos=VBN
+
+04.wav	self-Talking	word=i	avgPitch=164.74	deltaPitch=-123.95	avgIntensity=71.66	deltaIntensity=1236.52	pos=LS
+04.wav	self-Talking	word=m	avgPitch=163.51	deltaPitch=446.93	avgIntensity=73.40	deltaIntensity=114.11	pos=NN
+04.wav	self-Talking	word=wearing	avgPitch=191.55	deltaPitch=-28.58	avgIntensity=78.51	deltaIntensity=6.20	pos=VBG
+04.wav	self-Talking	word=a	avgPitch=155.51	deltaPitch=-227.97	avgIntensity=75.13	deltaIntensity=-104.18	pos=DT
+04.wav	self-Talking	word=jumper	avgPitch=173.31	deltaPitch=118.68	avgIntensity=70.17	deltaIntensity=-81.93	pos=NN
+
+04.wav	self-Talking	word=where	avgPitch=260.27	deltaPitch=446.64	avgIntensity=78.84	deltaIntensity=281.35	pos=WRB
+04.wav	self-Talking	word=ve	avgPitch=268.75	deltaPitch=65.21	avgIntensity=73.62	deltaIntensity=33.37	pos=VBP
+04.wav	self-Talking	word=you	avgPitch=267.44	deltaPitch=-418.13	avgIntensity=82.51	deltaIntensity=36.62	pos=PRP
+04.wav	self-Talking	word=been	avgPitch=243.66	deltaPitch=-372.07	avgIntensity=75.82	deltaIntensity=-142.33	pos=VBN
+
+04.wav	abandoned	word=where	avgPitch=136.95	deltaPitch=-88.66	avgIntensity=75.05	deltaIntensity=7.19	pos=WRB
+
+04.wav	exclamatory-form	word=Brilliant	avgPitch=111.21	deltaPitch=144.58	avgIntensity=64.88	deltaIntensity=-21.67	pos=JJ
+
+04.wav	reassert	word=one	avgPitch=183.23	deltaPitch=81.15	avgIntensity=77.16	deltaIntensity=210.51	pos=CD
+04.wav	reassert	word=word	avgPitch=172.81	deltaPitch=-33.40	avgIntensity=78.17	deltaIntensity=-98.59	pos=NN
+
+04.wav	reassert	word=two	avgPitch=148.18	deltaPitch=-234.12	avgIntensity=71.26	deltaIntensity=143.13	pos=CD
+04.wav	reassert	word=meanings	avgPitch=127.23	deltaPitch=-87.23	avgIntensity=70.35	deltaIntensity=-72.50	pos=NNS
+
+04.wav	task-managment	word=at	avgPitch=267.72	deltaPitch=339.72	avgIntensity=70.87	deltaIntensity=158.41	pos=IN
+04.wav	task-managment	word=the	avgPitch=161.90	deltaPitch=-823.64	avgIntensity=61.59	deltaIntensity=14.88	pos=DT
+04.wav	task-managment	word=spa	avgPitch=144.18	deltaPitch=-66.81	avgIntensity=73.10	deltaIntensity=-39.14	pos=NN
+
+04.wav	conventional-form	word=hello	avgPitch=148.61	deltaPitch=109.55	avgIntensity=72.94	deltaIntensity=-7.13	pos=UH
+
+04.wav	assert	word=i	avgPitch=173.89	deltaPitch=202.19	avgIntensity=73.66	deltaIntensity=465.37	pos=FW
+04.wav	assert	word=d	avgPitch=172.41	deltaPitch=323.26	avgIntensity=72.68	deltaIntensity=-5.81	pos=FW
+04.wav	assert	word=like	avgPitch=193.29	deltaPitch=70.01	avgIntensity=73.31	deltaIntensity=-25.42	pos=IN
+04.wav	assert	word=to	avgPitch=185.71	deltaPitch=-239.48	avgIntensity=67.85	deltaIntensity=-98.43	pos=TO
+04.wav	assert	word=book	avgPitch=174.13	deltaPitch=8.58	avgIntensity=65.44	deltaIntensity=17.83	pos=VB
+04.wav	assert	word=an	avgPitch=187.51	deltaPitch=-267.18	avgIntensity=71.60	deltaIntensity=-25.32	pos=DT
+04.wav	assert	word=appointment	avgPitch=155.43	deltaPitch=-65.16	avgIntensity=63.67	deltaIntensity=-8.83	pos=NN
+04.wav	assert	word=for	avgPitch=150.37	deltaPitch=-64.47	avgIntensity=66.56	deltaIntensity=39.19	pos=IN
+04.wav	assert	word=a	avgPitch=148.34	deltaPitch=-154.28	avgIntensity=67.98	deltaIntensity=-47.41	pos=DT
+04.wav	assert	word=treatment	avgPitch=136.49	deltaPitch=-12.99	avgIntensity=62.30	deltaIntensity=-40.95	pos=NN
+
+04.wav	acknowledge	word=ok	avgPitch=157.00	deltaPitch=26.69	avgIntensity=63.58	deltaIntensity=34.15	pos=NN
+04.wav	abandoned	word=when	avgPitch=150.77	deltaPitch=-29.99	avgIntensity=52.16	deltaIntensity=23.15	pos=WRB
+04.wav	abandoned	word=you	avgPitch=145.90	deltaPitch=-16.38	avgIntensity=72.14	deltaIntensity=32.19	pos=PRP
+04.wav	abandoned	word=<now>	avgPitch=142.09	deltaPitch=-17.81	avgIntensity=69.22	deltaIntensity=-123.84	pos=VBP
+
+04.wav	info-request	word=when	avgPitch=140.94	deltaPitch=-79.54	avgIntensity=68.17	deltaIntensity=273.56	pos=WRB
+04.wav	info-request	word=you	avgPitch=133.95	deltaPitch=140.71	avgIntensity=63.45	deltaIntensity=-122.33	pos=PRP
+04.wav	info-request	word=re	avgPitch=153.60	deltaPitch=-25.13	avgIntensity=57.16	deltaIntensity=6.58	pos=VBP
+04.wav	info-request	word=thinking	avgPitch=131.94	deltaPitch=-194.74	avgIntensity=63.98	deltaIntensity=-60.00	pos=VBG
+
+04.wav	abandoned	word=<now>	avgPitch=136.60	deltaPitch=118.00	avgIntensity=67.28	deltaIntensity=-34.38	pos=NN
+
+04.wav	assert	word=we	avgPitch=133.91	deltaPitch=-537.16	avgIntensity=71.32	deltaIntensity=324.70	pos=PRP
+04.wav	assert	word=re	avgPitch=111.42	deltaPitch=421.58	avgIntensity=52.74	deltaIntensity=7.34	pos=VBP
+04.wav	assert	word=busy	avgPitch=159.21	deltaPitch=146.69	avgIntensity=71.76	deltaIntensity=103.20	pos=JJ
+04.wav	assert	word=all	avgPitch=146.62	deltaPitch=-182.36	avgIntensity=77.50	deltaIntensity=-87.15	pos=DT
+
+04.wav	assert	word=today	avgPitch=140.01	deltaPitch=51.95	avgIntensity=72.44	deltaIntensity=-26.35	pos=NN
+
+04.wav	info-request	word=tomorrow	avgPitch=173.43	deltaPitch=185.37	avgIntensity=75.29	deltaIntensity=-11.61	pos=NN
+
+04.wav	info-request	word=can	avgPitch=157.99	deltaPitch=-373.91	avgIntensity=74.50	deltaIntensity=400.48	pos=MD
+04.wav	info-request	word=we	avgPitch=157.43	deltaPitch=-30.71	avgIntensity=73.28	deltaIntensity=-118.80	pos=PRP
+04.wav	info-request	word=just	avgPitch=156.15	deltaPitch=7.57	avgIntensity=67.37	deltaIntensity=-5.08	pos=RB
+04.wav	info-request	word=do	avgPitch=158.64	deltaPitch=-149.19	avgIntensity=72.47	deltaIntensity=113.56	pos=VBP
+04.wav	info-request	word=it	avgPitch=147.20	deltaPitch=-181.26	avgIntensity=74.18	deltaIntensity=-22.17	pos=PRP
+04.wav	info-request	word=today	avgPitch=138.70	deltaPitch=-58.10	avgIntensity=70.03	deltaIntensity=-26.60	pos=NN
+04.wav	reassert	word=can	avgPitch=129.19	deltaPitch=-14.68	avgIntensity=65.94	deltaIntensity=12.57	pos=MD
+04.wav	reassert	word=you	avgPitch=136.64	deltaPitch=156.47	avgIntensity=71.79	deltaIntensity=25.10	pos=PRP
+04.wav	reassert	word=just	avgPitch=140.14	deltaPitch=19.40	avgIntensity=67.69	deltaIntensity=-5.60	pos=RB
+04.wav	reassert	word=be	avgPitch=140.33	deltaPitch=-55.88	avgIntensity=70.73	deltaIntensity=23.70	pos=VB
+04.wav	reassert	word=available	avgPitch=131.20	deltaPitch=-79.70	avgIntensity=71.49	deltaIntensity=-23.36	pos=JJ
+04.wav	reassert	word=now	avgPitch=110.04	deltaPitch=29.57	avgIntensity=61.85	deltaIntensity=-20.89	pos=RB
+04.wav	reassert	word=can	avgPitch=145.40	deltaPitch=239.05	avgIntensity=61.46	deltaIntensity=61.40	pos=MD
+04.wav	reassert	word=we	avgPitch=155.46	deltaPitch=96.16	avgIntensity=73.52	deltaIntensity=75.16	pos=PRP
+04.wav	reassert	word=just	avgPitch=155.01	deltaPitch=-7.88	avgIntensity=68.98	deltaIntensity=-5.78	pos=RB
+04.wav	reassert	word=do	avgPitch=153.89	deltaPitch=-272.81	avgIntensity=72.36	deltaIntensity=26.63	pos=VBP
+04.wav	reassert	word=it	avgPitch=122.27	deltaPitch=-236.43	avgIntensity=72.17	deltaIntensity=-16.22	pos=PRP
+04.wav	reassert	word=so	avgPitch=118.42	deltaPitch=-81.76	avgIntensity=69.93	deltaIntensity=-17.65	pos=IN
+04.wav	reassert	word=it	avgPitch=117.37	deltaPitch=102.20	avgIntensity=71.11	deltaIntensity=15.70	pos=PRP
+04.wav	reassert	word=s	avgPitch=135.80	deltaPitch=141.99	avgIntensity=72.60	deltaIntensity=5.64	pos=VBZ
+04.wav	reassert	word=available	avgPitch=123.05	deltaPitch=-69.44	avgIntensity=71.34	deltaIntensity=-13.21	pos=JJ
+04.wav	reassert	word=now	avgPitch=106.63	deltaPitch=-17.33	avgIntensity=67.05	deltaIntensity=-58.91	pos=RB
+04.wav	abandoned	word=there	avgPitch=116.98	deltaPitch=39.55	avgIntensity=50.72	deltaIntensity=21.62	pos=RB
+04.wav	abandoned	word=s	avgPitch=114.54	deltaPitch=172.65	avgIntensity=71.37	deltaIntensity=349.92	pos=VBZ
+04.wav	abandoned	word=nothing	avgPitch=125.62	deltaPitch=152.24	avgIntensity=68.21	deltaIntensity=15.33	pos=NN
+04.wav	accept	word=well	avgPitch=183.05	deltaPitch=130.07	avgIntensity=78.27	deltaIntensity=24.65	pos=RB
+04.wav	accept	word=allright	avgPitch=164.64	deltaPitch=--undefined--	avgIntensity=75.61	deltaIntensity=-122.29	pos=JJ
+04.wav	accept	word=i	avgPitch=--undefined--	deltaPitch=-22.22	avgIntensity=59.93	deltaIntensity=-230.37	pos=FW
+04.wav	accept	word=can	avgPitch=163.97	deltaPitch=--undefined--	avgIntensity=68.70	deltaIntensity=91.65	pos=MD
+04.wav	accept	word=fit	avgPitch=150.38	deltaPitch=-137.30	avgIntensity=68.18	deltaIntensity=36.08	pos=VB
+04.wav	accept	word=you	avgPitch=139.26	deltaPitch=-58.67	avgIntensity=75.19	deltaIntensity=50.20	pos=PRP
+04.wav	accept	word=in	avgPitch=143.92	deltaPitch=-155.32	avgIntensity=73.70	deltaIntensity=-180.94	pos=IN
+
+04.wav	answer	word=someone	avgPitch=163.24	deltaPitch=151.37	avgIntensity=73.24	deltaIntensity=125.56	pos=NN
+04.wav	answer	word=hasn	avgPitch=146.44	deltaPitch=-41.81	avgIntensity=70.87	deltaIntensity=-49.23	pos=NN
+04.wav	answer	word=t	avgPitch=154.46	deltaPitch=3.41	avgIntensity=62.90	deltaIntensity=15.13	pos=NN
+04.wav	answer	word=turned	avgPitch=146.85	deltaPitch=-90.93	avgIntensity=72.68	deltaIntensity=31.71	pos=VBD
+04.wav	answer	word=up	avgPitch=139.00	deltaPitch=-117.58	avgIntensity=68.29	deltaIntensity=-70.72	pos=RP
+04.wav	answer	word=yet	avgPitch=131.56	deltaPitch=19.06	avgIntensity=63.49	deltaIntensity=-26.16	pos=RB
+04.wav	reassert	word=so	avgPitch=144.15	deltaPitch=40.79	avgIntensity=61.23	deltaIntensity=97.83	pos=IN
+04.wav	reassert	word=we	avgPitch=135.64	deltaPitch=6.09	avgIntensity=73.27	deltaIntensity=48.06	pos=PRP
+04.wav	reassert	word=can	avgPitch=144.69	deltaPitch=124.38	avgIntensity=65.55	deltaIntensity=-30.21	pos=MD
+04.wav	reassert	word=get	avgPitch=155.54	deltaPitch=-5.49	avgIntensity=68.44	deltaIntensity=26.30	pos=VB
+04.wav	reassert	word=you	avgPitch=143.60	deltaPitch=-115.93	avgIntensity=70.81	deltaIntensity=43.78	pos=PRP
+04.wav	reassert	word=in	avgPitch=141.63	deltaPitch=1.87	avgIntensity=73.69	deltaIntensity=-101.72	pos=IN
+
+04.wav	info-request	word=so	avgPitch=147.37	deltaPitch=-3.76	avgIntensity=70.31	deltaIntensity=188.60	pos=RB
+04.wav	info-request	word=in	avgPitch=143.58	deltaPitch=76.81	avgIntensity=69.51	deltaIntensity=-29.03	pos=IN
+04.wav	info-request	word=ten	avgPitch=158.89	deltaPitch=109.33	avgIntensity=65.96	deltaIntensity=-18.81	pos=CD
+04.wav	info-request	word=minutes	avgPitch=169.82	deltaPitch=--undefined--	avgIntensity=65.00	deltaIntensity=-113.05	pos=NNS
+
+04.wav	accept	word=ok	avgPitch=143.02	deltaPitch=--undefined--	avgIntensity=68.96	deltaIntensity=30.99	pos=NN
+
+04.wav	info-request	word=what	avgPitch=164.11	deltaPitch=-193.57	avgIntensity=76.80	deltaIntensity=282.94	pos=WP
+04.wav	info-request	word=would	avgPitch=139.52	deltaPitch=-27.12	avgIntensity=68.18	deltaIntensity=-12.93	pos=MD
+04.wav	info-request	word=you	avgPitch=161.39	deltaPitch=73.65	avgIntensity=75.50	deltaIntensity=27.63	pos=PRP
+04.wav	info-request	word=like	avgPitch=146.88	deltaPitch=--undefined--	avgIntensity=70.94	deltaIntensity=-147.49	pos=VB
+
+04.wav		word=<now>	avgPitch=161.82	deltaPitch=--undefined--	avgIntensity=63.48	deltaIntensity=65.12	pos=NN
+04.wav	action-directive	word=i	avgPitch=176.11	deltaPitch=81.27	avgIntensity=69.93	deltaIntensity=59.48	pos=FW
+04.wav	action-directive	word=would	avgPitch=176.44	deltaPitch=-103.31	avgIntensity=74.18	deltaIntensity=6.25	pos=MD
+04.wav	action-directive	word=like	avgPitch=148.21	deltaPitch=-147.53	avgIntensity=71.61	deltaIntensity=-131.28	pos=VB
+
+04.wav	action-directive	word=a	avgPitch=143.02	deltaPitch=304.79	avgIntensity=71.70	deltaIntensity=170.58	pos=DT
+04.wav	action-directive	word=back	avgPitch=175.67	deltaPitch=6.12	avgIntensity=59.40	deltaIntensity=-44.14	pos=RB
+
+04.wav	action-directive	word=and	avgPitch=147.15	deltaPitch=501.26	avgIntensity=71.11	deltaIntensity=96.02	pos=CC
+04.wav	action-directive	word=sack	avgPitch=231.66	deltaPitch=-58.37	avgIntensity=63.34	deltaIntensity=-10.83	pos=NN
+04.wav	action-directive	word=waxing	avgPitch=108.04	deltaPitch=-188.34	avgIntensity=63.85	deltaIntensity=6.62	pos=NN
+04.wav	action-directive	word=please	avgPitch=116.77	deltaPitch=-16.79	avgIntensity=67.38	deltaIntensity=-64.30	pos=VB
+
+04.wav	action-directive	word=i	avgPitch=151.50	deltaPitch=542.14	avgIntensity=76.80	deltaIntensity=390.87	pos=LS
+04.wav	action-directive	word=would	avgPitch=159.22	deltaPitch=56.21	avgIntensity=74.46	deltaIntensity=-14.91	pos=MD
+04.wav	action-directive	word=like	avgPitch=162.18	deltaPitch=-78.32	avgIntensity=73.96	deltaIntensity=-15.60	pos=VB
+04.wav	action-directive	word=my	avgPitch=141.20	deltaPitch=111.01	avgIntensity=70.87	deltaIntensity=-69.69	pos=PRP$
+04.wav	action-directive	word=back	avgPitch=181.05	deltaPitch=-6.51	avgIntensity=62.12	deltaIntensity=-12.93	pos=JJ
+04.wav	action-directive	word=waxed	avgPitch=138.21	deltaPitch=-101.27	avgIntensity=64.92	deltaIntensity=-35.32	pos=VBN
+
+04.wav	action-directive	word=my	avgPitch=126.91	deltaPitch=478.97	avgIntensity=71.56	deltaIntensity=149.48	pos=PRP$
+04.wav	action-directive	word=crack	avgPitch=202.09	deltaPitch=-61.02	avgIntensity=66.65	deltaIntensity=-55.99	pos=NN
+
+04.wav	action-directive	word=waxed	avgPitch=115.92	deltaPitch=52.78	avgIntensity=58.72	deltaIntensity=32.58	pos=VBN
+04.wav	action-directive	word=and	avgPitch=138.31	deltaPitch=86.45	avgIntensity=70.45	deltaIntensity=70.45	pos=CC
+04.wav	action-directive	word=my	avgPitch=132.35	deltaPitch=75.34	avgIntensity=72.11	deltaIntensity=-28.07	pos=PRP$
+04.wav	action-directive	word=sack	avgPitch=148.86	deltaPitch=-23.70	avgIntensity=66.52	deltaIntensity=-49.94	pos=NN
+
+04.wav	action-directive	word=waxed	avgPitch=109.88	deltaPitch=42.46	avgIntensity=60.19	deltaIntensity=-15.32	pos=VBN
+
+04.wav	acknowledge	word=Right	avgPitch=131.02	deltaPitch=67.16	avgIntensity=53.77	deltaIntensity=75.80	pos=RB
+04.wav	info-request	word=do	avgPitch=182.40	deltaPitch=859.67	avgIntensity=77.38	deltaIntensity=269.84	pos=VBP
+04.wav	info-request	word=you	avgPitch=208.39	deltaPitch=85.74	avgIntensity=78.06	deltaIntensity=-8.39	pos=PRP
+04.wav	info-request	word=do	avgPitch=198.69	deltaPitch=-112.82	avgIntensity=75.79	deltaIntensity=-8.37	pos=VB
+04.wav	info-request	word=the	avgPitch=188.08	deltaPitch=-219.51	avgIntensity=76.55	deltaIntensity=-42.39	pos=DT
+04.wav	info-request	word=treatment	avgPitch=174.55	deltaPitch=-1.19	avgIntensity=71.13	deltaIntensity=-14.30	pos=NN
+04.wav	info-request	word=yourself	avgPitch=187.51	deltaPitch=-41.45	avgIntensity=69.69	deltaIntensity=2.15	pos=PRP
+04.wav	answer	word=no	avgPitch=151.34	deltaPitch=-184.32	avgIntensity=72.33	deltaIntensity=-49.43	pos=DT
+04.wav	action-directive	word=i	avgPitch=124.49	deltaPitch=50.39	avgIntensity=52.79	deltaIntensity=-3.62	pos=FW
+04.wav	action-directive	word=d	avgPitch=156.99	deltaPitch=359.31	avgIntensity=71.92	deltaIntensity=112.67	pos=FW
+04.wav	action-directive	word=like	avgPitch=187.70	deltaPitch=-87.93	avgIntensity=72.61	deltaIntensity=-20.60	pos=IN
+04.wav	action-directive	word=you	avgPitch=130.61	deltaPitch=-1245.91	avgIntensity=65.74	deltaIntensity=-87.23	pos=PRP
+04.wav	action-directive	word=to	avgPitch=100.48	deltaPitch=23.47	avgIntensity=66.50	deltaIntensity=-18.62	pos=TO
+04.wav	Reject	word=well	avgPitch=140.00	deltaPitch=153.59	avgIntensity=58.29	deltaIntensity=36.64	pos=RB
+04.wav	Reject	word=i	avgPitch=129.67	deltaPitch=-38.60	avgIntensity=73.46	deltaIntensity=76.61	pos=FW
+04.wav	Reject	word=can	avgPitch=135.75	deltaPitch=--undefined--	avgIntensity=66.72	deltaIntensity=-55.26	pos=MD
+04.wav	Reject	word=t	avgPitch=--undefined--	deltaPitch=167.56	avgIntensity=50.25	deltaIntensity=20.18	pos=NN
+04.wav	info-request	word=why	avgPitch=186.02	deltaPitch=--undefined--	avgIntensity=72.78	deltaIntensity=161.40	pos=WRB
+04.wav	info-request	word=not	avgPitch=220.93	deltaPitch=-73.27	avgIntensity=77.69	deltaIntensity=3.82	pos=RB
+04.wav	answer	word=i	avgPitch=158.91	deltaPitch=-360.49	avgIntensity=74.19	deltaIntensity=-126.29	pos=FW
+04.wav	answer	word=have	avgPitch=206.51	deltaPitch=116.57	avgIntensity=72.64	deltaIntensity=-47.04	pos=VBP
+04.wav	answer	word=to	avgPitch=195.05	deltaPitch=-489.66	avgIntensity=59.61	deltaIntensity=12.82	pos=TO
+04.wav	answer	word=be	avgPitch=177.13	deltaPitch=-156.68	avgIntensity=73.41	deltaIntensity=166.52	pos=VB
+04.wav	answer	word=on	avgPitch=182.51	deltaPitch=-276.39	avgIntensity=72.93	deltaIntensity=-55.81	pos=IN
+04.wav	answer	word=reception	avgPitch=149.49	deltaPitch=-87.06	avgIntensity=67.83	deltaIntensity=-16.58	pos=NN
+04.wav	answer	word=taking	avgPitch=135.50	deltaPitch=-87.18	avgIntensity=63.98	deltaIntensity=-19.63	pos=VBG
+04.wav	answer	word=calls	avgPitch=121.59	deltaPitch=39.23	avgIntensity=61.55	deltaIntensity=12.52	pos=NNS
+04.wav	acknowledge	word=well	avgPitch=159.82	deltaPitch=-65.50	avgIntensity=71.74	deltaIntensity=-27.60	pos=RB
+
+04.wav	acknowledge	word=ok	avgPitch=139.63	deltaPitch=172.99	avgIntensity=72.53	deltaIntensity=-27.79	pos=NN
+
+04.wav	task-managment	word=you	avgPitch=155.76	deltaPitch=617.71	avgIntensity=71.94	deltaIntensity=565.09	pos=PRP
+04.wav	task-managment	word=can	avgPitch=209.89	deltaPitch=221.08	avgIntensity=71.76	deltaIntensity=-34.97	pos=MD
+04.wav	task-managment	word=t	avgPitch=215.45	deltaPitch=-297.97	avgIntensity=62.50	deltaIntensity=-24.75	pos=NN
+04.wav	task-managment	word=request	avgPitch=200.95	deltaPitch=-63.47	avgIntensity=71.01	deltaIntensity=13.51	pos=NN
+04.wav	task-managment	word=who	avgPitch=178.01	deltaPitch=-189.94	avgIntensity=70.47	deltaIntensity=-4.89	pos=WP
+04.wav	task-managment	word=s	avgPitch=170.56	deltaPitch=14.60	avgIntensity=70.23	deltaIntensity=49.44	pos=VBZ
+04.wav	task-managment	word=doing	avgPitch=179.32	deltaPitch=-53.07	avgIntensity=74.92	deltaIntensity=22.17	pos=VBG
+04.wav	task-managment	word=tour	avgPitch=157.30	deltaPitch=469.04	avgIntensity=75.77	deltaIntensity=-53.69	pos=NN
+04.wav	task-managment	word=sack	avgPitch=221.53	deltaPitch=70.89	avgIntensity=70.09	deltaIntensity=0.70	pos=NN
+04.wav	task-managment	word=your	avgPitch=193.45	deltaPitch=-304.31	avgIntensity=76.13	deltaIntensity=27.37	pos=PRP$
+04.wav	task-managment	word=crack	avgPitch=191.10	deltaPitch=15.28	avgIntensity=72.82	deltaIntensity=0.30	pos=NN
+04.wav	task-managment	word=or	avgPitch=202.62	deltaPitch=-130.20	avgIntensity=76.31	deltaIntensity=33.82	pos=CC
+04.wav	task-managment	word=your	avgPitch=171.57	deltaPitch=336.09	avgIntensity=77.90	deltaIntensity=-24.03	pos=PRP$
+04.wav	task-managment	word=back	avgPitch=256.39	deltaPitch=0.20	avgIntensity=72.47	deltaIntensity=-1.87	pos=RB
+04.wav	assert	word=there	avgPitch=171.71	deltaPitch=-1008.74	avgIntensity=76.54	deltaIntensity=53.79	pos=EX
+04.wav	assert	word=s	avgPitch=165.61	deltaPitch=570.00	avgIntensity=77.31	deltaIntensity=127.64	pos=VBZ
+04.wav	assert	word=a	avgPitch=194.51	deltaPitch=1131.23	avgIntensity=81.64	deltaIntensity=129.12	pos=DT
+04.wav	assert	word=woman	avgPitch=199.54	deltaPitch=-1.82	avgIntensity=81.18	deltaIntensity=-13.07	pos=NN
+04.wav	assert	word=in	avgPitch=193.99	deltaPitch=-274.26	avgIntensity=77.85	deltaIntensity=-33.26	pos=IN
+04.wav	assert	word=the	avgPitch=169.38	deltaPitch=101.75	avgIntensity=77.52	deltaIntensity=-84.79	pos=DT
+04.wav	assert	word=back	avgPitch=205.18	deltaPitch=25.96	avgIntensity=68.52	deltaIntensity=-49.71	pos=NN
+04.wav	assert	word=who	avgPitch=180.02	deltaPitch=-243.83	avgIntensity=57.14	deltaIntensity=27.50	pos=WP
+04.wav	assert	word=does	avgPitch=151.54	deltaPitch=-141.21	avgIntensity=74.57	deltaIntensity=77.53	pos=VBZ
+04.wav	assert	word=your	avgPitch=156.01	deltaPitch=-85.56	avgIntensity=70.32	deltaIntensity=-75.68	pos=PRP$
+04.wav	assert	word=crack	avgPitch=139.56	deltaPitch=225.85	avgIntensity=63.98	deltaIntensity=-40.50	pos=NN
+
+04.wav	aabandoned	word=well	avgPitch=180.84	deltaPitch=-76.53	avgIntensity=72.67	deltaIntensity=7.26	pos=RB
+
+04.wav	exclamatory-form	word=this	avgPitch=291.50	deltaPitch=34.31	avgIntensity=75.14	deltaIntensity=60.57	pos=DT
+04.wav	exclamatory-form	word=is	avgPitch=211.18	deltaPitch=-302.49	avgIntensity=76.05	deltaIntensity=3.74	pos=VBZ
+04.wav	exclamatory-form	word=fuckin	avgPitch=255.20	deltaPitch=31.53	avgIntensity=75.59	deltaIntensity=-2.72	pos=JJ
+04.wav	exclamatory-form	word=insane	avgPitch=224.74	deltaPitch=-66.15	avgIntensity=74.88	deltaIntensity=2.17	pos=JJ
+04.wav	task-managment	word=right	avgPitch=185.61	deltaPitch=11.25	avgIntensity=77.88	deltaIntensity=28.32	pos=NN
+04.wav	task-managment	word=that	avgPitch=227.70	deltaPitch=--undefined--	avgIntensity=82.33	deltaIntensity=-10.49	pos=WDT
+04.wav	task-managment	word=s	avgPitch=--undefined--	deltaPitch=-1227.13	avgIntensity=76.46	deltaIntensity=-160.93	pos=VBZ
+04.wav	task-managment	word=enough	avgPitch=190.89	deltaPitch=--undefined--	avgIntensity=77.50	deltaIntensity=2.73	pos=RB
+
+04.wav	exclamatory-form	word=no	avgPitch=284.24	deltaPitch=-210.97	avgIntensity=79.11	deltaIntensity=7.94	pos=DT
+04.wav	uninterpretable	word=<now>	avgPitch=207.73	deltaPitch=-44.41	avgIntensity=80.50	deltaIntensity=1.35	pos=NN
+04.wav	assert	word=i	avgPitch=257.45	deltaPitch=330.18	avgIntensity=79.92	deltaIntensity=7.02	pos=FW
+04.wav	assert	word=don	avgPitch=242.75	deltaPitch=-82.49	avgIntensity=81.24	deltaIntensity=-10.70	pos=VBP
+04.wav	assert	word=t	avgPitch=238.94	deltaPitch=-325.42	avgIntensity=77.52	deltaIntensity=-14.58	pos=NN
+04.wav	assert	word=know	avgPitch=224.78	deltaPitch=-170.87	avgIntensity=80.44	deltaIntensity=5.46	pos=VB
+04.wav	assert	word=who	avgPitch=205.24	deltaPitch=214.51	avgIntensity=78.60	deltaIntensity=-203.22	pos=WP
+04.wav	assert	word=s	avgPitch=236.81	deltaPitch=32.89	avgIntensity=69.03	deltaIntensity=35.18	pos=VBZ
+04.wav	assert	word=going	avgPitch=207.37	deltaPitch=-85.91	avgIntensity=80.88	deltaIntensity=27.72	pos=VBG
+04.wav	assert	word=to	avgPitch=213.32	deltaPitch=-299.93	avgIntensity=76.62	deltaIntensity=-29.07	pos=TO
+04.wav	assert	word=learn	avgPitch=196.85	deltaPitch=-396.34	avgIntensity=79.86	deltaIntensity=-17.71	pos=VB
+04.wav	assert	word=anything	avgPitch=187.25	deltaPitch=-52.32	avgIntensity=75.45	deltaIntensity=5.21	pos=NN
+04.wav	assert	word=from	avgPitch=178.02	deltaPitch=-296.36	avgIntensity=81.73	deltaIntensity=31.70	pos=IN
+04.wav	assert	word=this	avgPitch=117.81	deltaPitch=-99.71	avgIntensity=82.88	deltaIntensity=-76.47	pos=DT
+04.wav	action-directive	word=wait	avgPitch=161.94	deltaPitch=0	avgIntensity=69.40	deltaIntensity=0	pos=NN
+

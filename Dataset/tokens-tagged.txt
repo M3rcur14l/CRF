@@ -148,3 +148,107 @@ that_DT 's_VBZ right_NN
 anything_NN else_RB I_PRP can_MD help_VB you_PRP with_IN
 no_DT that_DT 's_VBZ everything_NN thanks_NNS
 bye_NN
+so_RB
+that_IN s_VBZ the_DT basics_NNS <now>_VBP in_IN england_NN
+we_PRP like_VBP to_TO drink_VB tea_NN
+we_PRP drink_VBP tea_NN
+we_PRP also_RB drink_VBP coffee_NN
+we_PRP also_RB drink_VBP beer_NN
+let_VB s_PRP go_VB shopping_NN
+so_RB <now>_IN
+i_FW ll_FW just_RB come_VBN into_IN the_DT shop_NN ok_NN
+<now>_NN
+afternoon_NN hello_UH
+hi_UH
+i_LS want_VBP a_DT fish_NN
+what_WDT sort_NN of_IN fish_NN do_VBP you_PRP want_VB
+we_PRP ve_VBP got_VBD loads_NNS
+what_WDT sort_NN of_IN fish_NN are_VBP there_EX
+loads_NNS
+i_FW ain_FW t_NN got_VBD time_NN to_TO be_VB honest_JJ you_PRP ve_VBP come_VBN at_IN a_DT busy_JJ time_NN <now>_NN have_VBP a_DT look_NN and_CC come_VB back_RB to_TO me_PRP
+i_FW don_VBP t_NN know_VB what_WP
+what_WDT type_NN of_IN fish_NN is_VBZ this_DT
+that_IN s_VBZ a_DT kipper_NN
+ok_NN
+a_DT kipper_NN
+what_WDT s_NNS a_DT kipper_NN
+chinese_JJ and_CC japanese_JJ know_VBP fish_NN really_RB well_RB
+they_PRP don_VBP t_NN need_NN stop_NN
+thinking_VBG we_PRP re_VB just_RB talking_VBG to_TO chinese_JJ this_DT is_VBZ for_IN anyone_NN who_WP wants_VBZ to_TO learn_VB english_JJ anywhere_RB around_IN the_DT world_NN
+they_PRP might_MD be_VB spanish_NNP they_PRP might_MD be_VB franch_JJ they_PRP might_MD be_VB german_JJ
+OK_JJ
+why_WRB do_VBP you_PRP only_RB care_VBP about_IN the_DT chinese_JJ
+learning_VBG about_IN this_DT
+because_IN most_JJS spanish_NNP people_NNS can_MD speak_VB english_JJ
+they_PRP ve_VBP been_VBN taught_VBN it_PRP
+but_CC allright_JJ kipper_NN
+it_PRP s_VBZ a_DT fish_NN
+a_DT sort_NN of_IN <now>_NN
+a_DT fishy_JJ sort_NN of_IN fish_NN
+there_RB s_VBZ some_DT fish_NN that_WDT are_VBP more_RBR meaty_JJ
+tuna_NN what_WDT sort_NN of_IN thing_NN are_VBP you_PRP after_IN today_NN
+is_VBZ this_DT for_IN you_PRP or_CC for_IN someone_NN else_RB this_DT is_VBZ for_IN me_PRP i_FW d_FW like_IN to_TO buy_VB a_DT fish_NN please_VB right_RB but_CC <now>_RB but_CC surely_RB you_PRP know_VBP what_WP a_DT kipper_NN is_VBZ
+look_VB at_IN it_PRP
+look_VB at_IN the_DT fish_NN
+here_RB it_PRP s_VBZ called_VBN kipper_NN
+where_WRB you_PRP from_IN
+i_FW don_VBP t_NN speak_VBP english_JJ
+i_FW d_FW just_RB wrap_VB any_DT old_JJ shit_NN up_RB and_CC give_VB it_PRP to_TO you_PRP
+you_PRP ll_VBP like_IN this_DT
+tenner_NN
+rip_VB you_PRP off_RP
+because_IN i_FW m_NN busy_JJ
+that_IN s_VBZ what_WP happens_VBZ in_IN this_DT country_NN
+that_IN s_NNS why_WRB they_PRP need_VBP to_TO be_VB careful_JJ <now>_NN if_IN you_PRP re_VBP coming_VBG to_TO england_VB
+don_VB t_NN be_VB ripped_VBN off_RP
+rip_VB off_RP
+conned_VBN
+taken_VBN advantage_NN of_IN
+<now>_NN done_VBN up_RP like_IN a_DT kipper_NN
+done_VBN up_RP like_IN a_DT kipper_NN
+look_VB at_IN this_DT foreigner_NN
+i_LS done_VBN him_PRP up_RP like_IN a_DT kipper_NN
+this_DT is_VBZ when_WRB english_JJ
+gets_VBZ complicated_VBN because_IN kipper_NN
+a_DT lot_NN of_IN english_JJ words_NNS
+can_MD mean_VB many_JJ things_NNS
+<now>_NN
+where_WRB
+wear_NN
+same_JJ word_NN
+different_JJ thing_NN
+wearing_VBG
+where_WRB ve_VBP you_PRP been_VBN
+i_LS m_NN wearing_VBG a_DT jumper_NN
+where_WRB ve_VBP you_PRP been_VBN
+where_WRB
+Brilliant_JJ
+one_CD word_NN
+two_CD meanings_NNS
+at_IN the_DT spa_NN
+hello_UH
+i_FW d_FW like_IN to_TO book_VB an_DT appointment_NN for_IN a_DT treatment_NN
+ok_NN when_WRB you_PRP <now>_VBP
+when_WRB you_PRP re_VBP thinking_VBG
+<now>_NN
+we_PRP re_VBP busy_JJ all_DT
+today_NN
+tomorrow_NN
+can_MD we_PRP just_RB do_VBP it_PRP today_NN can_MD you_PRP just_RB be_VB available_JJ now_RB can_MD we_PRP just_RB do_VBP it_PRP so_IN it_PRP s_VBZ available_JJ now_RB there_RB s_VBZ nothing_NN well_RB allright_JJ i_FW can_MD fit_VB you_PRP in_IN
+someone_NN hasn_NN t_NN turned_VBD up_RP yet_RB so_IN we_PRP can_MD get_VB you_PRP in_IN
+so_RB in_IN ten_CD minutes_NNS
+ok_NN
+what_WP would_MD you_PRP like_VB
+<now>_NN i_FW would_MD like_VB
+a_DT back_RB
+and_CC sack_NN waxing_NN please_VB
+i_LS would_MD like_VB my_PRP$ back_JJ waxed_VBN
+my_PRP$ crack_NN
+waxed_VBN and_CC my_PRP$ sack_NN
+waxed_VBN
+Right_RB do_VBP you_PRP do_VB the_DT treatment_NN yourself_PRP no_DT i_FW d_FW like_IN you_PRP to_TO well_RB i_FW can_MD t_NN why_WRB not_RB i_FW have_VBP to_TO be_VB on_IN reception_NN taking_VBG calls_NNS well_RB
+ok_NN
+you_PRP can_MD t_NN request_NN who_WP s_VBZ doing_VBG tour_NN sack_NN your_PRP$ crack_NN or_CC your_PRP$ back_RB there_EX s_VBZ a_DT woman_NN in_IN the_DT back_NN who_WP does_VBZ your_PRP$ crack_NN
+well_RB
+this_DT is_VBZ fuckin_JJ insane_JJ right_NN that_WDT s_VBZ enough_RB
+no_DT <now>_NN i_FW don_VBP t_NN know_VB who_WP s_VBZ going_VBG to_TO learn_VB anything_NN from_IN this_DT wait_NN
