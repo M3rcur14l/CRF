@@ -16,31 +16,45 @@ import java.util.Scanner;
  */
 public class PosMerger {
 
-    final static String POS_TAGGED_PATH = "Dataset/features.txt";
-    final static String FEATURES_PATH = "Dataset/tokens-tagged.txt";
+    final static String POS_TAGGED_PATH = "Dataset/tokens-tagged.txt";
+    final static String FEATURES_PATH = "Dataset/features.txt";
+    final static String FEATURES_WITH_POS_PATH = "Dataset/features-pos.txt";
     final static Charset ENCODING = StandardCharsets.UTF_8;
 
 
-    List<String> readTaggedTextFile() throws IOException {
+    private List<String> readTaggedTextFile() throws IOException {
         Path path = Paths.get(POS_TAGGED_PATH);
         return Files.readAllLines(path, ENCODING);
     }
 
-    void writeFeaturesTextFile(List<String> aLines) throws IOException {
+    private void writeFeaturesTextFile(List<String> aLines) throws IOException {
         Path path = Paths.get(FEATURES_PATH);
         Files.write(path, aLines, ENCODING);
     }
 
-    void mergePostag() {
 
-    }
+    public static void mergePosTag() throws IOException {
+        Path posPath = Paths.get(POS_TAGGED_PATH);
+        Path featuresPath = Paths.get(FEATURES_PATH);
+        Path featuresPosPath = Paths.get(FEATURES_WITH_POS_PATH);
 
-    void readLargerTextFile(String aFileName) throws IOException {
-        Path path = Paths.get(aFileName);
-        try (Scanner scanner = new Scanner(path, ENCODING.name())) {
-            while (scanner.hasNextLine()) {
-                //process each line in some way
-                log(scanner.nextLine());
+        try (Scanner posScanner = new Scanner(posPath, ENCODING.name());
+             Scanner featuresScanner = new Scanner(featuresPath, ENCODING.name());
+             BufferedWriter featuresPosWriter = Files.newBufferedWriter(featuresPosPath, ENCODING)) {
+            featuresScanner.nextLine();
+            while (posScanner.hasNextLine()) {
+                String posLine = posScanner.nextLine();
+                String featuresLine = featuresScanner.nextLine();
+                String[] splittedPosLine = posLine.split(" ");
+
+                for (String taggedWord : splittedPosLine) {
+                    String pos = taggedWord.split("_")[1];
+                    featuresLine += "\t" + "pos=" + pos;
+                    featuresPosWriter.write(featuresLine);
+                    featuresPosWriter.newLine();
+                    featuresLine = featuresScanner.nextLine();
+                }
+                featuresPosWriter.newLine();
             }
         }
     }
