@@ -29,7 +29,6 @@ public class PosMerger {
         try (Scanner posScanner = new Scanner(posPath, ENCODING.name());
              Scanner featuresScanner = new Scanner(featuresPath, ENCODING.name());
              BufferedWriter featuresPosWriter = Files.newBufferedWriter(featuresPosPath, ENCODING)) {
-            featuresScanner.nextLine();
             while (posScanner.hasNextLine()) {
                 String posLine = posScanner.nextLine();
                 String featuresLine = featuresScanner.nextLine();

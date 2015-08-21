@@ -25,9 +25,10 @@ public class Runner {
                 "-sentenceDelimiter", "newline")
                 .directory(new File("Dataset/stanfordpostagger")).inheritIO().redirectOutput(new File("Dataset/tokens-tagged.txt")).start();
         System.out.println("Generating postag...");
+        posTagging.waitFor();
 
-        System.out.println("Merging postag...");
         PosMerger.mergePosTag();
+        System.out.println("Postag merged...");
 
     }
 

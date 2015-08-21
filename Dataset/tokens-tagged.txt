@@ -94,3 +94,57 @@ i_LS am_VBP free_JJ on_IN saturday_NNP
 we_PRP will_MD go_VB on_IN saturday_NNP
 see_VB you_PRP then_RB
 goodbye_NN #_# goodbye_NN
+hello_UH uh_UH
+is_VBZ this_DT the_DT accommodation_NN office_NN
+yes_RB how_WRB can_MD I_PRP help_VB you_PRP
+well_RB I_PRP 've_VBP got_VBD a_DT bit_NN of_IN a_DT problem_NN
+I_PRP 'm_VBP staying_VBG in_IN the_DT godfrey_NN white_JJ dorm_NN
+and_CC on_IN monday_NNP the_DT warden_NN came_VBD and_CC told_VBD me_PRP that_IN I_PRP have_VBP to_TO move_VB out_RP this_DT thursday_NNP
+really_RB
+how_WRB long_RB have_VBP you_PRP been_VBN staying_VBG at_IN the_DT godfrey_NN white_JJ dorm_NN
+for_IN the_DT last_JJ ten_CD weeks_NNS
+oh_UH have_VBP you_PRP been_VBN doing_VBG one_CD of_IN the_DT summer_NN courses_NNS here_RB then_RB
+yes_RB I_PRP 've_VBP been_VBN doing_VBG the_DT academic_JJ language_NN course_NN since_IN the_DT beginning_NN of_IN july_NNP
+and_CC did_VBD n't_RB you_PRP realise_VBP that_IN your_PRP$ accommodation_NN was_VBD temporary_JJ
+no_DT I_PRP thought_VBD I_PRP would_MD be_VB able_JJ to_TO stay_VB there_RB for_IN the_DT whole_JJ year_NN
+I_PRP did_VBD n't_RB read_VB the_DT small_JJ print_NN on_IN the_DT document_NN
+the_DT warden_NN went_VBD through_IN it_PRP with_IN me_PRP and_CC now_RB I_PRP see_VBP my_PRP$ mistake_NN
+oh_UH dear_RB so_RB you_PRP 're_VBP looking_VBG for_IN somewhere_RB to_TO stay_VB then_RB
+yes_RB
+well_RB I_PRP 'm_VBP afraid_JJ all_PDT the_DT places_NNS in_IN the_DT dorms_NNS are_VBP full_JJ
+I_PRP mean_VBP there_EX may_MD be_VB some_DT students_NNS who_WP do_VBP n't_RB show_VB up_RP when_WRB term_NN starts_VBZ but_CC we_PRP wo_MD n't_RB know_VB that_IN for_IN the_DT next_JJ couple_NN of_IN weeks_NNS
+the_DT best_JJS thing_NN you_PRP can_MD do_VB is_VBZ look_VB for_IN a_DT private_JJ house_NN
+you_PRP 'll_MD have_VB to_TO share_VB with_IN three_CD or_CC four_CD other_JJ students_NNS
+meals_NNS are_VBP n't_RB included_VBN in_IN the_DT price_NN of_IN course_NN as_IN they_PRP are_VBP in_IN the_DT university_NN dorms_NNS
+and_CC you_PRP 'll_MD have_VB to_TO contribute_VB to_TO the_DT electricity_NN bills_NNS
+where_WRB can_MD I_PRP find_VB out_RP about_IN these_DT houses_NNS
+I_PRP 've_VBP got_VBD a_DT list_NN here_RB but_CC it_PRP 's_VBZ not_RB up_RB to_TO date_NN
+rooms_NNS are_VBP taken_VBN up_RP every_DT day_NN
+so_IN it_PRP 's_VBZ hard_JJ to_TO know_VB whether_IN a_DT house_NN has_VBZ a_DT free_JJ place_NN or_CC not_RB
+I_PRP can_MD give_VB you_PRP a_DT photocopy_VB of_IN this_DT list_NN and_CC you_PRP can_MD ring_VB round_NN
+can_MD I_PRP use_VB the_DT phone_NN here_RB
+I_PRP 'm_VBP afraid_JJ not_RB
+if_IN we_PRP let_VBP everyone_NN who_WP asked_VBD do_VBP that_DT
+there_RB 'd_MD be_VB someone_NN here_RB all_DT day_NN
+do_VB you_PRP have_VBP a_DT map_NN
+it_PRP 'd_MD be_VB useful_JJ to_TO know_VB where_WRB these_DT places_NNS are_VBP
+yes_RB I_PRP can_MD give_VB you_PRP a_DT map_NN
+this_DT one_NN 's_POS got_VBD the_DT bus_NN routes_NNS on_IN it_PRP too_RB
+so_RB you_PRP can_MD find_VB out_RP how_WRB easy_JJ it_PRP is_VBZ to_TO get_VB from_IN the_DT house_NN to_TO the_DT university_NN
+great_JJ
+and_CC what_WP if_IN i_FW ca_MD n't_RB find_VB a_DT place_NN before_IN thursday_NNP
+well_RB the_DT ymca_NN offers_VBZ cheap_JJ beds_NNS
+it_PRP 's_VBZ located_JJ halfway_RB between_IN here_RB and_CC the_DT city_NN centre_NN
+you_PRP can_MD get_VB a_DT bed_NN in_IN a_DT shared_JJ room_NN there_RB and_CC you_PRP can_MD also_RB buy_VB cheap_JJ meals_NNS
+but_CC you_PRP should_MD phone_VB up_RP and_CC book_NN a_DT bed_NN in_IN advance_NN
+it_PRP 's_VBZ very_RB busy_JJ this_DT time_NN of_IN year_NN
+i_LS 'll_MD give_VB you_PRP the_DT number_NN
+do_VB you_PRP need_VB a_DT pen_NN
+no_DT
+do_VBP n't_RB worry_VB i_FW 've_VBP got_VBN one_CD
+so_IN the_DT number_NN 's_POS four_CD eight_CD two_CD five_CD nine_CD zero_CD three_CD
+four_CD eight_CD two_CD five_CD nine_CD zero_CD three_CD
+that_DT 's_VBZ right_NN
+anything_NN else_RB I_PRP can_MD help_VB you_PRP with_IN
+no_DT that_DT 's_VBZ everything_NN thanks_NNS
+bye_NN
