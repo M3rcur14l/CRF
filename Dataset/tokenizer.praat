@@ -11,20 +11,22 @@ for j to 3
 	Read from file: filename$
 	Rename: "myTextGrid"
 	select TextGrid myTextGrid
-	int = Get number of intervals: 1
+	numberOfWords = Get number of intervals: 1
 
-	j$ = string$(j)
+	for i to numberOfWords
 
-	for i to int
 		select TextGrid myTextGrid
 		word$ = Get label of interval: 1, i
 
 		if word$ = "#"
-        	appendFileLine: "tokens.txt", ""
+			if i <> 1 and i <> numberOfWords
+        		appendFileLine: "tokens.txt", ""
+        	endif
         else
         	appendFile: "tokens.txt", word$ + " "
         endif
 
 	endfor
+	appendFileLine: "tokens.txt", ""
 
 endfor
