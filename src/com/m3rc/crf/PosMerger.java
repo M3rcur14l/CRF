@@ -21,18 +21,6 @@ public class PosMerger {
     final static String FEATURES_WITH_POS_PATH = "Dataset/features-pos.txt";
     final static Charset ENCODING = StandardCharsets.UTF_8;
 
-
-    private List<String> readTaggedTextFile() throws IOException {
-        Path path = Paths.get(POS_TAGGED_PATH);
-        return Files.readAllLines(path, ENCODING);
-    }
-
-    private void writeFeaturesTextFile(List<String> aLines) throws IOException {
-        Path path = Paths.get(FEATURES_PATH);
-        Files.write(path, aLines, ENCODING);
-    }
-
-
     public static void mergePosTag() throws IOException {
         Path posPath = Paths.get(POS_TAGGED_PATH);
         Path featuresPath = Paths.get(FEATURES_PATH);
@@ -58,30 +46,4 @@ public class PosMerger {
             }
         }
     }
-
-    void readLargerTextFileAlternate(String aFileName) throws IOException {
-        Path path = Paths.get(aFileName);
-        try (BufferedReader reader = Files.newBufferedReader(path, ENCODING)) {
-            String line = null;
-            while ((line = reader.readLine()) != null) {
-                //process each line in some way
-                log(line);
-            }
-        }
-    }
-
-    void writeLargerTextFile(String aFileName, List<String> aLines) throws IOException {
-        Path path = Paths.get(aFileName);
-        try (BufferedWriter writer = Files.newBufferedWriter(path, ENCODING)) {
-            for (String line : aLines) {
-                writer.write(line);
-                writer.newLine();
-            }
-        }
-    }
-
-    private static void log(Object aMsg) {
-        System.out.println(String.valueOf(aMsg));
-    }
-
 }

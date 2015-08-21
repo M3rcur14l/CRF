@@ -1,380 +1,96 @@
-w_NN h_NN a_DT t_NN t_NN h_NN e_SYM
-d_NN e_SYM v_LS i_FW l_NN h_NN a_DT v_LS e_SYM i_FW d_FW o_NN n_NN e_SYM w_FW i_FW t_NN h_NN m_NN y_NN s_VBZ l_NN i_FW p_NN p_NN e_SYM r_NN s_NNS
-h_NN e_SYM r_NN e_SYM a_DT r_NN e_SYM y_FW o_NN u_FW r_NN s_NNS l_NN i_FW p_NN p_NN e_SYM r_NN s_NNS
-t_NN h_NN i_FW s_VBZ <_JJR n_NN o_NN w_NN >_JJR <_JJR n_NN o_NN w_NN >_JJR a_DT n_NN d_NN t_NN h_NN i_FW s_VBZ <_JJR n_NN o_NN w_NN >_JJR t_NN a_DT k_NN e_SYM y_FW o_NN u_FW r_NN s_NNS l_NN i_FW p_NN p_NN e_SYM r_NN s_VBZ a_DT n_NN d_NN m_NN a_DT y_NN y_NN o_NN u_NN n_NN e_SYM v_LS e_LS r_NN h_NN a_DT v_LS e_SYM a_DT d_NN a_DT y_NN s_VBZ l_NN u_NN c_NN k_NN w_NN i_FW t_NN h_NN t_NN h_NN e_SYM m_NN
-w_NN h_NN a_DT t_NN o_NN n_NN
-<_JJR n_NN o_NN w_NN >_JJR
-w_NN h_NN a_DT t_NN i_FW s_VBZ t_NN h_NN e_SYM m_NN a_DT t_NN t_NN e_SYM r_NN i_FW s_VBZ a_DT n_NN y_NN t_NN h_NN i_FW n_NN g_NN w_NN r_NN o_NN n_NN g_NN
-n_NN o_NN n_NN o_NN t_NN h_NN i_FW n_NN g_NN i_FW s_VBZ w_NN r_NN o_NN n_NN g_NN w_NN i_FW t_NN h_NN y_NN o_NN u_NN I_PRP w_VBP o_NN n_NN y_NN o_NN u_NN r_NN b_NN e_SYM t_NN f_FW o_NN r_NN y_NN o_NN u_FW h_NN a_DT v_LS e_LS n_NN o_NN t_NN I_PRP <_JJR n_NN o_NN w_NN >_JJR t_NN h_NN a_DT t_NN i_FW s_NNS e_LS n_NN o_NN u_FW g_NN h_NN f_FW o_NN r_NN y_NN o_NN u_NN <_JJR n_NN o_NN w_NN >_JJR I_CD d_NN o_NN n_NN o_NN t_NN m_NN a_DT t_NN t_NN e_SYM r_NN I_PRP s_VBZ u_FW p_NN p_NN o_NN s_VBZ e_SYM
-y_NN o_NN u_FW w_FW o_NN n_NN m_NN y_NN b_NN e_SYM t_NN y_NN o_NN u_FW p_NN r_NN e_SYM s_PRP u_FW m_NN p_NN t_NN u_FW o_NN u_FW s_VBZ i_FW n_NN s_NNS e_LS c_NN t_NN I_PRP w_VBP o_NN n_NN i_FW t_NN w_NN h_NN y_NN d_NN i_FW d_FW y_FW o_NN u_NN t_NN h_NN r_NN o_NN w_NN t_NN h_NN e_SYM s_NNS l_NN i_FW p_NN p_NN e_SYM r_NN s_VBZ a_DT t_NN m_NN e_SYM b_NN e_SYM f_FW o_NN r_NN e_SYM
-b_NN e_SYM c_SYM a_DT u_FW s_VBZ e_SYM I_PRP w_VBP a_DT n_NN t_NN e_SYM d_NN t_NN o_NN s_VBZ m_NN a_DT s_NNS h_NN y_NN o_NN u_NN r_NN f_FW a_DT c_NN e_SYM I_PRP c_NN o_NN u_FW l_NN d_NN k_NN i_FW l_NN l_NN y_NN o_NN u_FW s_VBZ e_SYM l_NN f_FW i_FW s_NNS h_NN b_NN r_NN u_NN t_NN e_SYM <_JJR n_NN o_NN w_NN >_JJR w_NN h_NN y_NN d_NN i_FW d_FW n_NN o_NN t_NN y_NN o_NN u_FW l_NN e_SYM a_DT v_LS e_SYM m_NN e_SYM w_FW h_NN e_SYM r_NN e_SYM y_FW o_NN u_FW p_NN i_FW c_NN k_NN e_SYM d_FW m_NN e_SYM o_NN u_NN t_NN o_NN f_FW i_FW n_NN t_NN h_NN e_SYM g_NN u_NN t_NN t_NN e_SYM r_NN
-y_NN o_NN u_NN t_NN h_NN a_DT n_NN k_NN g_NN o_NN d_NN i_FW t_NN i_FW s_VBZ a_DT l_NN l_NN o_NN v_LS e_LS r_NN n_NN o_NN w_FW y_FW o_NN u_NN c_NN a_DT n_NN t_NN h_NN r_NN o_NN w_NN m_NN e_SYM b_SYM a_DT c_NN k_NN a_DT g_NN a_DT i_FW n_NN t_NN h_NN e_SYM r_NN e_SYM d_FW o_NN y_NN o_NN u_NN
-<_JJR n_NN o_NN w_NN >_JJR s_NNS o_NN t_NN h_NN e_SYM c_NN r_NN e_SYM a_DT t_NN u_NN r_NN e_SYM i_FW s_VBZ n_NN e_SYM r_NN v_LS o_NN u_FW s_VBZ a_DT f_FW t_NN e_SYM r_NN a_DT l_NN l_NN
-<_JJR n_NN o_NN w_NN >_JJR
-<_JJR n_NN o_NN w_NN >_JJR
-<_JJR n_NN o_NN w_NN >_JJR
-c_NN l_NN a_DT w_NN s_VBZ i_FW n_NN y_NN o_NN u_NN c_NN a_DT t_NN h_NN o_NN w_NN d_NN a_DT r_NN e_SYM y_FW o_NN u_FW s_VBZ h_NN o_NN w_FW y_FW o_NN u_NN r_NN t_NN e_SYM m_NN p_NN e_SYM r_NN t_NN o_NN m_NN e_SYM
-s_NNS i_FW t_NN d_NN o_NN w_NN n_NN a_DT n_NN d_NN b_NN e_SYM q_FW u_FW i_FW e_LS t_NN
-<_JJR n_NN o_NN w_NN >_JJR w_NN h_NN a_DT t_NN i_FW s_VBZ t_NN o_NN b_NN e_SYM c_NN o_NN m_NN e_SYM o_NN f_FW m_NN e_SYM w_FW h_NN a_DT t_NN i_FW s_VBZ t_NN o_NN b_NN e_SYM c_NN o_NN m_NN e_SYM o_NN f_FW m_NN e_SYM
-h_NN o_NN w_NN t_NN h_NN e_SYM d_FW e_SYM v_LS i_FW l_NN d_NN o_NN I_PRP k_NN n_NN o_NN w_NN w_NN h_NN a_DT t_NN i_FW s_VBZ t_NN o_NN b_NN e_SYM c_NN o_NN m_NN e_SYM o_NN f_FW y_FW o_NN u_FW w_FW h_NN a_DT t_NN d_NN o_NN e_SYM s_PRP i_FW t_NN m_NN a_DT t_NN t_NN e_SYM r_NN w_NN h_NN a_DT t_NN b_NN e_SYM c_NN o_NN m_NN e_SYM s_NNS o_NN f_FW y_FW o_NN u_NN
-<_JJR n_NN o_NN w_NN >_JJR y_NN o_NN u_FW d_FW o_NN n_NN o_NN t_NN c_NN a_DT r_NN e_SYM I_PRP k_NN n_NN o_NN w_FW y_FW o_NN u_FW d_FW o_NN n_NN o_NN t_NN c_NN a_DT r_NN e_SYM
-<_JJR n_NN o_NN w_NN >_JJR y_NN o_NN u_FW w_FW o_NN u_FW l_NN d_NN n_NN o_NN t_NN c_NN a_DT r_NN e_SYM i_FW f_FW I_PRP w_VBP a_DT s_NNS d_NN e_SYM a_DT d_NN I_PRP a_DT m_NN n_NN o_NN t_NN h_NN i_FW n_NN g_NN t_NN o_NN y_NN o_NN u_NN n_NN o_NN t_NN a_DT s_NNS m_NN u_FW c_NN h_NN a_DT s_NNS t_NN h_NN e_SYM m_NN s_NNS l_NN i_FW p_NN p_NN e_SYM r_NN s_NNS
-t_NN h_NN o_NN s_VBZ e_SYM s_NNS l_NN i_FW p_NN p_NN e_SYM r_NN s_NNS
-t_NN h_NN o_NN s_VBZ e_SYM s_NNS l_NN i_FW p_NN p_NN e_SYM r_NN s_NNS
-I_PRP d_NN i_FW d_FW n_NN o_NN t_NN t_NN h_NN i_FW n_NN k_NN i_FW t_NN m_NN e_SYM a_DT n_NN t_NN a_DT n_NN y_NN d_NN i_FW f_FW f_FW e_LS r_NN e_SYM n_NN c_NN e_SYM n_NN o_NN w_NN
-<_JJR n_NN o_NN w_NN >_JJR w_NN h_NN y_NN h_NN a_DT v_LS e_SYM y_FW o_NN u_FW s_VBZ u_FW d_FW d_FW e_LS n_NN l_NN y_NN b_NN e_SYM g_NN u_NN n_NN g_NN o_NN i_FW n_NN g_NN o_NN n_NN l_NN i_FW k_NN e_SYM t_NN h_NN i_FW s_VBZ <_JJR n_NN o_NN w_NN >_JJR
-m_NN a_DT y_NN I_PRP a_DT s_NNS k_NN i_FW f_FW y_FW o_NN u_NN c_NN o_NN m_NN p_NN l_NN a_DT i_FW n_NN o_NN f_FW y_FW o_NN u_NN r_NN t_NN r_NN e_SYM a_DT t_NN m_NN e_SYM n_NN t_NN h_NN e_SYM r_NN e_SYM
-n_NN o_NN
-h_NN a_DT s_NNS a_DT n_NN y_NN b_NN o_NN d_NN y_NN b_NN e_SYM h_NN a_DT v_LS e_LS d_NN b_NN a_DT d_NN l_NN y_NN c_NN o_NN l_NN o_NN n_NN e_SYM l_NN p_NN i_FW c_NN k_NN e_SYM r_NN i_FW n_NN g_NN m_NN r_NN s_VBZ p_NN e_SYM a_DT r_NN c_NN e_SYM
-n_NN o_NN
-w_NN e_SYM l_NN l_NN y_NN o_NN u_FW d_FW o_NN n_NN o_NN t_NN p_NN r_NN e_SYM t_NN e_SYM n_NN d_NN t_NN h_NN a_DT t_NN I_PRP h_NN a_DT v_LS e_LS t_NN r_NN e_SYM a_DT t_NN e_SYM d_FW y_FW o_NN u_NN b_NN a_DT d_NN l_NN y_NN
-n_NN o_NN
-n_NN o_NN I_PRP a_DT m_NN g_NN l_NN a_DT d_NN t_NN o_NN h_NN e_SYM a_DT r_NN t_NN h_NN a_DT t_NN
-p_NN e_SYM r_NN h_NN a_DT p_NN s_VBZ y_NN o_NN u_FW a_DT r_NN e_SYM t_NN i_FW r_NN e_SYM d_FW a_FW f_FW t_NN e_SYM r_NN t_NN h_NN e_SYM s_VBZ t_NN r_NN a_DT i_FW n_NN o_NN f_FW t_NN h_NN e_SYM d_FW a_DT y_NN
-w_NN o_NN u_FW l_NN d_NN y_NN o_NN u_FW h_NN a_DT v_LS e_SYM
-w_NN o_NN u_FW l_NN d_NN y_NN o_NN u_FW h_NN a_DT v_LS e_SYM a_DT c_NN h_NN o_NN c_NN o_NN l_NN a_DT t_NN e_SYM
-n_NN o_NN
-t_NN h_NN a_DT n_NN k_NN y_NN o_NN u_NN
-w_NN e_SYM l_NN l_NN i_FW t_NN i_FW s_VBZ o_NN n_NN l_NN y_NN n_NN a_DT t_NN u_NN r_NN a_DT l_NN t_NN h_NN a_DT t_NN y_NN o_NN u_FW s_VBZ h_NN o_NN u_FW l_NN d_NN b_NN e_SYM a_DT n_NN g_NN u_FW i_FW s_NNS h_NN e_SYM d_NN b_NN u_NN t_NN
-i_LS t_NN i_FW s_VBZ a_DT l_NN l_NN o_NN v_LS e_LS r_NN n_NN o_NN w_NN
-n_NN o_NN t_NN h_NN i_FW n_NN g_NN m_NN o_NN r_NN e_SYM t_NN o_NN w_NN o_NN r_NN r_NN y_VBD a_DT b_NN o_NN u_NN t_NN
-n_NN o_NN n_NN o_NN t_NN h_NN i_FW n_NN g_NN m_NN o_NN r_NN e_SYM f_FW o_NN r_NN y_NN o_NN u_NN t_NN o_NN w_NN o_NN r_NN r_NN y_VBD a_DT b_NN o_NN u_NN t_NN
-<_JJR n_NN o_NN w_NN >_JJR g_NN o_NN d_NN I_PRP w_VBP i_FW s_VBZ h_NN I_PRP w_VBP a_DT s_NNS d_NN e_SYM a_DT d_NN
-w_NN h_NN y_NN
-i_LS n_NN h_NN e_SYM a_DT v_LS e_LS n_NN s_NNS n_NN a_DT m_NN e_SYM w_FW h_NN y_NN
-n_NN o_NN w_NN l_NN i_FW s_VBZ t_NN e_SYM n_NN t_NN o_NN m_NN e_SYM e_SYM l_NN i_FW z_SYM a_DT a_DT l_NN l_NN t_NN h_NN i_FW s_VBZ i_FW r_NN r_NN i_FW t_NN a_DT t_NN i_FW o_NN n_NN i_FW s_VBZ p_NN u_NN r_NN e_SYM l_NN y_NN s_VBZ u_NN b_NN j_NN e_SYM c_NN t_NN i_FW v_LS e_SYM
-I_PRP d_NN o_NN n_NN o_NN t_NN u_NN n_NN d_NN e_SYM r_NN s_NNS t_NN a_DT n_NN d_NN I_PRP a_DT m_NN t_NN o_NN o_NN i_FW g_NN n_NN o_NN r_NN a_DT n_NN t_NN
-i_LS t_NN i_FW s_VBZ j_NN u_FW s_VBZ t_NN i_FW m_NN a_DT g_NN i_FW n_NN a_DT t_NN i_FW o_NN n_NN n_NN o_NN t_NN h_NN i_FW n_NN g_NN i_FW s_VBZ w_NN r_NN o_NN n_NN g_NN n_NN o_NN b_NN o_NN d_NN y_NN i_FW s_VBZ h_NN u_NN r_NN t_NN i_FW n_NN g_NN y_NN o_NN u_NN <_JJR n_NN o_NN w_NN >_JJR
-a_DT n_NN d_NN y_NN o_NN u_FW g_NN o_NN t_NN o_NN b_NN e_SYM d_FW a_DT n_NN d_NN s_VBZ l_NN e_SYM e_SYM p_NN i_FW t_NN o_NN f_FW f_FW h_NN a_DT v_LS e_SYM a_DT l_NN i_FW t_NN t_NN l_NN e_SYM c_NN r_NN y_VBD a_DT n_NN d_NN s_VBZ a_DT y_NN y_NN o_NN u_NN r_NN p_NN r_NN a_DT y_NN e_SYM r_NN s_VBZ a_DT n_NN d_NN y_NN o_NN u_FW l_NN l_NN f_FW e_SYM e_SYM l_NN v_LS e_LS r_NN y_NN m_NN u_NN c_NN h_NN m_NN o_NN r_NN e_SYM c_NN o_NN m_NN f_FW o_NN r_NN t_NN a_DT b_NN l_NN e_SYM
-I_PRP h_NN e_SYM a_DT r_NN d_NN y_NN o_NN u_NN r_NN p_NN r_NN a_DT y_NN e_SYM r_NN s_NNS
-t_NN h_NN a_DT n_NN k_NN g_NN o_NN d_NN i_FW t_NN i_FW s_VBZ a_DT l_NN l_NN o_NN v_LS e_LS r_NN
-w_NN e_SYM l_NN l_NN d_NN o_NN n_NN o_NN t_NN y_NN o_NN u_NN t_NN h_NN a_DT n_NN k_NN g_NN o_NN d_NN i_FW t_NN s_VBZ a_DT l_NN l_NN o_NN v_LS e_LS r_NN n_NN o_NN w_FW y_FW o_NN u_FW a_DT r_NN e_SYM f_FW r_NN e_SYM e_SYM a_DT n_NN d_NN y_NN o_NN u_NN c_NN a_DT n_NN d_NN o_NN w_NN h_NN a_DT t_NN y_NN o_NN u_FW l_NN i_FW k_NN e_SYM
-w_NN h_NN a_DT t_NN a_DT m_NN I_PRP f_FW i_FW t_NN f_FW o_NN r_NN w_NN h_NN a_DT t_NN h_NN a_DT v_LS e_SYM y_FW o_NN u_FW l_NN e_SYM f_FW t_NN m_NN e_SYM f_FW i_FW t_NN f_FW o_NN r_NN
-<_JJR n_NN o_NN w_NN >_JJR w_NN h_NN e_SYM r_NN e_SYM a_DT m_NN I_NN t_NN o_NN g_NN o_NN w_NN h_NN a_DT t_NN a_DT m_NN I_NN t_NN o_NN d_NN o_NN
-a_DT n_NN d_NN w_NN h_NN a_DT t_NN i_FW s_VBZ t_NN o_NN b_NN e_SYM c_NN o_NN m_NN e_SYM o_NN f_FW m_NN e_SYM
-<_JJR n_NN o_NN w_NN >_JJR t_NN h_NN a_DT t_NN i_FW s_VBZ w_NN h_NN a_DT t_NN i_FW s_VBZ w_NN o_NN r_NN r_NN y_NN i_FW n_NN g_NN y_NN o_NN u_FW i_FW s_NNS i_FW t_NN
-<_JJR n_NN o_NN w_NN >_JJR I_PRP w_VBP o_NN u_FW l_NN d_NN n_NN o_NN t_NN w_NN o_NN r_NN r_NN y_VBD a_DT b_NN o_NN u_NN t_NN t_NN h_NN a_DT t_NN i_FW f_FW I_PRP w_VBP e_LS r_NN e_SYM y_FW o_NN u_NN I_PRP a_DT m_NN s_VBZ u_FW r_NN e_SYM y_FW o_NN u_FW w_FW i_FW l_NN l_NN n_NN o_NN t_NN h_NN a_DT v_LS e_SYM a_DT n_NN y_NN d_NN i_FW f_FW f_FW i_FW c_NN u_FW l_NN t_NN y_NN i_FW n_NN s_NNS e_LS t_NN t_NN l_NN i_FW n_NN g_NN y_NN o_NN u_NN r_NN s_VBZ e_SYM l_NN f_FW s_VBZ o_NN m_NN e_SYM w_FW h_NN e_SYM r_NN e_SYM o_NN r_NN o_NN t_NN h_NN e_SYM r_NN
-I_PRP d_NN i_FW d_FW n_NN o_NN t_NN q_NN u_FW i_FW t_NN e_SYM r_NN e_SYM a_DT l_NN i_FW z_SYM e_SYM y_FW o_NN u_FW w_FW e_LS r_NN e_SYM g_NN o_NN i_FW n_NN g_NN a_DT w_NN a_DT y_NN
-<_JJR n_NN o_NN w_NN >_JJR y_NN o_NN u_FW m_NN i_FW g_NN h_NN t_NN m_NN a_DT r_NN r_NN y_NN y_NN o_NN u_FW k_NN n_NN o_NN w_NN
-g_NN o_NN o_NN d_NN m_NN o_NN r_NN n_NN i_FW n_NN g_NN k_NN a_DT r_NN e_SYM n_NN
-g_NN o_NN o_NN d_NN m_NN o_NN r_NN n_NN i_FW n_NN g_NN a_DT m_NN a_DT n_NN d_NN a_DT
-h_NN o_NN w_VBD a_DT r_NN e_SYM y_FW o_NN u_NN
-i_LS a_DT m_NN f_FW i_FW n_NN e_SYM t_NN h_NN a_DT n_NN k_NN y_NN o_NN u_NN
-h_NN o_NN w_NN w_VBD a_DT s_NNS y_VBP o_NN u_NN r_NN w_NN e_SYM e_SYM k_NN e_SYM n_NN d_NN
-w_NN o_NN n_NN d_NN e_SYM r_NN f_FW u_FW l_NN i_FW b_NN o_NN u_FW g_NN h_NN t_NN a_DT d_NN r_NN e_SYM s_NNS s_VBZ a_DT t_NN t_NN h_NN e_SYM d_FW e_SYM p_NN a_DT r_NN t_NN m_NN e_SYM n_NN t_NN s_VBZ t_NN o_NN r_NN e_SYM
-w_NN h_NN a_DT t_NN c_NN o_NN l_NN o_NN r_NN w_VBD a_DT s_NNS t_NN h_NN e_SYM d_NN r_NN e_SYM s_NNS s_NNS
-i_LS t_NN w_VBD a_DT s_NNS r_NN e_SYM d_FW d_FW r_NN e_SYM s_NNS s_NNS
-h_NN o_NN w_NN w_VBD a_DT s_NNS y_VBP o_NN u_NN r_NN w_NN e_SYM e_SYM k_NN e_SYM n_NN d_NN
-r_NN e_SYM d_FW i_FW s_NNS m_NN y_FW f_FW a_DT v_LS o_NN u_NN r_NN i_FW t_NN e_SYM c_NN o_NN l_NN o_NN r_NN
-t_NN h_NN i_FW s_VBZ w_NN e_SYM e_SYM k_NN e_SYM n_NN d_NN
-i_FW s_VBZ t_NN u_FW d_FW i_FW e_SYM d_FW f_FW o_NN r_NN c_NN l_NN a_DT s_NNS s_VBZ e_SYM s_NNS
-w_NN h_NN a_DT t_NN c_NN l_NN a_DT s_NNS s_VBZ e_SYM s_VBZ a_DT r_NN e_SYM y_FW o_NN u_NN t_NN a_DT k_NN i_FW n_NN g_NN
-a_DT m_NN e_SYM r_NN i_FW c_NN a_DT n_NN h_NN i_FW s_VBZ t_NN o_NN r_NN y_NN
-a_DT r_NN e_SYM y_FW o_NN u_NN t_NN a_DT k_NN i_FW n_NN g_NN a_DT n_NN y_NN c_NN l_NN a_DT s_NNS s_VBZ e_SYM s_NNS
-y_NN e_SYM s_PRP i_FW a_DT m_NN t_NN a_DT k_NN i_FW n_NN g_NN a_DT r_NN t_NN
-i_LS l_NN o_NN v_LS e_LS t_NN o_NN p_NN a_DT i_FW n_NN t_NN
-w_NN h_NN o_NN i_FW s_VBZ y_NN o_NN u_NN r_NN f_FW a_DT v_LS o_NN u_NN r_NN i_FW t_NN e_SYM a_DT r_NN t_NN i_FW s_VBZ t_NN
-<_JJR n_NN o_NN w_NN >_JJR
-p_NN i_FW c_NN a_DT s_NNS s_VBZ o_NN i_FW s_VBZ m_NN y_NN f_FW a_DT v_LS o_NN r_NN i_FW t_NN e_SYM a_DT r_NN t_NN i_FW s_VBZ t_NN
-a_DT n_NN d_NN y_NN o_NN u_NN
-d_NN e_SYM g_NN a_DT s_NNS i_FW s_VBZ m_NN y_NN f_FW a_DT v_LS o_NN r_NN i_FW t_NN e_SYM a_DT r_NN t_NN i_FW s_VBZ t_NN
-d_NN o_NN y_NN o_NN u_FW w_FW a_DT n_NN t_NN t_NN o_NN g_NN o_NN t_NN o_NN t_NN h_NN e_SYM a_DT r_NN t_NN m_NN u_FW s_VBZ e_SYM u_FW m_NN t_NN h_NN i_FW s_VBZ w_NN e_SYM e_SYM k_NN e_SYM n_NN d_NN
-y_NN e_SYM s_NNS
-w_NN h_NN a_DT t_NN t_NN i_FW m_NN e_SYM
-h_NN o_NN w_VBD a_DT b_NN o_NN u_NN t_NN
-t_NN w_NN o_NN o_NN '_'' c_NN l_NN o_NN c_NN k_NN
-o_NN n_NN f_FW r_NN i_FW d_FW a_DT y_NN
-n_NN o_NN i_FW h_NN a_DT v_LS e_LS c_NN l_NN a_DT s_NNS s_VBZ u_FW n_NN t_NN i_FW l_NN f_FW o_NN u_NN r_NN o_NN '_'' c_NN l_NN o_NN c_NN k_NN o_NN n_NN f_FW r_NN i_FW d_FW a_DT y_NN
-t_NN h_NN e_SYM m_NN u_FW s_VBZ e_SYM u_FW m_NN c_NN l_NN o_NN s_VBZ e_SYM s_VBZ a_DT t_NN f_FW i_FW v_LS e_SYM o_NN '_'' c_NN l_NN o_NN c_NN k_NN
-w_NN h_NN a_DT t_NN s_VBZ h_NN o_NN u_FW l_NN d_NN w_NN e_SYM d_FW o_NN
-w_NN e_SYM c_SYM a_DT n_NN g_NN o_NN t_NN o_NN t_NN h_NN e_SYM m_NN u_FW s_VBZ e_SYM u_FW m_NN o_NN n_NN s_VBZ a_DT t_NN u_NN r_NN d_NN a_DT y_NN
-o_NN k_NN a_DT y_NN
-s_NNS a_DT t_NN u_NN r_NN d_NN a_DT y_NN i_FW s_VBZ g_NN o_NN o_NN d_NN
-i_LS a_DT m_NN f_FW r_NN e_SYM e_SYM o_NN n_NN s_VBZ a_DT t_NN u_NN r_NN d_NN a_DT y_NN
-w_NN e_SYM w_FW i_FW l_NN l_NN g_NN o_NN o_NN n_NN s_VBZ a_DT t_NN u_NN r_NN d_NN a_DT y_NN
-s_NNS e_LS e_SYM y_FW o_NN u_NN t_NN h_NN e_SYM n_NN
-g_NN o_NN o_NN d_NN b_NN y_NN e_SYM #_# g_NN o_NN o_NN d_NN b_NN y_NN e_SYM
-h_NN e_SYM l_NN l_NN o_NN u_FW h_NN
-i_FW s_VBZ t_NN h_NN i_FW s_VBZ t_NN h_NN e_SYM a_DT c_NN c_NN o_NN m_NN m_NN o_NN d_NN a_DT t_NN i_FW o_NN n_NN o_NN f_FW f_FW i_FW c_NN e_SYM
-y_NN e_SYM s_NNS h_NN o_NN w_NN c_NN a_DT n_NN I_PRP h_NN e_SYM l_NN p_NN y_NN o_NN u_NN
-w_NN e_SYM l_NN l_NN I_PRP '_'' v_LS e_SYM g_NN o_NN t_NN a_DT b_NN i_FW t_NN o_NN f_FW a_DT p_NN r_NN o_NN b_NN l_NN e_SYM m_NN
-I_PRP '_'' m_NN s_NNS t_NN a_DT y_NN i_FW n_NN g_NN i_FW n_NN t_NN h_NN e_SYM g_NN o_NN d_NN f_FW r_NN e_SYM y_FW w_FW h_NN i_FW t_NN e_SYM d_FW o_NN r_NN m_NN
-a_DT n_NN d_NN o_NN n_NN m_NN o_NN n_NN d_NN a_DT y_NN t_NN h_NN e_SYM w_FW a_DT r_NN d_NN e_SYM n_NN c_NN a_DT m_NN e_SYM a_DT n_NN d_NN t_NN o_NN l_NN d_NN m_NN e_SYM t_NN h_NN a_DT t_NN I_PRP h_NN a_DT v_LS e_LS t_NN o_NN m_NN o_NN v_LS e_SYM o_NN u_NN t_NN t_NN h_NN i_FW s_VBZ t_NN h_NN u_NN r_NN s_VBZ d_NN a_DT y_NN
-r_NN e_SYM a_DT l_NN l_NN y_NN
-h_NN o_NN w_NN l_NN o_NN n_NN g_NN h_NN a_DT v_LS e_SYM y_FW o_NN u_NN b_NN e_SYM e_LS n_NN s_NNS t_NN a_DT y_NN i_FW n_NN g_NN a_DT t_NN t_NN h_NN e_SYM g_NN o_NN d_NN f_FW r_NN e_SYM y_FW w_FW h_NN i_FW t_NN e_SYM d_FW o_NN r_NN m_NN
-f_LS o_NN r_NN t_NN h_NN e_SYM l_NN a_DT s_NNS t_NN t_NN e_SYM n_NN w_NN e_SYM e_SYM k_NN s_NNS
-o_NN h_NN h_NN a_DT v_LS e_SYM y_FW o_NN u_NN b_NN e_SYM e_LS n_NN d_NN o_NN i_FW n_NN g_NN o_NN n_NN e_SYM o_NN f_FW t_NN h_NN e_SYM s_PRP u_FW m_NN m_NN e_SYM r_NN c_NN o_NN u_NN r_NN s_VBZ e_SYM s_NNS h_NN e_SYM r_NN e_SYM t_NN h_NN e_SYM n_NN
-y_NN e_SYM s_NNS I_PRP '_'' v_LS e_LS b_NN e_SYM e_LS n_NN d_NN o_NN i_FW n_NN g_NN t_NN h_NN e_SYM a_DT c_NN a_DT d_NN e_SYM m_NN i_FW c_NN l_NN a_DT n_NN g_NN u_FW a_DT g_NN e_SYM c_NN o_NN u_NN r_NN s_VBZ e_SYM s_PRP i_FW n_NN c_NN e_SYM t_NN h_NN e_SYM b_NN e_SYM g_NN i_FW n_NN n_NN i_FW n_NN g_NN o_NN f_FW j_FW u_FW l_NN y_NN
-a_DT n_NN d_NN d_NN i_FW d_FW n_NN '_'' t_NN y_NN o_NN u_NN r_NN e_SYM a_DT l_NN i_FW s_NNS e_LS t_NN h_NN a_DT t_NN y_NN o_NN u_NN r_NN a_DT c_NN c_NN o_NN m_NN m_NN o_NN d_NN a_DT t_NN i_FW o_NN n_NN w_VBD a_DT s_NNS t_NN e_SYM m_NN p_NN o_NN r_NN a_DT r_NN y_NN
-n_NN o_NN I_CD t_NN h_NN o_NN u_FW g_NN h_NN t_NN I_PRP w_VBP o_NN u_FW l_NN d_NN b_NN e_SYM a_DT b_NN l_NN e_SYM t_NN o_NN s_VBZ t_NN a_DT y_NN t_NN h_NN e_SYM r_NN e_SYM f_FW o_NN r_NN t_NN h_NN e_SYM w_FW h_NN o_NN l_NN e_SYM y_FW e_SYM a_DT r_NN
-I_PRP d_NN i_FW d_FW n_NN '_'' t_NN r_NN e_SYM a_DT d_NN t_NN h_NN e_SYM s_NNS m_NN a_DT l_NN l_NN p_NN r_NN i_FW n_NN t_NN o_NN n_NN t_NN h_NN e_SYM d_FW o_NN c_NN u_FW m_NN e_SYM n_NN t_NN
-t_NN h_NN e_SYM w_FW a_DT r_NN d_NN e_SYM n_NN w_NN e_SYM n_NN t_NN t_NN h_NN r_NN o_NN u_FW g_NN h_NN i_FW t_NN w_NN i_FW t_NN h_NN m_NN e_SYM a_DT n_NN d_NN n_NN o_NN w_NN I_PRP s_VBZ e_SYM e_SYM m_NN y_NN m_NN i_FW s_VBZ t_NN a_DT k_NN e_SYM
-o_NN h_NN d_NN e_SYM a_DT r_NN s_VBZ o_NN y_NN o_NN u_NN '_'' r_NN e_SYM l_NN o_NN o_NN k_NN i_FW n_NN g_NN f_FW o_NN r_NN s_VBZ o_NN m_NN e_SYM w_FW h_NN e_SYM r_NN e_SYM t_NN o_NN s_VBZ t_NN a_DT y_NN t_NN h_NN e_SYM n_NN
-y_NN e_SYM s_NNS
-w_NN e_SYM l_NN l_NN I_PRP '_'' m_NN a_DT f_FW r_NN a_DT i_FW d_FW a_DT l_NN l_NN t_NN h_NN e_SYM p_NN l_NN a_DT c_NN e_SYM s_PRP i_FW n_NN t_NN h_NN e_SYM d_FW o_NN r_NN m_NN s_VBZ a_DT r_NN e_SYM f_FW u_FW l_NN l_NN
-I_PRP m_NN e_SYM a_DT n_NN t_NN h_NN e_SYM r_NN e_SYM m_NN a_DT y_NN b_NN e_SYM s_NNS o_NN m_NN e_SYM s_VBZ t_NN u_FW d_FW e_LS n_NN t_NN s_VBZ w_NN h_NN o_NN d_NN o_NN n_NN '_'' t_NN s_NNS h_NN o_NN w_NN u_FW p_NN w_NN h_NN e_SYM n_NN t_NN e_SYM r_NN m_NN s_VBZ t_NN a_DT r_NN t_NN s_VBZ b_NN u_NN t_NN w_NN e_SYM w_FW o_NN n_NN '_'' t_NN k_NN n_NN o_NN w_NN t_NN h_NN a_DT t_NN f_FW o_NN r_NN t_NN h_NN e_SYM n_NN e_SYM x_CC t_NN c_NN o_NN u_FW p_NN l_NN e_SYM o_NN f_FW w_FW e_SYM e_SYM k_NN s_NNS
-t_NN h_NN e_SYM b_NN e_SYM s_VBZ t_NN t_NN h_NN i_FW n_NN g_NN y_NN o_NN u_NN c_NN a_DT n_NN d_NN o_NN i_FW s_VBZ l_NN o_NN o_NN k_NN f_FW o_NN r_NN a_DT p_NN r_NN i_FW v_LS a_DT t_NN e_SYM h_NN o_NN u_FW s_VBZ e_SYM
-y_NN o_NN u_NN '_'' l_NN l_NN h_NN a_DT v_LS e_LS t_NN o_NN s_VBZ h_NN a_DT r_NN e_SYM w_FW i_FW t_NN h_NN t_NN h_NN r_NN e_SYM e_SYM o_NN r_NN f_FW o_NN u_NN r_NN o_NN t_NN h_NN e_SYM r_NN s_NNS t_NN u_FW d_FW e_LS n_NN t_NN s_NNS
-m_NN e_SYM a_DT l_NN s_VBZ a_DT r_NN e_SYM n_NN '_'' t_NN i_FW n_NN c_NN l_NN u_NN d_NN e_SYM d_FW i_FW n_NN t_NN h_NN e_SYM p_NN r_NN i_FW c_NN e_SYM o_NN f_FW c_NN o_NN u_NN r_NN s_VBZ e_SYM a_DT s_NNS t_NN h_NN e_SYM y_VB a_DT r_NN e_SYM i_FW n_NN t_NN h_NN e_SYM u_FW n_NN i_FW v_LS e_LS r_NN s_NNS i_FW t_NN y_NN d_NN o_NN r_NN m_NN s_NNS
-a_DT n_NN d_NN y_NN o_NN u_NN '_'' l_NN l_NN h_NN a_DT v_LS e_LS t_NN o_NN c_NN o_NN n_NN t_NN r_NN i_FW b_NN u_NN t_NN e_SYM t_NN o_NN t_NN h_NN e_SYM e_SYM l_NN e_SYM c_NN t_NN r_NN i_FW c_NN i_FW t_NN y_NN b_NN i_FW l_NN l_NN s_NNS
-w_NN h_NN e_SYM r_NN e_SYM c_SYM a_DT n_NN I_PRP f_FW i_FW n_NN d_NN o_NN u_NN t_NN a_DT b_NN o_NN u_NN t_NN t_NN h_NN e_SYM s_NNS e_LS h_NN o_NN u_FW s_VBZ e_SYM s_NNS
-I_PRP '_'' v_LS e_SYM g_NN o_NN t_NN a_DT l_NN i_FW s_VBZ t_NN h_NN e_SYM r_NN e_SYM b_NN u_NN t_NN i_FW t_NN '_'' s_VBZ n_NN o_NN t_NN u_FW p_NN t_NN o_NN d_NN a_DT t_NN e_SYM
-r_NN o_NN o_NN m_NN s_VBZ a_DT r_NN e_SYM t_NN a_DT k_NN e_SYM n_NN u_FW p_NN e_SYM v_LS e_LS r_NN y_NN d_NN a_DT y_NN
-s_NNS o_NN i_FW t_NN '_'' s_NNS h_NN a_DT r_NN d_NN t_NN o_NN k_NN n_NN o_NN w_NN w_NN h_NN e_SYM t_NN h_NN e_SYM r_NN a_DT h_NN o_NN u_FW s_VBZ e_SYM h_NN a_DT s_NNS a_DT f_FW r_NN e_SYM e_SYM p_NN l_NN a_DT c_NN e_SYM o_NN r_NN n_NN o_NN t_NN
-I_PRP c_NN a_DT n_NN g_NN i_FW v_LS e_SYM y_FW o_NN u_FW a_DT p_NN h_NN o_NN t_NN o_NN c_NN o_NN p_NN y_NN o_NN f_FW t_NN h_NN i_FW s_VBZ l_NN i_FW s_VBZ t_NN a_DT n_NN d_NN y_NN o_NN u_NN c_NN a_DT n_NN r_NN i_FW n_NN g_NN r_NN o_NN u_NN n_NN d_NN
-c_NN a_DT n_NN I_PRP u_VBP s_NNS e_LS t_NN h_NN e_SYM p_NN h_NN o_NN n_NN e_SYM h_NN e_SYM r_NN e_SYM
-I_PRP '_'' m_NN a_DT f_FW r_NN a_DT i_FW d_FW n_NN o_NN t_NN
-i_FW f_FW w_FW e_SYM l_NN e_SYM t_NN e_SYM v_LS e_LS r_NN y_NN o_NN n_NN e_SYM w_FW h_NN o_NN a_DT s_NNS k_NN e_SYM d_FW d_FW o_NN t_NN h_NN a_DT t_NN
-t_NN h_NN e_SYM r_NN e_SYM '_'' d_NN b_NN e_SYM s_NNS o_NN m_NN e_SYM o_NN n_NN e_SYM h_NN e_SYM r_NN e_SYM a_DT l_NN l_NN d_NN a_DT y_NN
-d_NN o_NN y_NN o_NN u_FW h_NN a_DT v_LS e_SYM a_DT m_NN a_DT p_NN
-i_LS t_NN '_'' d_NN b_NN e_SYM u_FW s_VBZ e_SYM f_FW u_FW l_NN t_NN o_NN k_NN n_NN o_NN w_NN w_NN h_NN e_SYM r_NN e_SYM t_NN h_NN e_SYM s_NNS e_LS p_NN l_NN a_DT c_NN e_SYM s_VBZ a_DT r_NN e_SYM
-y_NN e_SYM s_NNS I_PRP c_NN a_DT n_NN g_NN i_FW v_LS e_SYM y_FW o_NN u_FW a_DT m_NN a_DT p_NN
-t_NN h_NN i_FW s_VBZ o_NN n_NN e_SYM '_'' s_VBZ g_NN o_NN t_NN t_NN h_NN e_SYM b_SYM u_FW s_VBZ r_NN o_NN u_NN t_NN e_SYM s_NNS o_NN n_NN i_FW t_NN t_NN o_NN o_NN
-s_NNS o_NN y_NN o_NN u_NN c_NN a_DT n_NN f_FW i_FW n_NN d_NN o_NN u_NN t_NN h_NN o_NN w_NN e_SYM a_DT s_NNS y_VBP i_FW t_NN i_FW s_VBZ t_NN o_NN g_NN e_SYM t_NN f_FW r_NN o_NN m_NN t_NN h_NN e_SYM h_NN o_NN u_FW s_NNS e_LS t_NN o_NN t_NN h_NN e_SYM u_FW n_NN i_FW v_LS e_LS r_NN s_NNS i_FW t_NN y_NN
-g_NN r_NN e_SYM a_DT t_NN
-a_DT n_NN d_NN w_NN h_NN a_DT t_NN i_FW f_FW i_FW c_NN a_DT n_NN '_POS t_NN f_FW i_FW n_NN d_NN a_DT p_NN l_NN a_DT c_NN e_SYM b_NN e_SYM f_FW o_NN r_NN e_SYM t_NN h_NN u_NN r_NN s_VBZ d_NN a_DT y_NN
-w_NN e_SYM l_NN l_NN t_NN h_NN e_SYM y_FW m_NN c_NN a_DT o_NN f_FW f_FW e_LS r_NN s_NNS c_NN h_NN e_SYM a_DT p_NN b_NN e_SYM d_FW s_NNS
-i_LS t_NN '_'' s_NNS l_NN o_NN c_NN a_DT t_NN e_SYM d_FW h_NN a_DT l_NN f_FW w_FW a_DT y_NN b_NN e_SYM t_NN w_NN e_SYM e_LS n_NN h_NN e_SYM r_NN e_SYM a_DT n_NN d_NN t_NN h_NN e_SYM c_NN i_FW t_NN y_NN c_NN e_SYM n_NN t_NN r_NN e_SYM
-y_NN o_NN u_NN c_NN a_DT n_NN g_NN e_SYM t_NN a_DT b_NN e_SYM d_FW i_FW n_NN a_DT s_NNS h_NN a_DT r_NN e_SYM d_NN r_NN o_NN o_NN m_NN t_NN h_NN e_SYM r_NN e_SYM a_DT n_NN d_NN y_NN o_NN u_NN c_NN a_DT n_NN a_DT l_NN s_VBZ o_NN b_NN u_FW y_FW c_NN h_NN e_SYM a_DT p_NN m_NN e_SYM a_DT l_NN s_NNS
-b_NN u_NN t_NN y_NN o_NN u_FW s_VBZ h_NN o_NN u_FW l_NN d_NN p_NN h_NN o_NN n_NN e_SYM u_FW p_NN a_DT n_NN d_NN b_NN o_NN o_NN k_NN a_DT b_NN e_SYM d_FW i_FW n_NN a_DT d_NN v_LS a_DT n_NN c_NN e_SYM
-i_LS t_NN '_'' s_NNS v_LS e_LS r_NN y_NN b_NN u_FW s_VBZ y_NN t_NN h_NN i_FW s_VBZ t_NN i_FW m_NN e_SYM o_NN f_FW y_FW e_SYM a_DT r_NN
-i_LS '_'' l_NN l_NN g_NN i_FW v_LS e_SYM y_FW o_NN u_NN t_NN h_NN e_SYM n_NN u_FW m_NN b_NN e_SYM r_NN
-d_NN o_NN y_NN o_NN u_NN n_NN e_SYM e_LS d_NN a_DT p_NN e_SYM n_NN
-n_NN o_NN
-d_NN o_NN n_NN '_'' t_NN w_NN o_NN r_NN r_NN y_NN i_FW '_'' v_LS e_SYM g_NN o_NN t_NN o_NN n_NN e_SYM
-s_NNS o_NN t_NN h_NN e_SYM n_NN u_FW m_NN b_NN e_SYM r_NN '_'' s_NNS f_LS o_NN u_NN r_NN e_SYM i_FW g_NN h_NN t_NN t_NN w_NN o_NN f_FW i_FW v_LS e_LS n_NN i_FW n_NN e_SYM z_SYM e_LS r_NN o_NN t_NN h_NN r_NN e_SYM e_SYM
-f_LS o_NN u_NN r_NN e_SYM i_FW g_NN h_NN t_NN t_NN w_NN o_NN f_FW i_FW v_LS e_LS n_NN i_FW n_NN e_SYM z_SYM e_LS r_NN o_NN t_NN h_NN r_NN e_SYM e_SYM
-t_NN h_NN a_DT t_NN '_POS s_NNS r_NN i_FW g_NN h_NN t_NN
-a_DT n_NN y_NN t_NN h_NN i_FW n_NN g_NN e_SYM l_NN s_NNS e_LS I_PRP c_NN a_DT n_NN h_NN e_SYM l_NN p_NN y_NN o_NN u_FW w_FW i_FW t_NN h_NN
-n_NN o_NN t_NN h_NN a_DT t_NN '_POS s_NNS e_LS v_LS e_LS r_NN y_NN t_NN h_NN i_FW n_NN g_NN t_NN h_NN a_DT n_NN k_NN s_NNS
-b_NN y_NN e_SYM
-s_NNS o_NN
-t_NN h_NN a_DT t_NN s_VBZ t_NN h_NN e_SYM b_SYM a_DT s_NNS i_FW c_NN s_NNS <_JJR n_NN o_NN w_NN >_JJR i_FW n_NN e_SYM n_NN g_NN l_NN a_DT n_NN d_NN
-w_NN e_SYM l_NN i_FW k_NN e_SYM t_NN o_NN d_NN r_NN i_FW n_NN k_NN t_NN e_SYM a_DT
-w_NN e_SYM d_NN r_NN i_FW n_NN k_NN t_NN e_SYM a_DT
-w_NN e_SYM a_DT l_NN s_VBZ o_NN d_NN r_NN i_FW n_NN k_NN c_NN o_NN f_FW f_FW e_SYM e_SYM
-w_NN e_SYM a_DT l_NN s_VBZ o_NN d_NN r_NN i_FW n_NN k_NN b_NN e_SYM e_LS r_NN
-l_NN e_SYM t_NN s_NNS g_NN o_NN s_VBZ h_NN o_NN p_NN p_NN i_FW n_NN g_NN
-s_NNS o_NN <_JJR n_NN o_NN w_NN >_JJR
-i_LS l_NN l_NN j_NN u_FW s_VBZ t_NN c_NN o_NN m_NN e_SYM i_FW n_NN t_NN o_NN t_NN h_NN e_SYM s_NNS h_NN o_NN p_NN o_NN k_NN
-<_JJR n_NN o_NN w_NN >_JJR
-a_DT f_FW t_NN e_SYM r_NN n_NN o_NN o_NN n_NN h_NN e_SYM l_NN l_NN o_NN
-h_NN i_FW
-i_FW w_FW a_DT n_NN t_NN a_DT f_FW i_FW s_NNS h_NN
-w_NN h_NN a_DT t_NN s_VBZ o_NN r_NN t_NN o_NN f_FW f_FW i_FW s_NNS h_NN d_NN o_NN y_NN o_NN u_FW w_FW a_DT n_NN t_NN
-w_NN e_SYM v_LS e_SYM g_NN o_NN t_NN l_NN o_NN a_DT d_NN s_NNS
-w_NN h_NN a_DT t_NN s_VBZ o_NN r_NN t_NN o_NN f_FW f_FW i_FW s_NNS h_NN a_DT r_NN e_SYM t_NN h_NN e_SYM r_NN e_SYM
-l_NN o_NN a_DT d_NN s_NNS
-i_LS a_DT i_FW n_NN t_NN g_NN o_NN t_NN t_NN i_FW m_NN e_SYM t_NN o_NN b_NN e_SYM h_NN o_NN n_NN e_SYM s_VBZ t_NN y_NN o_NN u_FW v_LS e_LS c_NN o_NN m_NN e_SYM a_DT t_NN a_DT b_NN u_FW s_VBZ y_NN t_NN i_FW m_NN e_SYM <_JJR n_NN o_NN w_NN >_JJR h_NN a_DT v_LS e_SYM a_DT l_NN o_NN o_NN k_NN a_DT n_NN d_NN c_NN o_NN m_NN e_SYM b_SYM a_DT c_NN k_NN t_NN o_NN m_NN e_SYM
-i_FW d_FW o_NN n_NN t_NN k_NN n_NN o_NN w_NN w_NN h_NN a_DT t_NN
-w_NN h_NN a_DT t_NN t_NN y_NN p_NN e_SYM o_NN f_FW f_FW i_FW s_NNS h_NN i_FW s_VBZ t_NN h_NN i_FW s_NNS
-t_NN h_NN a_DT t_NN s_VBZ a_DT k_NN i_FW p_NN p_NN e_SYM r_NN
-o_NN k_NN
-a_DT k_NN i_FW p_NN p_NN e_SYM r_NN
-w_NN h_NN a_DT t_NN s_VBZ a_DT k_NN i_FW p_NN p_NN e_SYM r_NN
-c_NN h_NN i_FW n_NN e_SYM s_PRP e_SYM a_DT n_NN d_NN j_NN a_DT p_NN a_DT n_NN e_SYM s_NNS e_LS k_NN n_NN o_NN w_FW f_FW i_FW s_NNS h_NN r_NN e_SYM a_DT l_NN l_NN y_NN w_NN e_SYM l_NN l_NN
-t_NN h_NN e_SYM y_FW d_FW o_NN n_NN t_NN n_NN e_SYM e_LS d_NN s_NNS t_NN o_NN p_NN
-t_NN h_NN i_FW n_NN k_NN i_FW n_NN g_NN w_NN e_SYM r_NN e_SYM j_FW u_FW s_VBZ t_NN t_NN a_DT l_NN k_NN i_FW n_NN g_NN t_NN o_NN c_NN h_NN i_FW n_NN e_SYM s_NNS e_LS t_NN h_NN i_FW s_VBZ i_FW s_VBZ f_FW o_NN r_NN a_DT n_NN y_NN o_NN n_NN e_SYM w_FW h_NN o_NN w_VBD a_DT n_NN t_NN s_VBZ t_NN o_NN l_NN e_SYM a_DT r_NN n_NN e_SYM n_NN g_NN l_NN i_FW s_VBZ h_NN a_DT n_NN y_NN w_NN h_NN e_SYM r_NN e_SYM a_DT r_NN o_NN u_NN n_NN d_NN t_NN h_NN e_SYM w_FW o_NN r_NN l_NN d_NN
-t_NN h_NN e_SYM y_FW m_NN i_FW g_NN h_NN t_NN b_NN e_SYM s_NNS p_NN a_DT n_NN i_FW s_VBZ h_NN t_NN h_NN e_SYM y_FW m_NN i_FW g_NN h_NN t_NN b_NN e_SYM f_FW r_NN a_DT n_NN c_NN h_NN t_NN h_NN e_SYM y_FW m_NN i_FW g_NN h_NN t_NN b_NN e_SYM g_NN e_SYM r_NN m_NN a_DT n_NN
-O_NN K_NN
-w_NN h_NN y_NN d_NN o_NN y_NN o_NN u_FW o_NN n_NN l_NN y_NN c_NN a_DT r_NN e_SYM a_DT b_NN o_NN u_NN t_NN t_NN h_NN e_SYM c_NN h_NN i_FW n_NN e_SYM s_NNS e_SYM
-l_NN e_SYM a_DT r_NN n_NN i_FW n_NN g_NN a_DT b_NN o_NN u_NN t_NN t_NN h_NN i_FW s_NNS
-b_NN e_SYM c_SYM a_DT u_FW s_VBZ e_SYM m_NN o_NN s_VBZ t_NN s_NNS p_NN a_DT n_NN i_FW s_VBZ h_NN p_NN e_SYM o_NN p_NN l_NN e_SYM c_SYM a_DT n_NN s_VBZ p_NN e_SYM a_DT k_NN e_SYM n_NN g_NN l_NN i_FW s_VBZ h_NN
-t_NN h_NN e_SYM y_FW v_LS e_LS b_NN e_SYM e_LS n_NN t_NN a_DT u_FW g_NN h_NN t_NN i_FW t_NN
-b_NN u_NN t_NN a_DT l_NN l_NN r_NN i_FW g_NN h_NN t_NN k_NN i_FW p_NN p_NN e_SYM r_NN
-i_LS t_NN s_VBZ a_DT f_FW i_FW s_NNS h_NN
-a_DT s_NNS o_NN r_NN t_NN o_NN f_FW <_JJR n_NN o_NN w_NN >_JJR
-a_DT f_FW i_FW s_NNS h_NN y_NN s_VBZ o_NN r_NN t_NN o_NN f_FW f_FW i_FW s_NNS h_NN
-t_NN h_NN e_SYM r_NN e_SYM s_PRP s_VBZ o_NN m_NN e_SYM f_FW i_FW s_NNS h_NN t_NN h_NN a_DT t_NN a_DT r_NN e_SYM m_NN o_NN r_NN e_SYM m_NN e_SYM a_DT t_NN y_NN
-t_NN u_NN n_NN a_DT w_NN h_NN a_DT t_NN s_VBZ o_NN r_NN t_NN o_NN f_FW t_NN h_NN i_FW n_NN g_NN a_DT r_NN e_SYM y_FW o_NN u_FW a_FW f_FW t_NN e_SYM r_NN t_NN o_NN d_NN a_DT y_NN
-i_FW s_VBZ t_NN h_NN i_FW s_VBZ f_FW o_NN r_NN y_NN o_NN u_FW o_NN r_NN f_FW o_NN r_NN s_VBZ o_NN m_NN e_SYM o_NN n_NN e_SYM e_SYM l_NN s_NNS e_LS t_NN h_NN i_FW s_VBZ i_FW s_VBZ f_FW o_NN r_NN m_NN e_SYM i_FW d_FW l_NN i_FW k_NN e_SYM t_NN o_NN b_NN u_FW y_FW a_DT f_FW i_FW s_NNS h_NN p_NN l_NN e_SYM a_DT s_NNS e_LS r_NN i_FW g_NN h_NN t_NN b_NN u_FW t_NN <_JJR n_NN o_NN w_NN >_JJR b_NN u_NN t_NN s_VBZ u_FW r_NN e_SYM l_NN y_NN y_NN o_NN u_FW k_NN n_NN o_NN w_NN w_NN h_NN a_DT t_NN a_DT k_NN i_FW p_NN p_NN e_SYM r_NN i_FW s_NNS
-l_NN o_NN o_NN k_NN a_DT t_NN i_FW t_NN
-l_NN o_NN o_NN k_NN a_DT t_NN t_NN h_NN e_SYM f_FW i_FW s_NNS h_NN
-h_NN e_SYM r_NN e_SYM i_FW t_NN s_NNS c_NN a_DT l_NN l_NN e_SYM d_FW k_NN i_FW p_NN p_NN e_SYM r_NN
-w_NN h_NN e_SYM r_NN e_SYM y_FW o_NN u_FW f_FW r_NN o_NN m_NN
-i_FW d_FW o_NN n_NN t_NN s_VBZ p_NN e_SYM a_DT k_NN e_SYM n_NN g_NN l_NN i_FW s_VBZ h_NN
-i_FW d_FW j_FW u_FW s_VBZ t_NN w_NN r_NN a_DT p_NN a_DT n_NN y_NN o_NN l_NN d_NN s_VBZ h_NN i_FW t_NN u_FW p_NN a_DT n_NN d_NN g_NN i_FW v_LS e_SYM i_FW t_NN t_NN o_NN y_NN o_NN u_NN
-y_NN o_NN u_FW l_NN l_NN l_NN i_FW k_NN e_SYM t_NN h_NN i_FW s_NNS
-t_NN e_SYM n_NN n_NN e_SYM r_NN
-r_NN i_FW p_NN y_NN o_NN u_FW o_NN f_FW f_FW
-b_NN e_SYM c_SYM a_DT u_FW s_VBZ e_SYM i_FW m_NN b_NN u_FW s_VBZ y_NN
-t_NN h_NN a_DT t_NN s_VBZ w_NN h_NN a_DT t_NN h_NN a_DT p_NN p_NN e_SYM n_NN s_NNS i_FW n_NN t_NN h_NN i_FW s_VBZ c_NN o_NN u_NN n_NN t_NN r_NN y_NN
-t_NN h_NN a_DT t_NN s_VBZ w_NN h_NN y_NN t_NN h_NN e_SYM y_FW n_NN e_SYM e_LS d_NN t_NN o_NN b_NN e_SYM c_SYM a_DT r_NN e_SYM f_FW u_FW l_NN <_JJR n_NN o_NN w_NN >_JJR i_FW f_FW y_FW o_NN u_NN r_NN e_SYM c_NN o_NN m_NN i_FW n_NN g_NN t_NN o_NN e_SYM n_NN g_NN l_NN a_DT n_NN d_NN
-d_NN o_NN n_NN t_NN b_NN e_SYM r_NN i_FW p_NN p_NN e_SYM d_FW o_NN f_FW f_FW
-r_NN i_FW p_NN o_NN f_FW f_FW
-c_NN o_NN n_NN n_NN e_SYM d_SYM
-t_NN a_DT k_NN e_SYM n_NN a_DT d_NN v_LS a_DT n_NN t_NN a_DT g_NN e_SYM o_NN f_SYM
-<_JJR n_NN o_NN w_NN >_JJR d_NN o_NN n_NN e_SYM u_FW p_NN l_NN i_FW k_NN e_SYM a_DT k_NN i_FW p_NN p_NN e_SYM r_NN
-d_NN o_NN n_NN e_SYM u_FW p_NN l_NN i_FW k_NN e_SYM a_DT k_NN i_FW p_NN p_NN e_SYM r_NN
-l_NN o_NN o_NN k_NN a_DT t_NN t_NN h_NN i_FW s_VBZ f_FW o_NN r_NN e_SYM i_FW g_NN n_NN e_SYM r_NN
-i_FW d_FW o_NN n_NN e_SYM h_NN i_FW m_NN u_FW p_NN l_NN i_FW k_NN e_SYM a_DT k_NN i_FW p_NN p_NN e_SYM r_NN
-t_NN h_NN i_FW s_VBZ i_FW s_VBZ w_NN h_NN e_SYM n_NN e_SYM n_NN g_NN l_NN i_FW s_VBZ h_NN
-g_NN e_SYM t_NN s_NNS c_NN o_NN m_NN p_NN l_NN i_FW c_NN a_DT t_NN e_SYM d_NN b_NN e_SYM c_SYM a_DT u_FW s_VBZ e_SYM k_NN i_FW p_NN p_NN e_SYM r_NN
-a_DT l_NN o_NN t_NN o_NN f_FW e_LS n_NN g_NN l_NN i_FW s_VBZ h_NN w_NN o_NN r_NN d_NN s_NNS
-c_NN a_DT n_NN m_NN e_SYM a_DT n_NN m_NN a_DT n_NN y_NN t_NN h_NN i_FW n_NN g_NN s_NNS
-<_JJR n_NN o_NN w_NN >_JJR
-w_NN h_NN e_SYM r_NN e_SYM
-w_NN e_SYM a_DT r_NN
-s_NNS a_DT m_NN e_SYM w_FW o_NN r_NN d_NN
-d_NN i_FW f_FW f_FW e_LS r_NN e_SYM n_NN t_NN t_NN h_NN i_FW n_NN g_NN
-w_NN e_SYM a_DT r_NN i_FW n_NN g_NN
-w_NN h_NN e_SYM r_NN e_SYM v_LS e_SYM y_FW o_NN u_NN b_NN e_SYM e_LS n_NN
-i_LS m_NN w_NN e_SYM a_DT r_NN i_FW n_NN g_NN a_DT j_NN u_FW m_NN p_NN e_SYM r_NN
-w_NN h_NN e_SYM r_NN e_SYM v_LS e_SYM y_FW o_NN u_NN b_NN e_SYM e_LS n_NN
-w_NN h_NN e_SYM r_NN e_SYM
-B_NN r_NN i_FW l_NN l_NN i_FW a_DT n_NN t_NN
-o_NN n_NN e_SYM w_FW o_NN r_NN d_NN
-t_NN w_NN o_NN m_NN e_SYM a_DT n_NN i_FW n_NN g_NN s_NNS
-a_DT t_NN t_NN h_NN e_SYM s_NNS p_NN a_DT
-h_NN e_SYM l_NN l_NN o_NN
-i_FW d_FW l_NN i_FW k_NN e_SYM t_NN o_NN b_NN o_NN o_NN k_NN a_DT n_NN a_DT p_NN p_NN o_NN i_FW n_NN t_NN m_NN e_SYM n_NN t_NN f_FW o_NN r_NN a_DT t_NN r_NN e_SYM a_DT t_NN m_NN e_SYM n_NN t_NN
-o_NN k_NN w_NN h_NN e_SYM n_NN y_NN o_NN u_NN <_JJR n_NN o_NN w_NN >_JJR
-w_NN h_NN e_SYM n_NN y_NN o_NN u_NN r_NN e_SYM t_NN h_NN i_FW n_NN k_NN i_FW n_NN g_NN
-<_JJR n_NN o_NN w_NN >_JJR
-w_NN e_SYM r_NN e_SYM b_SYM u_FW s_NNS y_VBP a_DT l_NN l_NN
-t_NN o_NN d_NN a_DT y_NN
-t_NN o_NN m_NN o_NN r_NN r_NN o_NN w_NN
-c_NN a_DT n_NN w_NN e_SYM j_FW u_FW s_VBZ t_NN d_NN o_NN i_FW t_NN t_NN o_NN d_NN a_DT y_NN c_NN a_DT n_NN y_NN o_NN u_FW j_FW u_FW s_VBZ t_NN b_NN e_SYM a_DT v_LS a_DT i_FW l_NN a_DT b_NN l_NN e_SYM n_NN o_NN w_NN c_NN a_DT n_NN w_NN e_SYM j_FW u_FW s_VBZ t_NN d_NN o_NN i_FW t_NN s_NNS o_NN i_FW t_NN s_VBZ a_DT v_LS a_DT i_FW l_NN a_DT b_NN l_NN e_SYM n_NN o_NN w_NN t_NN h_NN e_SYM r_NN e_SYM s_VBZ n_NN o_NN t_NN h_NN i_FW n_NN g_NN w_NN e_SYM l_NN l_NN a_DT l_NN l_NN r_NN i_FW g_NN h_NN t_NN i_FW c_NN a_DT n_NN f_FW i_FW t_NN y_NN o_NN u_FW i_FW n_NN
-s_NNS o_NN m_NN e_SYM o_NN n_NN e_SYM h_NN a_DT s_NNS n_NN t_NN t_NN u_NN r_NN n_NN e_SYM d_FW u_FW p_NN y_NN e_SYM t_NN s_NNS o_NN w_NN e_SYM c_SYM a_DT n_NN g_NN e_SYM t_NN y_NN o_NN u_FW i_FW n_NN
-s_NNS o_NN i_FW n_NN t_NN e_SYM n_NN m_NN i_FW n_NN u_NN t_NN e_SYM s_NNS
-o_NN k_NN
-w_NN h_NN a_DT t_NN w_NN o_NN u_FW l_NN d_NN y_NN o_NN u_FW l_NN i_FW k_NN e_SYM
-<_JJR n_NN o_NN w_NN >_JJR i_FW w_FW o_NN u_FW l_NN d_NN l_NN i_FW k_NN e_SYM
-a_DT b_NN a_DT c_NN k_NN
-a_DT n_NN d_NN s_VBZ a_DT c_NN k_NN w_VBD a_DT x_NN i_FW n_NN g_NN p_NN l_NN e_SYM a_DT s_NNS e_SYM
-i_FW w_FW o_NN u_FW l_NN d_NN l_NN i_FW k_NN e_SYM m_NN y_NN b_NN a_DT c_NN k_NN w_VBD a_DT x_NN e_SYM d_SYM
-m_NN y_NN c_NN r_NN a_DT c_NN k_NN
-w_VB a_DT x_NN e_SYM d_FW a_DT n_NN d_NN m_NN y_NN s_VBZ a_DT c_NN k_NN
-w_VB a_DT x_NN e_SYM d_SYM
-R_NN i_FW g_NN h_NN t_NN d_NN o_NN y_NN o_NN u_FW d_FW o_NN t_NN h_NN e_SYM t_NN r_NN e_SYM a_DT t_NN m_NN e_SYM n_NN t_NN y_NN o_NN u_NN r_NN s_VBZ e_SYM l_NN f_FW n_NN o_NN i_FW d_FW l_NN i_FW k_NN e_SYM y_FW o_NN u_NN t_NN o_NN w_NN e_SYM l_NN l_NN i_FW c_NN a_DT n_NN t_NN w_NN h_NN y_NN n_NN o_NN t_NN i_FW h_NN a_DT v_LS e_LS t_NN o_NN b_NN e_SYM o_NN n_NN r_NN e_SYM c_NN e_SYM p_NN t_NN i_FW o_NN n_NN t_NN a_DT k_NN i_FW n_NN g_NN c_NN a_DT l_NN l_NN s_VBZ w_NN e_SYM l_NN l_NN
-o_NN k_NN
-y_NN o_NN u_NN c_NN a_DT n_NN t_NN r_NN e_SYM q_FW u_FW e_SYM s_VBZ t_NN w_NN h_NN o_NN s_VBZ d_NN o_NN i_FW n_NN g_NN t_NN o_NN u_NN r_NN s_VBZ a_DT c_NN k_NN y_NN o_NN u_NN r_NN c_NN r_NN a_DT c_NN k_NN o_NN r_NN y_NN o_NN u_NN r_NN b_NN a_DT c_NN k_NN t_NN h_NN e_SYM r_NN e_SYM s_VBZ a_DT w_NN o_NN m_NN a_DT n_NN i_FW n_NN t_NN h_NN e_SYM b_SYM a_DT c_NN k_NN w_NN h_NN o_NN d_NN o_NN e_SYM s_NNS y_VBP o_NN u_NN r_NN c_NN r_NN a_DT c_NN k_NN
-<_JJR n_NN o_NN w_NN >_JJR w_NN e_SYM l_NN l_NN
-<_JJR n_NN o_NN w_NN >_JJR
-t_NN h_NN i_FW s_VBZ i_FW s_VBZ f_FW u_FW c_NN k_NN i_FW n_NN i_FW n_NN s_VBZ a_DT n_NN e_SYM r_NN i_FW g_NN h_NN t_NN t_NN h_NN a_DT t_NN s_VBZ e_LS n_NN o_NN u_FW g_NN h_NN
-n_NN o_NN <_JJR n_NN o_NN w_NN >_JJR i_FW d_FW o_NN n_NN t_NN k_NN n_NN o_NN w_NN w_NN h_NN o_NN s_VBZ g_NN o_NN i_FW n_NN g_NN t_NN o_NN l_NN e_SYM a_DT r_NN n_NN a_DT n_NN y_NN t_NN h_NN i_FW n_NN g_NN f_FW r_NN o_NN m_NN t_NN h_NN i_FW s_NNS w_VBP a_DT i_FW t_NN
-a_DT t_NN l_NN a_DT s_NNS t_NN y_NN o_NN u_FW h_NN a_DT d_NN a_DT l_NN o_NN n_NN g_NN s_VBZ l_NN e_SYM e_SYM p_NN y_NN e_SYM s_NNS
-w_NN h_NN a_DT t_NN i_FW s_VBZ t_NN h_NN e_SYM t_NN i_FW m_NN e_SYM
-i_LS t_NN i_FW s_VBZ a_DT l_NN m_NN o_NN s_VBZ t_NN t_NN w_NN e_SYM l_NN v_LS e_LS t_NN h_NN i_FW r_NN t_NN y_NN
-<_JJR n_NN o_NN w_NN >_JJR
-i_LS t_NN i_FW s_VBZ s_NNS o_NN n_NN i_FW c_NN e_SYM t_NN o_NN s_VBZ l_NN e_SYM e_SYM p_NN
-y_NN e_SYM s_NNS <_JJR n_NN o_NN w_NN >_JJR
-a_DT n_NN d_NN w_NN h_NN a_DT t_NN a_DT b_NN o_NN u_NN t_NN l_NN a_DT s_NNS t_NN n_NN i_FW g_NN h_NN t_NN
-t_NN e_SYM l_NN l_NN m_NN e_SYM e_SYM v_LS e_LS r_NN y_NN t_NN h_NN i_FW n_NN g_NN
-<_JJR n_NN o_NN w_NN >_JJR
-t_NN h_NN e_SYM r_NN e_SYM w_FW e_LS r_NN e_SYM f_FW o_NN u_NN r_NN o_NN f_FW u_FW s_NNS
-c_NN h_NN a_DT n_NN
-h_NN i_FW s_VBZ f_FW r_NN i_FW e_LS n_NN d_NN j_NN e_SYM r_NN r_NN y_NN
-a_DT n_NN d_NN j_NN e_SYM r_NN r_NN y_NN s_VBZ g_NN i_FW r_NN l_NN f_FW r_NN i_FW e_LS n_NN d_NN k_NN a_DT t_NN e_SYM
-o_NN h_NN
-i_FW s_VBZ k_NN a_DT t_NN e_SYM n_NN i_FW c_NN e_SYM
-y_NN e_SYM s_PRP s_VBZ h_NN e_SYM i_FW s_VBZ v_LS e_LS r_NN y_NN n_NN i_FW c_NN e_SYM v_LS e_SYM r_SYM y_FW f_FW u_FW n_NN n_NN y_NN <_JJR n_NN o_NN w_NN >_JJR s_NNS h_NN e_SYM i_FW s_VBZ a_DT t_NN n_NN u_NN r_NN s_VBZ i_FW n_NN g_NN s_VBZ c_NN h_NN o_NN o_NN l_NN
-o_NN h_NN h_NN o_NN w_NN o_NN l_NN d_NN i_FW s_VBZ s_NNS h_NN e_SYM
-<_JJR n_NN o_NN w_NN >_JJR
-s_NNS h_NN e_SYM i_FW s_VBZ t_NN w_NN e_SYM n_NN t_NN y_NN
-a_DT n_NN d_NN w_NN h_NN a_DT t_NN a_DT b_NN o_NN u_NN t_NN y_NN o_NN u_NN r_NN d_NN i_FW n_NN n_NN e_SYM r_NN
-i_LS l_NN i_FW k_NN e_SYM t_NN h_NN e_SYM i_FW n_NN d_NN i_FW a_DT n_NN f_FW o_NN o_NN d_NN i_FW t_NN i_FW s_VBZ v_LS e_LS r_NN y_NN
-<_JJR n_NN o_NN w_NN >_JJR h_NN o_NN w_NN d_NN o_NN y_NN o_NN u_FW s_VBZ a_DT y_NN t_NN h_NN i_FW s_VBZ <_JJR n_NN o_NN w_NN >_JJR y_NN e_SYM s_PRP s_VBZ p_NN i_FW c_NN y_NN <_JJR n_NN o_NN w_NN >_JJR y_NN e_SYM s_PRP i_FW n_NN d_NN i_FW a_DT n_NN f_FW o_NN o_NN d_NN c_NN a_DT n_NN b_NN e_SYM h_NN o_NN t_NN
-a_DT n_NN d_NN s_VBZ p_NN i_FW c_NN y_NN
-a_DT n_NN d_NN w_NN e_SYM h_NN a_DT d_NN s_VBZ o_NN m_NN e_SYM w_FW h_NN i_FW t_NN e_SYM w_FW i_FW n_NN e_SYM f_FW r_NN o_NN m_NN k_NN e_SYM n_NN t_NN
-w_NN h_NN i_FW t_NN e_SYM w_FW i_FW n_NN e_SYM w_FW i_FW t_NN h_NN g_NN a_DT s_NNS
-s_NNS p_NN a_DT r_NN k_NN l_NN i_FW n_NN g_NN w_NN i_FW n_NN e_SYM o_NN h_NN
-y_NN e_SYM s_NNS e_LS n_NN g_NN l_NN a_DT n_NN d_NN d_NN o_NN e_SYM s_NNS h_NN a_DT v_LS e_SYM s_NNS o_NN m_NN e_SYM v_LS e_LS r_NN y_NN g_NN o_NN o_NN d_NN s_VBZ p_NN a_DT r_NN k_NN l_NN i_FW n_NN g_NN w_NN i_FW n_NN e_SYM s_NNS
-j_NN e_SYM r_NN r_NN y_VBD a_DT n_NN d_NN k_NN a_DT t_NN e_SYM o_NN n_NN l_NN y_NN s_VBZ p_NN e_SYM a_DT k_NN e_SYM n_NN g_NN l_NN i_FW s_VBZ h_NN
-t_NN h_NN a_DT t_NN i_FW s_VBZ g_NN o_NN o_NN d_NN p_NN r_NN a_DT c_NN t_NN i_FW c_NN e_SYM f_FW o_NN r_NN y_NN o_NN u_NN
-y_NN e_SYM s_VBZ b_NN u_NN t_NN i_FW t_NN i_FW s_VBZ v_LS e_LS r_NN y_NN d_NN i_FW f_FW f_FW i_FW c_NN u_FW l_NN t_NN a_DT n_NN d_NN v_LS e_LS r_NN y_NN t_NN i_FW r_NN i_FW n_NN g_NN
-w_NN e_SYM l_NN l_NN
-y_NN o_NN u_FW s_VBZ e_SYM e_SYM w_FW e_SYM h_NN a_DT v_LS e_LS c_NN o_NN f_FW f_FW e_SYM e_SYM
-i_LS n_NN e_SYM e_LS d_NN t_NN o_NN a_DT s_NNS k_NN y_NN o_NN u_NN r_NN o_NN p_NN i_FW n_NN i_FW o_NN n_NN a_DT b_NN o_NN u_NN t_NN s_VBZ o_NN m_NN e_SYM t_NN h_NN i_FW n_NN g_NN
-y_NN e_SYM s_NNS
-h_NN a_DT r_NN o_NN l_NN d_NN s_VBZ a_DT y_NN s_VBZ i_FW s_VBZ h_NN o_NN u_FW l_NN d_NN g_NN e_SYM t_NN a_DT j_NN o_NN b_NN t_NN o_NN o_NN
-y_NN o_NN u_FW w_FW a_DT n_NN t_NN a_DT j_NN o_NN b_NN
-w_NN e_SYM l_NN l_NN i_FW t_NN g_NN e_SYM t_NN s_NNS l_NN o_NN n_NN e_SYM l_NN y_NN h_NN e_SYM r_NN e_SYM d_FW u_FW r_NN i_FW n_NN g_NN t_NN h_NN e_SYM d_FW a_DT y_NN
-v_LS i_FW c_NN t_NN o_NN r_NN a_DT n_NN d_NN y_NN o_NN u_FW a_DT r_NN e_SYM b_SYM o_NN t_NN h_NN a_DT t_NN s_VBZ c_NN h_NN o_NN o_NN l_NN
-y_NN o_NN u_FW h_NN a_DT v_LS e_SYM a_DT f_FW u_FW n_NN j_NN o_NN b_NN a_DT t_NN t_NN h_NN e_SYM v_LS i_FW d_FW e_SYM o_NN s_NNS t_NN o_NN r_NN e_SYM
-o_NN h_NN
-y_NN o_NN u_FW w_FW a_DT n_NN t_NN t_NN o_NN w_NN o_NN r_NN k_NN a_DT t_NN t_NN h_NN e_SYM v_LS i_FW d_FW e_SYM o_NN s_NNS t_NN o_NN r_NN e_SYM t_NN o_NN o_NN n_NN o_NN
-i_FW w_FW a_DT n_NN t_NN t_NN o_NN w_NN o_NN r_NN k_NN a_DT s_NNS a_DT
-s_NNS a_DT l_NN e_SYM s_NNS p_NN e_SYM r_NN s_NNS o_NN n_NN
-s_NNS e_LS l_NN l_NN i_FW n_NN g_NN a_DT c_NN c_NN e_SYM s_PRP s_VBZ o_NN r_NN i_FW e_SYM s_VBZ a_DT n_NN d_NN c_NN l_NN o_NN t_NN h_NN e_SYM s_NNS
-o_NN h_NN
-y_NN o_NN u_FW a_DT r_NN e_SYM g_NN o_NN o_NN d_NN a_DT t_NN t_NN h_NN a_DT t_NN y_NN o_NN u_NN t_NN h_NN i_FW n_NN k_NN s_VBZ o_NN
-y_NN e_SYM s_NNS
-w_NN i_FW l_NN l_NN y_NN o_NN u_FW w_FW o_NN r_NN k_NN i_FW n_NN a_DT b_NN o_NN u_NN t_NN i_FW q_FW u_FW e_SYM
-n_NN o_NN i_FW w_FW o_NN u_FW l_NN d_NN l_NN i_FW k_NN e_SYM t_NN o_NN w_NN o_NN r_NN k_NN i_FW n_NN a_DT b_NN i_FW g_NN s_NNS t_NN o_NN r_NN e_SYM
-a_DT d_NN e_SYM p_NN a_DT r_NN t_NN m_NN e_SYM n_NN t_NN s_VBZ t_NN o_NN r_NN e_SYM o_NN h_NN
-s_NNS e_LS e_SYM i_FW a_DT m_NN a_DT g_NN o_NN o_NN d_NN s_VBZ h_NN o_NN p_NN p_NN e_SYM r_NN i_FW t_NN h_NN i_FW n_NN k_NN i_FW w_FW i_FW l_NN l_NN b_NN e_SYM a_DT g_NN o_NN o_NN d_NN s_VBZ e_SYM l_NN l_NN e_SYM r_NN t_NN o_NN o_NN
-y_NN o_NN u_FW w_FW i_FW l_NN l_NN b_NN e_SYM e_SYM x_CC c_NN e_SYM l_NN l_NN e_SYM n_NN t_NN h_NN e_SYM l_NN p_NN m_NN e_SYM p_NN r_NN a_DT c_NN t_NN i_FW c_NN e_SYM m_NN y_NN s_VBZ a_DT l_NN e_SYM s_NNS p_NN i_FW t_NN c_NN h_NN b_NN e_SYM f_FW o_NN r_NN e_SYM y_FW o_NN u_FW l_NN e_SYM a_DT v_LS e_SYM f_FW o_NN r_NN w_NN o_NN r_NN k_NN
-a_DT n_NN d_NN b_NN e_SYM f_FW o_NN r_NN e_SYM v_LS i_FW c_NN t_NN o_NN r_NN g_NN e_SYM t_NN s_NNS h_NN o_NN m_NN e_SYM
-w_NN h_NN a_DT t_NN t_NN i_FW m_NN e_SYM d_FW o_NN e_SYM s_NNS v_LS i_FW c_NN t_NN o_NN r_NN g_NN e_SYM t_NN h_NN o_NN m_NN e_SYM
-h_NN e_SYM s_NNS h_NN o_NN u_FW l_NN d_NN b_NN e_SYM b_SYM a_DT c_NN k_NN a_DT r_NN o_NN u_NN n_NN d_NN s_VBZ i_FW x_CC
-<_JJR n_NN o_NN w_NN >_JJR o_NN k_NN
-t_NN h_NN i_FW s_VBZ i_FW s_VBZ t_NN h_NN e_SYM c_NN o_NN m_NN p_NN a_DT n_NN y_NN i_FW a_DT m_NN g_NN o_NN i_FW n_NN g_NN t_NN o_NN a_DT p_NN p_NN l_NN y_NN t_NN o_NN
-c_NN h_NN u_NN r_NN c_NN h_NN i_FW l_NN l_NN s_NNS
-t_NN h_NN e_SYM y_FW s_VBZ e_SYM l_NN l_NN v_LS e_LS r_NN y_NN n_NN i_FW c_NN e_SYM w_FW o_NN m_NN e_SYM n_NN s_NNS c_NN l_NN o_NN t_NN h_NN i_FW n_NN g_NN
-a_DT n_NN d_NN i_FW s_VBZ h_NN o_NN u_FW l_NN d_NN g_NN e_SYM t_NN a_DT b_NN i_FW g_NN d_NN i_FW s_VBZ c_NN o_NN u_NN n_NN t_NN m_NN y_NN s_VBZ e_SYM l_NN f_SYM
-c_NN a_DT n_NN i_FW h_NN e_SYM l_NN p_NN y_NN o_NN u_FW m_NN a_DT d_NN a_DT m_NN e_SYM
-<_JJR n_NN o_NN w_NN >_JJR
-n_NN o_NN t_NN h_NN a_DT n_NN k_NN s_VBZ i_FW a_DT m_NN j_NN u_FW s_VBZ t_NN l_NN o_NN o_NN k_NN i_FW n_NN g_NN
-w_NN h_NN y_NN d_NN o_NN n_NN o_NN t_NN y_NN o_NN u_NN t_NN r_NN y_NN o_NN n_NN t_NN h_NN i_FW s_VBZ d_NN r_NN e_SYM s_NNS s_NNS
-i_LS t_NN s_NNS u_FW i_FW t_NN s_NNS y_VBP o_NN u_NN
-i_LS t_NN i_FW s_VBZ a_DT p_NN r_NN e_SYM t_NN t_NN y_NN d_NN r_NN e_SYM s_PRP s_VBZ b_NN u_NN t_NN i_FW t_NN i_FW s_VBZ t_NN o_NN o_NN b_NN i_FW g_NN
-o_NN h_NN m_NN a_DT d_NN a_DT m_NN e_SYM
-w_NN e_SYM h_NN a_DT v_LS e_SYM i_FW t_NN i_FW n_NN s_NNS m_NN a_DT l_NN l_NN e_SYM r_NN s_NNS i_FW z_SYM e_SYM s_NNS
-d_NN o_NN y_NN o_NN u_FW h_NN a_DT v_LS e_SYM i_FW t_NN i_FW n_NN a_DT n_NN o_NN t_NN h_NN e_SYM r_NN c_NN o_NN l_NN o_NN u_FW r_NN
-i_LS t_NN c_NN o_NN m_NN e_SYM s_PRP i_FW n_NN b_NN l_NN u_FW e_SYM
-g_NN r_NN e_SYM e_LS n_NN
-a_DT n_NN d_NN p_NN i_FW n_NN k_NN
-h_NN o_NN w_NN m_NN u_NN c_NN h_NN i_FW s_VBZ i_FW t_NN
-m_NN a_DT d_NN a_DT m_NN e_SYM
-i_LS t_NN i_FW s_VBZ o_NN n_NN s_VBZ a_DT l_NN e_SYM i_FW t_NN i_FW s_VBZ o_NN n_NN l_NN y_NN f_FW o_NN r_NN t_NN y_NN t_NN w_NN o_NN p_NN o_NN u_NN n_NN d_NN s_NNS
-<_JJR n_NN o_NN w_NN >_JJR
-o_NN k_NN i_FW w_FW i_FW l_NN l_NN t_NN a_DT k_NN e_SYM i_FW t_NN v_LS e_LS r_NN y_NN g_NN o_NN o_NN d_NN c_NN h_NN o_NN i_FW c_NN e_SYM m_NN a_DT d_NN a_DT m_NN e_SYM s_PRP e_SYM e_SYM y_FW o_NN u_FW a_DT r_NN e_SYM a_DT n_NN a_DT t_NN u_NN r_NN a_DT l_NN s_VBZ a_DT l_NN e_SYM s_NNS p_NN e_SYM r_NN s_NNS o_NN n_NN
-i_LS a_DT m_NN g_NN o_NN i_FW n_NN g_NN t_NN o_NN a_DT p_NN p_NN l_NN y_VBD a_DT t_NN c_NN h_NN i_FW r_NN c_NN h_NN i_FW l_NN l_NN '_'' s_VBZ t_NN o_NN m_NN o_NN r_NN r_NN o_NN w_NN
-o_NN h_NN o_NN k_NN d_NN o_NN n_NN o_NN t_NN s_VBZ a_DT y_NN a_DT n_NN y_NN t_NN h_NN i_FW n_NN g_NN t_NN o_NN v_LS i_FW c_NN t_NN o_NN r_NN
-n_NN o_NN i_FW w_FW i_FW l_NN l_NN n_NN o_NN t_NN i_FW w_FW a_DT n_NN t_NN t_NN o_NN s_VBZ u_FW r_NN p_NN r_NN i_FW s_VBZ e_SYM h_NN i_FW m_NN o_NN k_NN <_JJR n_NN o_NN w_NN >_JJR
-h_NN e_SYM l_NN l_NN o_NN i_FW a_DT m_NN j_NN a_DT n_NN e_SYM s_NNS m_NN i_FW t_NN h_NN
-h_NN i_FW j_FW a_DT n_NN e_SYM
-i_FW u_FW n_NN d_NN e_SYM r_NN s_NNS t_NN a_DT n_NN d_NN y_NN o_NN u_FW w_FW e_LS r_NN e_SYM t_NN h_NN i_FW n_NN k_NN i_FW n_NN g_NN a_DT b_NN o_NN u_NN t_NN a_DT p_NN p_NN l_NN y_NN i_FW n_NN g_NN f_FW o_NN r_NN a_DT d_NN m_NN i_FW s_VBZ s_NNS i_FW o_NN n_NN t_NN o_NN o_NN u_NN r_NN u_NN n_NN i_FW v_LS e_LS r_NN s_NNS i_FW t_NN y_NN
-y_NN e_SYM s_NNS
-y_NN o_NN u_NN r_NN s_VBZ c_NN h_NN o_NN o_NN l_NN h_NN a_DT s_NNS a_DT w_NN o_NN n_NN d_NN e_SYM r_NN f_FW u_FW l_NN e_SYM d_FW u_FW c_NN a_DT t_NN i_FW o_NN n_NN d_NN e_SYM p_NN a_DT r_NN t_NN m_NN e_SYM n_NN t_NN
-a_DT n_NN d_NN i_FW a_DT m_NN v_LS e_LS r_NN y_NN i_FW n_NN t_NN e_SYM r_NN e_SYM s_VBZ t_NN e_SYM d_FW i_FW n_NN t_NN e_SYM a_DT c_NN h_NN i_FW n_NN g_NN
-w_NN e_SYM l_NN l_NN i_FW t_NN i_FW s_VBZ v_LS e_LS r_NN y_NN g_NN o_NN o_NN d_NN t_NN o_NN b_NN e_SYM t_NN h_NN i_FW n_NN k_NN i_FW n_NN g_NN a_DT b_NN o_NN u_NN t_NN t_NN h_NN e_SYM f_FW u_FW t_NN u_NN r_NN e_SYM
-h_NN a_DT v_LS e_SYM y_FW o_NN u_NN t_NN h_NN o_NN u_FW g_NN h_NN t_NN a_DT b_NN o_NN u_NN t_NN w_NN h_NN a_DT t_NN a_DT g_NN e_SYM l_NN e_SYM v_LS e_SYM l_NN s_NNS t_NN u_FW d_FW e_LS n_NN t_NN s_NNS y_VBP o_NN u_FW w_FW e_LS r_NN e_SYM i_FW n_NN t_NN e_SYM r_NN e_SYM s_VBZ t_NN e_SYM d_FW i_FW n_NN t_NN e_SYM a_DT c_NN h_NN i_FW n_NN g_NN
-i_LS h_NN a_DT v_LS e_SYM
-b_NN u_NN t_NN t_NN h_NN a_DT t_NN i_FW s_VBZ w_NN h_NN a_DT t_NN i_FW t_NN p_NN o_NN s_VBZ e_SYM s_PRP s_VBZ o_NN m_NN e_SYM o_NN f_FW o_NN t_NN h_NN e_SYM r_NN p_NN r_NN o_NN b_NN l_NN e_SYM m_NN f_FW o_NN r_NN m_NN e_SYM
-i_LS r_NN e_SYM a_DT l_NN l_NN y_NN h_NN a_DT v_LS e_SYM e_LS n_NN j_NN o_NN y_NN e_SYM d_FW m_NN y_NN h_NN i_FW g_NN h_NN s_VBZ c_NN h_NN o_NN o_NN l_NN e_SYM n_NN g_NN l_NN i_FW s_VBZ h_NN a_DT n_NN d_NN l_NN i_FW t_NN e_SYM r_NN a_DT t_NN u_NN r_NN e_SYM c_NN l_NN a_DT s_NNS s_VBZ e_SYM s_NNS
-b_NN u_NN t_NN i_FW a_DT l_NN s_VBZ o_NN r_NN e_SYM a_DT l_NN l_NN y_NN l_NN i_FW k_NN e_SYM w_FW o_NN r_NN k_NN i_FW n_NN g_NN w_NN i_FW t_NN h_NN l_NN i_FW t_NN t_NN l_NN e_SYM k_NN i_FW d_FW s_NNS
-i_LS c_NN e_SYM r_NN t_NN a_DT i_FW n_NN l_NN y_NN u_NN n_NN d_NN e_SYM r_NN s_NNS t_NN a_DT n_NN d_NN y_NN o_NN u_NN r_NN d_NN i_FW l_NN e_SYM m_NN m_NN a_DT
-b_NN u_NN t_NN i_FW t_NN r_NN e_SYM a_DT l_NN l_NN y_NN n_NN e_SYM e_LS d_NN n_NN o_NN t_NN b_NN e_SYM a_DT p_NN r_NN o_NN b_NN l_NN e_SYM m_NN f_FW o_NN r_NN y_NN o_NN u_FW a_DT t_NN t_NN h_NN i_FW s_VBZ p_NN o_NN i_FW n_NN t_NN
-w_NN e_SYM l_NN l_NN w_NN h_NN y_NN i_FW s_VBZ t_NN h_NN a_DT t_NN
-i_LS t_NN h_NN o_NN u_FW g_NN h_NN t_NN i_FW w_FW o_NN u_FW l_NN d_NN n_NN e_SYM e_LS d_NN t_NN o_NN k_NN n_NN o_NN w_NN e_SYM x_CC a_DT c_NN t_NN l_NN y_NN w_NN h_NN a_DT t_NN i_FW w_FW a_DT n_NN t_NN e_SYM d_NN t_NN o_NN s_VBZ t_NN u_FW d_FW y_FW
-w_NN h_NN e_SYM n_NN i_FW a_DT p_NN p_NN l_NN i_FW e_SYM d_FW f_FW o_NN r_NN c_NN o_NN l_NN l_NN e_SYM g_NN e_SYM
-w_NN e_SYM l_NN l_NN s_VBZ o_NN m_NN e_SYM s_VBZ t_NN u_FW d_FW e_LS n_NN t_NN s_VBZ d_NN o_NN a_DT n_NN d_NN o_NN t_NN h_NN e_SYM r_NN s_NNS d_NN o_NN n_NN o_NN t_NN
-m_NN o_NN s_VBZ t_NN s_NNS t_NN u_FW d_FW e_LS n_NN t_NN s_VBZ h_NN a_DT v_LS e_SYM a_DT g_NN e_SYM n_NN e_SYM r_NN a_DT l_NN i_FW d_FW e_SYM a_DT b_NN e_SYM f_FW o_NN r_NN e_SYM t_NN h_NN e_SYM y_FW e_LS n_NN r_NN o_NN l_NN l_NN
-b_NN u_NN t_NN n_NN o_NN t_NN a_DT l_NN l_NN s_VBZ t_NN u_FW d_FW e_LS n_NN t_NN s_NNS s_VBZ t_NN a_DT y_NN o_NN n_NN t_NN h_NN e_SYM e_LS d_NN u_NN c_NN a_DT t_NN i_FW o_NN n_NN a_DT l_NN p_NN a_DT t_NN h_NN t_NN h_NN e_SYM y_FW s_VBZ t_NN a_DT r_NN t_NN e_SYM d_FW o_NN u_NN t_NN o_NN n_NN
-w_NN h_NN a_DT t_NN m_NN o_NN s_VBZ t_NN s_NNS t_NN u_FW d_FW e_LS n_NN t_NN s_VBZ d_NN o_NN n_NN o_NN t_NN r_NN e_SYM a_DT l_NN i_FW z_SYM e_SYM i_FW s_VBZ t_NN h_NN a_DT t_NN a_DT l_NN l_NN f_FW i_FW r_NN s_NNS t_NN y_NN e_SYM a_DT r_NN o_NN r_NN f_FW r_NN e_SYM s_NNS h_NN m_NN a_DT n_NN c_NN o_NN l_NN l_NN e_SYM g_NN e_SYM s_VBZ t_NN u_FW d_FW e_LS n_NN t_NN s_VBZ <_JJR n_NN o_NN w_NN >_JJR w_NN i_FW l_NN l_NN b_NN e_SYM t_NN a_DT k_NN i_FW n_NN g_NN w_NN h_NN a_DT t_NN w_NN e_SYM c_SYM a_DT l_NN l_NN c_NN o_NN r_NN e_SYM c_NN l_NN a_DT s_NNS s_VBZ e_SYM s_NNS h_NN i_FW r_NN o_NN b_NN h_NN o_NN w_VBD a_DT r_NN e_SYM y_FW o_NN u_NN t_NN o_NN d_NN a_DT y_NN h_NN e_SYM l_NN l_NN o_NN l_NN i_FW i_FW a_DT m_NN r_NN e_SYM a_DT l_NN l_NN y_VBD a_DT n_NN g_NN r_NN y_NN w_NN h_NN y_NN w_NN e_SYM l_NN l_NN b_NN e_SYM c_SYM a_DT u_FW s_VBZ e_SYM i_FW w_FW o_NN r_NN k_NN v_LS e_LS r_NN y_NN h_NN a_DT r_NN d_NN i_FW g_NN e_SYM t_NN r_NN e_SYM s_PRP u_FW l_NN t_NN s_VBZ i_FW d_FW o_NN m_NN u_NN c_NN h_NN m_NN o_NN r_NN e_SYM t_NN h_NN a_DT n_NN i_FW r_NN e_SYM a_DT l_NN l_NN y_NN s_VBZ h_NN o_NN u_FW l_NN d_NN a_DT n_NN d_NN n_NN o_NN b_NN o_NN d_NN y_NN n_NN o_NN t_NN i_FW c_NN e_SYM s_PRP i_FW d_FW o_NN n_NN t_NN g_NN e_SYM t_NN a_DT n_NN y_NN r_NN e_SYM c_NN o_NN g_NN n_NN i_FW t_NN i_FW o_NN n_NN y_NN e_SYM s_NNS y_VBP o_NN u_FW d_FW o_NN w_NN o_NN r_NN k_NN h_NN a_DT r_NN d_NN r_NN o_NN b_NN y_NN o_NN u_FW s_VBZ h_NN o_NN u_FW l_NN d_NN e_SYM a_DT r_NN n_NN a_DT f_FW o_NN r_NN t_NN u_NN n_NN e_SYM i_FW k_NN n_NN o_NN w_FW y_FW o_NN u_FW s_VBZ e_SYM e_LS t_NN h_NN a_DT t_NN i_FW s_VBZ i_FW t_NN i_FW a_DT m_NN g_NN o_NN i_FW n_NN g_NN t_NN o_NN g_NN o_NN a_DT n_NN d_NN s_VBZ e_SYM e_LS t_NN h_NN e_SYM b_SYM o_NN s_NNS s_VBZ r_NN i_FW g_NN h_NN t_NN n_NN o_NN w_NN i_FW a_DT m_NN g_NN o_NN i_FW n_NN g_NN t_NN o_NN a_DT s_NNS k_NN f_FW o_NN r_NN a_DT p_NN a_DT y_NN r_NN i_FW s_VBZ e_SYM g_NN o_NN o_NN d_NN o_NN n_NN y_NN o_NN u_NN r_NN o_NN b_NN r_NN i_FW g_NN h_NN t_NN n_NN o_NN w_FW y_FW e_SYM s_VBZ r_NN i_FW g_NN h_NN t_NN n_NN o_NN w_NN h_NN e_SYM l_NN l_NN o_NN f_FW e_SYM i_FW f_FW e_SYM i_FW w_FW e_SYM l_NN c_NN o_NN m_NN e_SYM b_SYM a_DT c_NN k_NN t_NN o_NN t_NN h_NN e_SYM o_NN f_FW f_FW i_FW c_NN e_SYM h_NN i_FW f_FW i_FW n_NN n_NN b_NN a_DT c_NN k_NN t_NN o_NN w_NN o_NN r_NN k_NN y_NN e_SYM s_VBZ w_NN e_SYM l_NN l_NN h_NN o_NN w_NN w_VBD a_DT s_NNS y_VBP o_NN u_NN r_NN h_NN o_NN l_NN i_FW d_FW a_DT y_NN y_NN o_NN u_FW l_NN o_NN o_NN k_NN g_NN r_NN e_SYM a_DT t_NN o_NN h_NN t_NN h_NN a_DT n_NN k_NN s_NNS f_LS a_DT n_NN t_NN a_DT s_NNS t_NN i_FW c_NN w_NN e_SYM s_NNS p_NN e_SYM n_NN t_NN e_SYM v_LS e_LS r_NN y_NN d_NN a_DT y_NN o_NN n_NN t_NN h_NN e_SYM b_NN e_SYM a_DT c_NN h_NN o_NN h_NN n_NN i_FW c_NN e_SYM y_FW e_SYM a_DT h_NN j_NN u_FW s_VBZ t_NN r_NN e_SYM l_NN a_DT x_NN i_FW n_NN g_NN s_VBZ w_NN i_FW m_NN m_NN i_FW n_NN g_NN r_NN e_SYM a_DT d_NN i_FW n_NN g_NN n_NN o_NN v_LS e_SYM l_NN s_NNS e_LS a_DT t_NN i_FW n_NN g_NN f_FW r_NN e_SYM s_NNS h_NN s_VBZ e_SYM a_DT f_FW o_NN o_NN d_NN a_DT n_NN d_NN m_NN y_NN f_FW a_DT v_LS o_NN u_NN r_NN i_FW t_NN e_SYM n_NN e_SYM w_FW t_NN h_NN i_FW n_NN g_NN p_NN l_NN a_DT y_NN i_FW n_NN g_NN b_NN e_SYM a_DT c_NN h_NN v_LS o_NN l_NN l_NN e_SYM y_FW b_NN a_DT l_NN l_NN c_NN o_NN o_NN l_NN y_NN o_NN u_FW m_NN u_FW s_VBZ t_NN h_NN a_DT v_LS e_SYM h_NN a_DT d_NN a_DT b_NN a_DT l_NN l_NN o_NN f_FW c_NN o_NN u_NN r_NN s_VBZ e_SYM w_FW e_SYM h_NN a_DT d_NN a_DT b_NN a_DT l_NN l_NN w_NN e_SYM w_FW e_LS r_NN e_SYM p_NN l_NN a_DT y_NN i_FW n_NN g_NN v_LS o_NN l_NN l_NN e_SYM y_FW b_NN a_DT l_NN l_NN y_NN o_NN u_NN c_NN a_DT n_NN n_NN o_NN t_NN p_NN l_NN a_DT y_NN v_LS o_NN l_NN l_NN e_SYM y_FW b_NN a_DT l_NN l_NN w_NN i_FW t_NN h_NN o_NN u_NN t_NN a_DT b_NN a_DT l_NN l_NN w_NN e_SYM l_NN l_NN y_NN e_SYM a_DT h_NN y_NN o_NN u_FW a_DT r_NN e_SYM r_NN i_FW g_NN h_NN t_NN y_NN o_NN u_FW d_FW o_NN n_NN e_SYM e_LS d_NN a_DT b_NN a_DT l_NN l_NN E_NN l_NN l_NN i_FW s_VBZ t_NN h_NN i_FW s_VBZ i_FW s_VBZ N_NN o_NN w_NN o_NN u_NN r_NN n_NN e_SYM w_FW f_FW l_NN a_DT t_NN m_NN a_DT t_NN e_SYM h_NN e_SYM i_FW s_VBZ r_NN e_SYM a_DT l_NN l_NN y_NN m_NN i_FW s_VBZ s_NNS i_FW n_NN g_NN h_NN i_FW s_VBZ f_FW r_NN a_DT m_NN e_SYM s_VBZ n_NN o_NN w_NN l_NN e_SYM t_NN m_NN e_SYM t_NN a_DT k_NN e_SYM y_FW o_NN u_NN r_NN n_NN o_NN w_NN o_NN f_FW t_NN h_NN a_DT t_NN s_VBZ o_NN w_NN h_NN e_SYM r_NN e_SYM a_DT r_NN e_SYM y_FW o_NN u_FW f_FW r_NN o_NN m_NN n_NN o_NN w_FW f_FW r_NN o_NN m_NN n_NN o_NN w_NN t_NN h_NN e_SYM p_NN o_NN l_NN i_FW s_VBZ h_NN c_NN a_DT p_NN i_FW t_NN a_DT l_NN n_NN o_NN w_NN w_NN h_NN a_DT t_NN d_NN o_NN y_NN o_NN u_FW d_FW o_NN i_FW a_DT m_NN a_DT g_NN u_FW i_FW d_FW e_LS t_NN o_NN u_NN r_NN i_FW s_VBZ t_NN n_NN o_NN w_NN s_VBZ o_NN i_FW n_NN t_NN e_SYM r_NN e_SYM s_VBZ t_NN i_FW n_NN g_NN w_NN h_NN y_VBD a_DT r_NN e_SYM y_FW o_NN u_FW v_LS i_FW s_VBZ i_FW t_NN i_FW n_NN g_NN l_NN o_NN n_NN d_NN o_NN n_NN n_NN o_NN w_NN t_NN o_NN i_FW m_NN p_NN r_NN o_NN v_LS e_SYM m_NN y_NN e_SYM n_NN g_NN l_NN i_FW s_VBZ h_NN n_NN o_NN w_NN w_NN h_NN y_NN n_NN o_NN t_NN c_NN o_NN m_NN e_SYM o_NN u_NN t_NN w_NN i_FW t_NN h_NN u_FW s_VBZ n_NN o_NN w_NN t_NN h_NN e_SYM n_NN w_NN e_SYM c_SYM a_DT n_NN s_VBZ h_NN o_NN w_FW y_FW o_NN u_FW u_FW p_NN a_DT n_NN d_NN y_NN o_NN u_NN c_NN a_DT n_NN p_NN r_NN a_DT c_NN t_NN i_FW c_NN e_SYM y_FW o_NN u_NN r_NN e_SYM n_NN g_NN l_NN i_FW s_VBZ h_NN a_DT t_NN t_NN h_NN e_SYM s_VBZ a_DT m_NN e_SYM t_NN i_FW m_NN e_SYM
-g_NN o_NN o_NN d_NN m_NN o_NN r_NN n_NN i_FW n_NN g_NN
-g_NN o_NN o_NN d_NN m_NN o_NN r_NN n_NN i_FW n_NN g_NN
-a_DT n_NN y_NN t_NN h_NN i_FW n_NN g_NN i_FW n_NN t_NN e_SYM r_NN e_SYM s_VBZ t_NN i_FW n_NN g_NN i_FW n_NN p_NN a_DT p_NN e_SYM r_NN
-i_FW w_FW a_DT n_NN t_NN t_NN o_NN s_VBZ e_SYM e_SYM s_NNS o_NN m_NN e_SYM e_SYM x_CC h_NN i_FW b_NN i_FW t_NN i_FW o_NN n_NN s_NNS
-w_NN e_SYM l_NN l_NN t_NN h_NN e_SYM r_NN e_SYM i_FW s_VBZ t_NN h_NN e_SYM t_NN a_DT t_NN e_SYM m_NN o_NN d_NN e_SYM r_NN n_NN
-o_NN h_NN y_NN e_SYM s_PRP i_FW a_DT m_NN g_NN o_NN i_FW n_NN g_NN t_NN o_NN t_NN h_NN a_DT t_NN i_FW a_DT m_NN m_NN e_SYM e_LS t_NN i_FW n_NN g_NN c_NN h_NN a_DT n_NN g_NN i_FW w_FW a_DT n_NN t_NN t_NN o_NN s_VBZ e_SYM e_SYM a_DT f_FW e_SYM w_FW t_NN h_NN i_FW n_NN g_NN s_VBZ #_# w_FW e_SYM l_NN l_NN y_NN o_NN u_FW w_FW o_NN n_NN '_'' t_NN h_NN a_DT v_LS e_SYM m_NN u_NN c_NN h_NN t_NN i_FW m_NN e_SYM i_FW f_FW y_FW o_NN u_FW f_FW i_FW n_NN i_FW s_VBZ h_NN w_NN o_NN r_NN k_NN a_DT t_NN s_VBZ e_SYM v_LS e_LS n_NN #_# i_FW f_FW i_FW n_NN i_FW s_VBZ h_NN e_SYM a_DT r_NN l_NN y_NN i_FW a_DT m_NN w_NN o_NN r_NN k_NN i_FW n_NN g_NN f_FW r_NN o_NN m_NN n_NN i_FW n_NN e_SYM t_NN o_NN o_NN n_NN e_SYM
-i_FW s_VBZ e_SYM e_SYM
-b_NN u_NN t_NN i_FW a_DT m_NN c_NN o_NN n_NN f_FW u_FW s_NNS e_LS d_NN t_NN h_NN o_NN u_FW g_NN h_NN t_NN h_NN e_SYM r_NN e_SYM a_DT r_NN e_SYM m_NN a_DT n_NN y_NN p_NN l_NN a_DT c_NN e_SYM s_VBZ t_NN o_NN s_VBZ e_SYM e_SYM
-c_NN a_DT n_NN i_FW h_NN e_SYM l_NN p_NN y_NN o_NN u_NN
-p_NN l_NN e_SYM a_DT s_NNS e_SYM
-o_NN k_NN a_DT y_NN w_NN h_NN a_DT t_NN a_DT r_NN e_SYM y_FW o_NN u_FW m_NN o_NN r_NN e_SYM i_FW n_NN t_NN e_SYM r_NN e_SYM s_VBZ t_NN e_SYM d_FW i_FW n_NN l_NN i_FW t_NN e_SYM r_NN a_DT t_NN u_NN r_NN e_SYM a_DT r_NN t_NN o_NN r_NN h_NN i_FW s_VBZ t_NN o_NN r_NN y_NN #_# i_FW a_DT m_NN i_FW n_NN t_NN e_SYM r_NN e_SYM s_VBZ t_NN e_SYM d_FW i_FW n_NN a_DT r_NN t_NN a_DT n_NN d_NN l_NN i_FW t_NN e_SYM r_NN a_DT t_NN u_NN r_NN e_SYM
-o_NN k_NN a_DT y_NN
-C_NN a_DT n_NN i_FW m_NN a_DT k_NN e_SYM a_DT s_NNS u_FW g_NN g_NN e_SYM s_VBZ t_NN i_FW o_NN n_NN
-y_NN e_SYM s_NNS
-t_NN h_NN e_SYM t_NN a_DT t_NN e_SYM m_NN o_NN d_NN e_SYM r_NN n_NN c_NN l_NN o_NN s_VBZ e_SYM s_NNS l_NN a_DT t_NN e_SYM o_NN n_NN s_VBZ a_DT t_NN u_NN r_NN d_NN a_DT y_NN s_NNS
-b_NN u_NN t_NN m_NN o_NN s_VBZ t_NN o_NN f_FW t_NN h_NN e_SYM o_NN t_NN h_NN e_SYM r_NN m_NN u_FW s_VBZ e_SYM u_FW m_NN s_NNS c_NN l_NN o_NN s_VBZ e_SYM a_DT r_NN o_NN u_NN n_NN d_NN f_FW i_FW v_LS e_SYM
-s_NNS o_NN o_NN k_NN a_DT y_NN s_VBZ e_SYM e_SYM h_NN e_SYM r_NN e_SYM
-I_PRP s_VBZ u_FW g_NN g_NN e_SYM s_VBZ t_NN y_NN o_NN u_NN t_NN a_DT k_NN e_SYM t_NN h_NN e_SYM t_NN u_NN b_NN e_SYM t_NN o_NN b_NN a_DT r_NN b_NN i_FW c_NN a_DT n_NN
-t_NN h_NN e_SYM n_NN y_NN o_NN u_FW g_NN o_NN a_DT l_NN o_NN n_NN g_NN s_VBZ i_FW d_FW e_SYM h_NN e_SYM r_NN e_SYM a_DT l_NN d_NN e_SYM r_NN s_NNS g_NN a_DT t_NN e_SYM s_VBZ t_NN r_NN e_SYM e_LS t_NN a_DT n_NN d_NN l_NN e_SYM f_FW t_NN i_FW n_NN t_NN o_NN t_NN h_NN e_SYM m_NN u_FW s_VBZ e_SYM u_FW m_NN o_NN f_FW l_NN o_NN n_NN d_NN o_NN n_NN
-o_NN k_NN a_DT y_NN
-a_DT n_NN d_NN r_NN i_FW g_NN h_NN t_NN n_NN e_SYM x_CC t_NN t_NN o_NN i_FW t_NN i_FW s_NNS s_VBZ a_DT i_FW n_NN t_NN p_NN a_DT u_FW l_NN s_NNS c_NN a_DT t_NN h_NN e_SYM d_NN r_NN a_DT l_NN y_NN o_NN u_FW m_NN u_FW s_VBZ t_NN s_NNS e_LS e_LS t_NN h_NN a_DT t_NN
-i_LS t_NN i_FW s_VBZ v_LS e_SYM r_SYM y_FW f_FW a_DT m_NN o_NN u_FW s_NNS
-t_NN h_NN e_SYM n_NN y_NN o_NN u_NN c_NN a_DT n_NN w_VBD a_DT l_NN k_NN a_DT c_NN r_NN o_NN s_NNS s_VBZ t_NN h_NN e_SYM m_NN i_FW l_NN l_NN e_SYM n_NN n_NN i_FW u_FW m_NN b_NN r_NN i_FW d_FW g_NN e_SYM t_NN h_NN e_SYM r_NN e_SYM i_FW s_VBZ f_SYM a_DT n_NN t_NN a_DT s_NNS t_NN i_FW c_NN v_LS i_FW e_SYM w_FW o_NN f_FW t_NN h_NN e_SYM e_SYM m_NN b_NN a_DT n_NN k_NN m_NN e_SYM n_NN t_NN o_NN n_NN t_NN h_NN e_SYM a_DT r_NN e_SYM a_DT a_DT r_NN o_NN u_NN n_NN d_NN t_NN h_NN e_SYM t_NN h_NN a_DT m_NN e_SYM s_VBZ b_NN r_NN i_FW l_NN l_NN i_FW a_DT n_NN t_NN o_NN l_NN d_NN a_DT n_NN d_NN n_NN e_SYM w_FW a_DT r_NN c_NN h_NN i_FW t_NN e_SYM c_NN t_NN u_NN r_NN e_SYM l_NN o_NN t_NN s_VBZ h_NN a_DT p_NN p_NN e_SYM n_NN i_FW n_NN g_NN
-i_FW w_FW i_FW s_NNS h_NN y_NN o_NN u_NN c_NN o_NN u_FW l_NN d_NN c_NN o_NN m_NN e_SYM t_NN o_NN o_NN
+what_WP the_DT
+devil_NNP have_VBP i_FW done_VBN with_IN my_PRP$ slippers_NNS
+here_RB are_VBP your_PRP$ slippers_NNS
+this_DT <now>_NN <now>_NN and_CC this_DT <now>_NN take_VB your_PRP$ slippers_NNS and_CC may_MD you_PRP never_RB have_VBP a_DT day_NN s_VBZ luck_NN with_IN them_PRP
+what_WDT on_IN
+<now>_NN
+what_WP is_VBZ the_DT matter_NN is_VBZ anything_NN wrong_JJ
+no_DT nothing_NN is_VBZ wrong_JJ with_IN you_PRP I_PRP won_VBD your_PRP$ bet_NN for_IN you_PRP have_VBP not_RB I_PRP <now>_VBP that_DT is_VBZ enough_RB for_IN you_PRP <now>_VBP I_PRP do_VBP not_RB matter_VB I_PRP suppose_VBP
+you_PRP won_VBD my_PRP$ bet_NN you_PRP presumptuous_JJ insect_NN I_PRP won_VBD it_PRP why_WRB did_VBD you_PRP throw_VB the_DT slippers_NNS at_IN me_PRP before_IN
+because_IN I_PRP wanted_VBD to_TO smash_VB your_PRP$ face_NN I_PRP could_MD kill_VB you_PRP selfish_JJ brute_JJ <now>_NN why_WRB did_VBD not_RB you_PRP leave_VBP me_PRP where_WRB you_PRP picked_VBD me_PRP out_IN of_IN in_IN the_DT gutter_NN
+you_PRP thank_VBP god_NN it_PRP is_VBZ all_DT over_IN now_RB you_PRP can_MD throw_VB me_PRP back_RB again_RB there_EX do_VBP you_PRP
+<now>_NN so_IN the_DT creature_NN is_VBZ nervous_JJ after_IN all_DT
+<now>_NN
+<now>_NN
+<now>_NN
+claws_NNS in_IN you_PRP cat_NN how_WRB dare_VB you_PRP show_VB your_PRP$ temper_NN to_TO me_PRP
+sit_VB down_RP and_CC be_VB quiet_JJ
+<now>_VB what_WP is_VBZ to_TO become_VB of_IN me_PRP what_WP is_VBZ to_TO become_VB of_IN me_PRP
+how_WRB the_DT devil_NNP do_VBP I_PRP know_VB what_WP is_VBZ to_TO become_VB of_IN you_PRP what_WP does_VBZ it_PRP matter_VB what_WP becomes_VBZ of_IN you_PRP
+<now>_VB you_PRP do_VBP not_RB care_VB I_PRP know_VB you_PRP do_VBP not_RB care_VB
+<now>_VB you_PRP would_MD not_RB care_VB if_IN I_PRP was_VBD dead_JJ I_PRP am_VBP nothing_NN to_TO you_PRP not_RB as_RB much_JJ as_IN them_PRP slippers_NNS
+those_DT slippers_NNS
+those_DT slippers_NNS
+I_PRP did_VBD not_RB think_VB it_PRP meant_VBD any_DT difference_NN now_RB
+<now>_NN why_WRB have_VBP you_PRP suddenly_RB begun_VBD going_VBG on_IN like_IN this_DT <now>_NN
+may_MD I_PRP ask_VB if_IN you_PRP complain_VBP of_IN your_PRP$ treatment_NN here_RB
+no_DT
+has_VBZ anybody_NN behaved_VBD badly_RB colonel_JJ pickering_NN mrs_NNS pearce_VBP
+no_DT
+well_RB you_PRP do_VBP not_RB pretend_VB that_IN I_PRP have_VBP treated_VBN you_PRP badly_RB
+no_DT
+no_DT I_PRP am_VBP glad_JJ to_TO hear_VB that_DT
+perhaps_RB you_PRP are_VBP tired_VBN after_IN the_DT strain_NN of_IN the_DT day_NN
+would_MD you_PRP have_VB
+would_MD you_PRP have_VB a_DT chocolate_NN
+no_DT
+thank_VB you_PRP
+well_RB it_PRP is_VBZ only_RB natural_JJ that_IN you_PRP should_MD be_VB anguished_JJ but_CC
+it_PRP is_VBZ all_DT over_IN now_RB
+nothing_NN more_JJR to_TO worry_VB about_IN
+no_DT nothing_NN more_RBR for_IN you_PRP to_TO worry_VB about_IN
+<now>_NN god_NN I_PRP wish_VBP I_PRP was_VBD dead_JJ
+why_WRB
+in_IN heaven_NN s_NNS name_NN why_WRB
+now_RB listen_VBP to_TO me_PRP eliza_VBP all_PDT this_DT irritation_NN is_VBZ purely_RB subjective_JJ
+I_PRP do_VBP not_RB understand_VB I_PRP am_VBP too_RB ignorant_JJ
+it_PRP is_VBZ just_RB imagination_NN nothing_NN is_VBZ wrong_JJ nobody_NN is_VBZ hurting_VBG you_PRP <now>_VBP
+and_CC you_PRP go_VBP to_TO bed_NN and_CC sleep_VB it_PRP off_RP have_VBP a_DT little_JJ cry_NN and_CC say_VB your_PRP$ prayers_NNS and_CC you_PRP ll_VBP feel_VB very_RB much_RB more_RBR comfortable_JJ
+I_PRP heard_VBD your_PRP$ prayers_NNS
+thank_VB god_NN it_PRP is_VBZ all_DT over_IN
+well_RB do_VBP not_RB you_PRP thank_VB god_NN it_PRP s_VBZ all_DT over_IN now_RB you_PRP are_VBP free_JJ and_CC you_PRP can_MD do_VB what_WP you_PRP like_IN
+what_WDT am_VBP I_PRP fit_VB for_IN what_WP have_VBP you_PRP left_VBD me_PRP fit_VB for_IN
+<now>_NN where_WRB am_VBP I_PRP to_TO go_VB what_WP am_VBP I_PRP to_TO do_VB
+and_CC what_WP is_VBZ to_TO become_VB of_IN me_PRP
+<now>_NN that_WDT is_VBZ what_WP is_VBZ worrying_VBG you_PRP is_VBZ it_PRP
+<now>_NN I_PRP would_MD not_RB worry_VB about_IN that_DT if_IN I_PRP were_VBD you_PRP I_PRP am_VBP sure_JJ you_PRP will_MD not_RB have_VB any_DT difficulty_NN in_IN settling_VBG yourself_PRP somewhere_RB or_CC other_JJ
+I_PRP did_VBD not_RB quite_RB realize_VB you_PRP were_VBD going_VBG away_RB
+<now>_VB you_PRP might_MD marry_VB you_PRP know_VB
+good_JJ morning_NN karen_NNS
+good_JJ morning_NN amanda_IN
+how_WRB are_VBP you_PRP
+i_FW am_VBP fine_JJ thank_VB you_PRP
+how_WRB was_VBD your_PRP$ week_NN end_NN
+wonderful_JJ i_FW bought_VBD a_DT dress_NN at_IN the_DT department_NN store_NN
+what_WDT color_NN was_VBD the_DT dress_NN
+it_PRP was_VBD red_JJ dress_NN
+how_WRB was_VBD your_PRP$ weekend_NN
+red_JJ is_VBZ my_PRP$ favourite_JJ color_NN
+this_DT week_NN end_NN
+i_LS studied_VBN for_IN classes_NNS
+what_WDT classes_NNS are_VBP you_PRP taking_VBG
+american_JJ history_NN
+are_VBP you_PRP taking_VBG any_DT classes_NNS
+yes_RB i_FW am_VBP taking_VBG art_NN
+i_LS love_NN to_TO paint_VB
+who_WP is_VBZ your_PRP$ favourite_JJ artist_NN
+<now>_NN
+picasso_NN is_VBZ my_PRP$ favorite_JJ artist_NN
+and_CC you_PRP
+degas_NNS is_VBZ my_PRP$ favorite_JJ artist_NN
+do_VB you_PRP want_VBP to_TO go_VB to_TO the_DT art_NN museum_NN this_DT weekend_NN
+yes_RB
+what_WDT time_NN
+how_WRB about_RB
+two_CD o'clock_RB
+on_IN friday_NNP
+no_DT i_FW have_VBP class_NN until_IN four_CD o'clock_RB on_IN friday_NNP
+the_DT museum_NN closes_VBZ at_IN five_CD o'clock_RB
+what_WDT should_MD we_PRP do_VB
+we_PRP can_MD go_VB to_TO the_DT museum_NN on_IN saturday_NNP
+okay_JJ
+saturday_NNP is_VBZ good_JJ
+i_LS am_VBP free_JJ on_IN saturday_NNP
+we_PRP will_MD go_VB on_IN saturday_NNP
+see_VB you_PRP then_RB
+goodbye_NN #_# goodbye_NN

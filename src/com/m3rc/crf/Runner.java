@@ -26,6 +26,7 @@ public class Runner {
                 .directory(new File("Dataset/stanfordpostagger")).inheritIO().redirectOutput(new File("Dataset/tokens-tagged.txt")).start();
         System.out.println("Generating postag...");
 
+        System.out.println("Merging postag...");
         PosMerger.mergePosTag();
 
     }
