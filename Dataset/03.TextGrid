@@ -2129,7 +2129,7 @@ item []:
         intervals [17]:
             xmin = 13.9062 
             xmax = 14.2062 
-            text = "acknowledgement" 
+            text = "acknowledge" 
         intervals [18]:
             xmin = 14.2062 
             xmax = 14.7599 
@@ -2153,7 +2153,7 @@ item []:
         intervals [23]:
             xmin = 19.125407059234792 
             xmax = 19.4499 
-            text = "acknowledgement" 
+            text = "acknowledge" 
         intervals [24]:
             xmin = 19.4499 
             xmax = 21.6999 
@@ -2209,7 +2209,7 @@ item []:
         intervals [37]:
             xmin = 38.572826384361626 
             xmax = 39.2256 
-            text = "acknowledgement" 
+            text = "acknowledge" 
         intervals [38]:
             xmin = 39.2256 
             xmax = 41.05068363750678 
@@ -2229,7 +2229,7 @@ item []:
         intervals [42]:
             xmin = 42.11546031611641 
             xmax = 42.3356 
-            text = "acknowledgement" 
+            text = "acknowledge" 
         intervals [43]:
             xmin = 42.3356 
             xmax = 44.52239247196508 
@@ -2365,7 +2365,7 @@ item []:
         intervals [76]:
             xmin = 95.8104 
             xmax = 96.07667442087809 
-            text = "acknowledgement" 
+            text = "acknowledge" 
         intervals [77]:
             xmin = 96.07667442087809 
             xmax = 96.3804 
@@ -2449,7 +2449,7 @@ item []:
         intervals [97]:
             xmin = 117.50963414397971 
             xmax = 117.94310341128012 
-            text = "acknowledgement" 
+            text = "acknowledge" 
         intervals [98]:
             xmin = 117.94310341128012 
             xmax = 120.98134297843801 
@@ -2461,7 +2461,7 @@ item []:
         intervals [100]:
             xmin = 121.4287281375177 
             xmax = 124.00429344566507 
-            text = "Repeat" 
+            text = "repeat" 
         intervals [101]:
             xmin = 124.00429344566507 
             xmax = 124.27272454111288 
@@ -2469,7 +2469,7 @@ item []:
         intervals [102]:
             xmin = 124.27272454111288 
             xmax = 124.74695280973734 
-            text = "acknowledgement" 
+            text = "acknowledge" 
         intervals [103]:
             xmin = 124.74695280973734 
             xmax = 125.27486729745137 
