@@ -23,12 +23,13 @@ public class Runner {
                 "stanford-postagger.jar", "edu.stanford.nlp.tagger.maxent.MaxentTagger",
                 "-model", "models/english-left3words-distsim.tagger", "-textFile", "../tokens.txt",
                 "-sentenceDelimiter", "newline")
-                .directory(new File("Dataset/stanfordpostagger")).inheritIO().redirectOutput(new File("Dataset/tokens-tagged.txt")).start();
+                .directory(new File("Dataset/stanfordpostagger"))
+                .inheritIO().redirectOutput(new File("Dataset/tokens-tagged.txt")).start();
         System.out.println("Generating postag...");
         posTagging.waitFor();
 
         PosMerger.mergePosTag();
-        System.out.println("Postag merged...");
+        System.out.println("Postag merged");
 
     }
 

@@ -2,7 +2,7 @@ strings = Create Strings as file list: "gridlist", "*.TextGrid"
 numberOfFiles = Get number of strings
 writeFile: "tokens.txt", ""
 
-for j to 4
+for j to numberOfFiles
 
 	select Strings gridlist
 

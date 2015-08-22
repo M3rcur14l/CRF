@@ -37,7 +37,7 @@ public class PosMerger {
                     String pos = taggedWord.split("_")[1];
                     featuresLine += "\t" + "pos=" + pos;
 
-                    if (i + 1 < splittedPosLine.length) {
+                    /*if (i + 1 < splittedPosLine.length) {
                         String nextTaggedWord = splittedPosLine[i + 1].split("_")[0];
                         String nextPos = splittedPosLine[i + 1].split("_")[1];
                         if (nextTaggedWord.equals("'m") || nextTaggedWord.equals("'re") ||
@@ -47,7 +47,7 @@ public class PosMerger {
                             featuresLine += "\t" + "pos=" + nextPos;
                             i++;
                         }
-                    }
+                    }*/
 
                     featuresPosWriter.write(featuresLine);
                     featuresPosWriter.newLine();

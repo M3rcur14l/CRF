@@ -94,60 +94,6 @@ i_LS am_VBP free_JJ on_IN saturday_NNP
 we_PRP will_MD go_VB on_IN saturday_NNP
 see_VB you_PRP then_RB
 goodbye_NN #_# goodbye_NN
-hello_UH uh_UH
-is_VBZ this_DT the_DT accommodation_NN office_NN
-yes_RB how_WRB can_MD I_PRP help_VB you_PRP
-well_RB I_PRP 've_VBP got_VBD a_DT bit_NN of_IN a_DT problem_NN
-I_PRP 'm_VBP staying_VBG in_IN the_DT godfrey_NN white_JJ dorm_NN
-and_CC on_IN monday_NNP the_DT warden_NN came_VBD and_CC told_VBD me_PRP that_IN I_PRP have_VBP to_TO move_VB out_RP this_DT thursday_NNP
-really_RB
-how_WRB long_RB have_VBP you_PRP been_VBN staying_VBG at_IN the_DT godfrey_NN white_JJ dorm_NN
-for_IN the_DT last_JJ ten_CD weeks_NNS
-oh_UH have_VBP you_PRP been_VBN doing_VBG one_CD of_IN the_DT summer_NN courses_NNS here_RB then_RB
-yes_RB I_PRP 've_VBP been_VBN doing_VBG the_DT academic_JJ language_NN course_NN since_IN the_DT beginning_NN of_IN july_NNP
-and_CC did_VBD n't_RB you_PRP realise_VBP that_IN your_PRP$ accommodation_NN was_VBD temporary_JJ
-no_DT I_PRP thought_VBD I_PRP would_MD be_VB able_JJ to_TO stay_VB there_RB for_IN the_DT whole_JJ year_NN
-I_PRP did_VBD n't_RB read_VB the_DT small_JJ print_NN on_IN the_DT document_NN
-the_DT warden_NN went_VBD through_IN it_PRP with_IN me_PRP and_CC now_RB I_PRP see_VBP my_PRP$ mistake_NN
-oh_UH dear_RB so_RB you_PRP 're_VBP looking_VBG for_IN somewhere_RB to_TO stay_VB then_RB
-yes_RB
-well_RB I_PRP 'm_VBP afraid_JJ all_PDT the_DT places_NNS in_IN the_DT dorms_NNS are_VBP full_JJ
-I_PRP mean_VBP there_EX may_MD be_VB some_DT students_NNS who_WP do_VBP n't_RB show_VB up_RP when_WRB term_NN starts_VBZ but_CC we_PRP wo_MD n't_RB know_VB that_IN for_IN the_DT next_JJ couple_NN of_IN weeks_NNS
-the_DT best_JJS thing_NN you_PRP can_MD do_VB is_VBZ look_VB for_IN a_DT private_JJ house_NN
-you_PRP 'll_MD have_VB to_TO share_VB with_IN three_CD or_CC four_CD other_JJ students_NNS
-meals_NNS are_VBP n't_RB included_VBN in_IN the_DT price_NN of_IN course_NN as_IN they_PRP are_VBP in_IN the_DT university_NN dorms_NNS
-and_CC you_PRP 'll_MD have_VB to_TO contribute_VB to_TO the_DT electricity_NN bills_NNS
-where_WRB can_MD I_PRP find_VB out_RP about_IN these_DT houses_NNS
-I_PRP 've_VBP got_VBD a_DT list_NN here_RB but_CC it_PRP 's_VBZ not_RB up_RB to_TO date_NN
-rooms_NNS are_VBP taken_VBN up_RP every_DT day_NN
-so_IN it_PRP 's_VBZ hard_JJ to_TO know_VB whether_IN a_DT house_NN has_VBZ a_DT free_JJ place_NN or_CC not_RB
-I_PRP can_MD give_VB you_PRP a_DT photocopy_VB of_IN this_DT list_NN and_CC you_PRP can_MD ring_VB round_NN
-can_MD I_PRP use_VB the_DT phone_NN here_RB
-I_PRP 'm_VBP afraid_JJ not_RB
-if_IN we_PRP let_VBP everyone_NN who_WP asked_VBD do_VBP that_DT
-there_RB 'd_MD be_VB someone_NN here_RB all_DT day_NN
-do_VB you_PRP have_VBP a_DT map_NN
-it_PRP 'd_MD be_VB useful_JJ to_TO know_VB where_WRB these_DT places_NNS are_VBP
-yes_RB I_PRP can_MD give_VB you_PRP a_DT map_NN
-this_DT one_NN 's_POS got_VBD the_DT bus_NN routes_NNS on_IN it_PRP too_RB
-so_RB you_PRP can_MD find_VB out_RP how_WRB easy_JJ it_PRP is_VBZ to_TO get_VB from_IN the_DT house_NN to_TO the_DT university_NN
-great_JJ
-and_CC what_WP if_IN i_FW ca_MD n't_RB find_VB a_DT place_NN before_IN thursday_NNP
-well_RB the_DT ymca_NN offers_VBZ cheap_JJ beds_NNS
-it_PRP 's_VBZ located_JJ halfway_RB between_IN here_RB and_CC the_DT city_NN centre_NN
-you_PRP can_MD get_VB a_DT bed_NN in_IN a_DT shared_JJ room_NN there_RB and_CC you_PRP can_MD also_RB buy_VB cheap_JJ meals_NNS
-but_CC you_PRP should_MD phone_VB up_RP and_CC book_NN a_DT bed_NN in_IN advance_NN
-it_PRP 's_VBZ very_RB busy_JJ this_DT time_NN of_IN year_NN
-i_LS 'll_MD give_VB you_PRP the_DT number_NN
-do_VB you_PRP need_VB a_DT pen_NN
-no_DT
-do_VBP n't_RB worry_VB i_FW 've_VBP got_VBN one_CD
-so_IN the_DT number_NN 's_POS four_CD eight_CD two_CD five_CD nine_CD zero_CD three_CD
-four_CD eight_CD two_CD five_CD nine_CD zero_CD three_CD
-that_DT 's_VBZ right_NN
-anything_NN else_RB I_PRP can_MD help_VB you_PRP with_IN
-no_DT that_DT 's_VBZ everything_NN thanks_NNS
-bye_NN
 so_RB
 that_IN s_VBZ the_DT basics_NNS <now>_VBP in_IN england_NN
 we_PRP like_VBP to_TO drink_VB tea_NN
@@ -252,3 +198,267 @@ you_PRP can_MD t_NN request_NN who_WP s_VBZ doing_VBG tour_NN sack_NN your_PRP$ 
 well_RB
 this_DT is_VBZ fuckin_JJ insane_JJ right_NN that_WDT s_VBZ enough_RB
 no_DT <now>_NN i_FW don_VBP t_NN know_VB who_WP s_VBZ going_VBG to_TO learn_VB anything_NN from_IN this_DT wait_NN
+hi_UH er_NN can_MD you_PRP help_VB me_PRP
+sure_RB what_WP s_VBZ the_DT problem_NN
+i_LS ve_FW got_VBD to_TO write_VB an_DT essay_NN on_IN electrical_JJ distribution_NN and_CC transmission_NN systems_NNS but_CC i_FW can_MD t_NN find_VB any_DT suitable_JJ books_NNS in_IN the_DT engineering_NN section_NN on_IN level_NN three_CD
+have_VB you_PRP used_VBD the_DT library_NN search_NN engine_NN
+you_PRP mean_VBP where_WRB you_PRP type_NN the_DT keywords_NNS into_IN the_DT computer_NN yes_RB i_FW ve_FW done_VBN that_IN a_DT couple_NN of_IN books_NNS come_VBP up_RP but_CC they_PRP re_VBP not_RB on_IN the_DT shelves_NNS someone_NN s_VBZ taken_VBN them_PRP out_RP
+well_RB i_FW can_MD put_VB a_DT reserve_NN on_IN them_PRP so_RB that_IN when_WRB the_DT person_NN brings_VBZ them_PRP back_RB to_TO the_DT library_NN
+we_PRP can_MD put_VB them_PRP on_IN one_CD side_NN for_IN you_PRP
+do_VB you_PRP want_VBP to_TO do_VB that_DT
+mmm_NN
+i_FW don_VBP t_NN know_VB i_FW
+i_LS suppose_VB so_RB but_CC ideally_RB i_FW d_FW like_IN to_TO get_VB started_VBN on_IN my_PRP$ essay_NN sooner_RBR rather_RB than_IN later_RB
+well_RB there_EX are_VBP some_DT other_JJ options_NNS have_VBP
+have_VB you_PRP used_VBD the_DT journal_NN database_NN
+no_DT what_WDT s_NNS that_WDT
+didn_NN t_NN you_PRP go_VBP on_IN a_DT library_NN induction_NN tour_NN in_IN the_DT first_JJ week_NN of_IN term_NN they_PRP were_VBD running_VBG five_CD days_NNS a_DT week_NN morning_NN and_CC afternoon_NN
+no_DT i_FW was_VBD er_NN i_FW was_VBD ill_RB that_IN week_NN
+well_RB we_PRP still_RB do_VBP two_CD library_NN inductions_NNS a_DT week_NN on_IN wednesdays_NNS and_CC i_FW recommend_VB you_PRP go_VB on_IN one_CD of_IN them_PRP
+you_PRP ll_VBP learn_VB a_DT lot_NN of_IN useful_JJ things_NNS you_PRP can_MD sign_VB up_RP at_IN the_DT desk_NN on_IN level_NN two_CD
+yes_RB i_FW probably_RB should_MD do_VB that_DT then_RB
+well_RB i_FW ll_FW just_RB quickly_RB show_VB you_PRP how_WRB you_PRP can_MD use_VB the_DT journal_NN database_NN
+if_IN you_PRP go_VBP onto_IN the_DT library_NN homepage_NN on_IN the_DT computer_NN look_NN
+look_NN and_CC click_VB on_IN databases_NNS here_RB in_IN the_DT top_JJ right_JJ hand_NN corner_NN it_PRP
+it_PRP takes_VBZ you_PRP to_TO all_PDT the_DT e_SYM journals_NNS that_IN we_PRP have_VBP access_NN to_TO here_RB at_IN the_DT university_NN library_NN
+you_PRP can_MD use_VB the_DT search_NN engine_NN to_TO find_VB journals_NNS that_WDT are_VBP related_JJ to_TO your_PRP$ keywords_NNS
+see_VB if_IN i_FW type_NN in_IN electrical_JJ transmission_NN you_PRP get_VBP over_IN five_CD thousand_CD articles_NNS
+wow_NN
+so_RB that_IN s_VBZ a_DT good_JJ place_NN to_TO start_VB meanwhile_RB you_PRP can_MD always_RB go_VB and_CC talk_VB to_TO your_PRP$ subject_JJ librarian_NN
+the_DT person_NN for_IN electrical_JJ engineering_NN is_VBZ mark_NN taylor_NN
+his_PRP$ office_NN is_VBZ on_IN level_NN four_CD
+will_MD he_PRP be_VB there_RB now_RB
+let_VB me_PRP see_VB what_WP s_VBZ the_DT time_NN
+twelve_CD fifteen_CD heopen_NN ll_NN probably_RB be_VB on_IN lunch_NN or_CC if_IN not_RB he_PRP ll_RB be_VB going_VBG at_IN twelve_CD thirty_CD
+you_PRP d_NN be_VB best_RB to_TO wait_VB and_CC come_VB back_RB at_IN two_CD ish_NN then_RB you_PRP ll_VBP be_VB more_RBR likely_JJ to_TO catch_VB him_PRP
+okay_JJ thank_VB you_PRP
+this_DT is_VBZ my_PRP$ friend_NN
+karl_NN pilkington_NN
+he_PRP is_VBZ bald_JJ
+he_PRP is_VBZ bald_JJ
+he_PRP has_VBZ no_DT hair_NN
+karl_NN pilkington_NN
+has_VBZ no_DT hair_NN i_FW know_VBP they_PRP can_MD see_VB i_FW ve_FW got_VBD no_DT hair_NN no_DT no_DT
+well_RB what_WP do_VBP they_PRP need_VBP to_TO know_VB that_DT for_IN if_IN they_PRP re_VBP learning_VBG a_DT language_NN
+bald_JJ isn_NN t_NN a_DT bald_JJ a_DT bald_JJ head_NN isn_NN t_NN
+isn_NN t_NN that_WDT important_JJ
+teach_VB them_PRP how_WRB to_TO ask_VB for_IN bread_NN or_CC milk_NN
+we_PRP ll_VBP get_VB to_TO that_DT
+but_CC this_DT is_VBZ about_IN
+so_RB
+friendship_NN
+and_CC family_NN
+you_PRP know_VBP
+so_RB
+it_PRP s_VBZ all_DT useful_JJ
+there_RB s_VBZ so_RB many_JJ words_NNS you_PRP know_VBP they_PRP might_MD as_RB well_RB start_VB somewhere_RB
+there_RB s_VBZ too_RB many_JJ words_NNS
+a_DT lot_NN of_IN words_NNS
+lots_NNS of_IN words_NNS
+so_RB you_PRP say_VBP it_PRP
+karl_NN pilkington_NN is_VBZ bald_JJ
+karl_NN pilkington_NN
+has_VBZ got_VBN a_DT head_NN like_IN a_DT fucking_JJ orange_NN i_FW really_RB don_VB t_NN know_VBP why_WRB they_PRP need_VBP to_TO learn_VB this_DT
+because_IN they_PRP might_MD need_VB to_TO say_VB that_IN one_CD day_NN but_CC i_FW get_VB enough_RB abuse_NN now_RB from_IN English_JJ people_NNS i_FW don_VBP t_NN want_VBP Chinese_JJ suddenly_RB turning_VBG up_RP going_VBG bald_JJ fucking_JJ orange_NN <now>_NN teach_VBP them_PRP how_WRB to_TO say_VB milk_NN i_FW need_VBP milk_NN milk_NN for_IN tea_NN
+coffee_NN
+teach_VB me_PRP useful_JJ stuff_NN ok_NN we_PRP ll_VBP teach_VB them_PRP something_NN then_RB
+who_WP am_VBP i_FW talking_VBG to_TO
+people_NNS around_IN the_DT world_NN they_PRP can_MD t_NN speak_VB English_NNP yet_RB
+so_RB what_WP do_VBP they_PRP i_FW ve_FW been_VBN to_TO China_NNP and_CC none_NN of_IN them_PRP know_VBP English_NNP
+right_RB
+so_IN they_PRP need_VBP to_TO learn_VB English_NNP
+ok_NN so_RB <now>_IN
+what_WP would_MD they_PRP want_VB to_TO know_VB
+you_PRP see_VBP they_PRP don_VB t_NN need_NN to_TO know_VB about_IN milk_NN because_IN they_PRP don_VBP t_NN like_IN milk_NN
+they_PRP think_VBP english_JJ people_NNS smell_NN of_IN milk_NN
+they_PRP smell_VBP
+of_IN milk_NN <now>_NN
+smell_NN
+what_WP does_VBZ smell_NN mean_VB karl_NN
+smell_NN
+<now>_NN stink_VBP
+fucking_VBG hell_NN you_PRP smell_VBP
+<now>_NN rank_NN
+rank_NN
+rank_NN so_IN you_PRP ve_VBP got_VBD a_DT chinese_JJ fella_NN
+he_PRP s_VBZ coming_VBG over_RB here_RB and_CC he_PRP s_VBZ learned_VBD the_DT word_NN
+rank_NN meaning_NN you_PRP stink_VBP
+smell_NN
+stank_JJ stunk_NN
+<now>_NN that_WDT stunk_VBD <now>_RB give_VB an_DT example_NN
+<now>_NN
+you_PRP smell_VBP
+you_PRP shit_VBP
+<now>_NN why_WRB are_VBP you_PRP teaching_VBG them_PRP pidgin_JJ English_NNP because_IN she_PRP told_VBD me_PRP you_PRP said_VBD they_PRP want_VBP to_TO know_VB about_IN smell_NN
+yeah_JJ right_NN
+but_CC why_WRB are_VBP you_PRP teaching_VBG them_PRP without_IN prepositions_NNS and_CC proper_JJ why_WRB are_VBP you_PRP teaching_VBG them_PRP to_TO speak_VB like_IN this_DT
+<now>_NN
+stink_VB you_PRP shit_VBP
+why_WRB are_VBP you_PRP teaching_VBG them_PRP
+to_TO speak_VB <now>_NNP just_RB speak_VBP
+proper_JJ English_JJ right_NN ok_NN then_RB <now>_VBZ always_RB speak_VBP proper_JJ English_NNP
+ok_JJ tell_VBP them_PRP
+<now>_NN so_IN what_WP what_WP do_VBP they_PRP want_VBP to_TO know_VB what_WP what_WDT what_WDT smell_NN mean_VB this_DT is_VBZ ok_JJ smell_NN so_IN we_PRP re_VBP featuring_VBG the_DT word_NN smell_NN smell_NN
+this_DT is_VBZ about_IN the_DT word_NN smell_NN
+right_RB when_WRB something_NN smells_VBZ they_PRP know_VBP what_WP it_PRP means_VBZ
+<now>_NN when_WRB something_NN
+stinks_VBZ when_WRB it_PRP s_VBZ off_IN it_PRP doesn_NN t_NN always_RB mean_VBP that_IN cause_VBP it_PRP is_VBZ also_RB a_DT verb_VB alright_IN a_DT nice_JJ smell_NN it_PRP s_VBZ also_RB a_DT verb_VB to_TO smell_VB
+it_PRP s_VBZ a_DT verb_VB
+smell_NN is_VBZ a_DT verb_VB
+yes_RB but_CC what_WP they_PRP ve_VBP got_VBD to_TO remember_VB is_VBZ if_IN they_PRP go_VBP up_RB to_TO someone_NN
+and_CC go_VB you_PRP smell_VBP
+it_PRP s_VBZ not_RB always_RB positive_JJ
+you_PRP would_MD <now>_VB you_PRP you_PRP d_NN say_VBP you_PRP smell_VB nice_JJ
+right_RB but_CC if_IN you_PRP say_VBP you_PRP smell_VB
+you_PRP ll_VBP get_VB a_DT smacknowledge_NN in_IN the_DT face_NN
+smacknowledge_NN in_IN the_DT face_NN
+smacknowledge_NN in_IN the_DT face_NN
+karl_NN
+what_WDT s_NNS a_DT smacknowledge_NN in_IN the_DT face_NN
+when_WRB someone_NN thumps_VBZ you_PRP thump_VB <now>_VB the_DT worst_JJS english_JJ lesson_NN ever_RB right_JJ ok_NN up_IN to_TO you_PRP <now>_VBP ok_NN
+but_CC what_WP they_PRP want_VBP to_TO like_VB you_PRP see_VB that_DT s_VBZ how_WRB we_PRP are_VBP focus_NN on_IN are_VBP we_PRP focussing_VBG on_IN Chinese_JJ no_DT
+well_RB we_PRP should_MD because_RB
+different_JJ people_NNS want_VBP different_JJ things_NNS right_RB
+so_RB what_WP would_MD the_DT Chinese_JJ want_VBP they_PRP come_VB to_TO England_NNP
+right_RB what_WP do_VBP they_PRP want_VBP
+why_WRB are_VBP you_PRP talking_VBG to_TO me_PRP like_IN I_PRP can_MD t_NN understand_VB English_NNP now_RB because_IN I_PRP m_NN trying_VBG to_TO think_VB how_WRB <now>_NN to_TO be_VB clear_JJ to_TO them_PRP
+ok_NN
+so_RB dropping_VBG out_RP so_RB forget_VB where_WRB they_PRP come_VBP from_IN
+wherever_WRB they_PRP re_VBP from_IN of_IN the_DT world_NN
+they_PRP all_DT want_VBP the_DT same_JJ things_NNS
+no_DT but_CC but_CC words_NNS don_VBP t_NN mean_VB the_DT same_JJ thing_NN in_IN certain_JJ places_NNS ther_IN s_NNS people_NNS where_WRB it_PRP stinks_VBZ in_IN the_DT world_NN
+they_PRP wouldn_VBP t_NN come_VBN to_TO England_NNP and_CC need_VB to_TO say_VB it_PRP smells_VBZ cause_NN they_PRP re_VBP from_IN a_DT smellier_JJR place_NN
+no_DT they_PRP re_VBP not_RB yes_RB they_PRP are_VBP
+<now>_JJR milk_NN let_VB s_NNS do_VBP milk_NN ok_NN
+let_VB s_PRP do_VB milk_NN for_IN anyone_NN who_WP isn_VBP t_NN English_NNP
+ok_NN ok_NN all_DT all_DT them_PRP ok_VBP
+we_PRP will_MD act_VB out_RP
+a_DT scenario_NN now_RB where_WRB you_PRP might_MD need_VB milk_NN
+ok_NN
+ok_NN
+hi_UH are_VBP you_PRP paula_VB jim_NN hi_UH nice_JJ to_TO meet_VB you_PRP glad_JJ to_TO meet_VB you_PRP so_IN you_PRP need_VBP some_DT tutoring_NN in_IN english_JJ yeah_JJ i_FW am_VBP taking_VBG english_JJ composition_NN and_CC i_FW am_VBP not_RB doing_VBG very_RB well_RB on_IN my_PRP$ essays_NNS right_RB <now>_VBP well_RB first_JJ lets_VBZ see_VB if_IN we_PRP can_MD figure_VB out_RP a_DT time_NN to_TO meet_VB that_IN we_PRP are_VBP both_DT free_JJ okay_JJ how_WRB about_RB mondays_NNS maybe_RB in_IN the_DT morning_NN i_FW do_VBP not_RB have_VB any_DT classes_NNS until_IN eleven_NNS on_IN mondays_NNS that_WDT would_MD work_VB but_CC i_FW was_VBD hoping_VBG we_PRP could_MD you_PRP know_VB meet_VB more_JJR than_IN once_RB a_DT week_NN
+well_RB tuesdays_NNS are_VBP out_IN i_FW have_VBP got_VBN classes_NNS and_CC i_FW work_NN at_IN the_DT library_NN part_NN time_NN on_IN tuesdays_NNS and_CC thursdays_NNS
+hi_UH i_FW am_VBP bill_NN pellowe_NN nice_JJ to_TO meet_VB you_PRP
+nice_JJ to_TO meet_VB you_PRP too_RB
+what_WP do_VBP you_PRP do_VB
+i_LS am_VBP a_DT university_NN teacher_NN
+how_WRB about_RB you_PRP
+me_PRP too_RB
+what_WDT university_NN do_VBP you_PRP teach_VB at_IN
+i_LS teach_VB at_IN kinki_NNS university_NN
+a_DT you_PRP
+oh_UH i_FW teach_VB at_IN kurume_NN university_NN
+hello_UH miss_VB how_WRB may_MD i_FW help_VB you_PRP
+hi_UH there_EX im_FW looking_VBG for_IN some_DT fancy_JJ shoes_NNS
+alright_NN do_VBP you_PRP have_VB any_DT color_NN or_CC style_NN in_IN mind_NN
+well_RB im_NN going_VBG to_TO a_DT dinner_NN party_NN and_CC they_PRP need_VBP to_TO match_VB my_PRP$ blue_JJ dress_NN
+we_PRP have_VBP some_DT nice_JJ blue_JJ heels_NNS over_IN here_RB how_WRB about_RB this_DT one_CD
+that_IN shoes_NNS heel_NN is_VBZ way_NN too_RB high_JJ for_IN me_PRP
+alright_JJ how_WRB about_RB this_DT one_CD the_DT heel_NN is_VBZ short_JJ and_CC its_PRP$ really_RB cute_JJ
+yeah_NN that_IN one_CD is_VBZ pretty_RB cute_JJ what_WP size_NN is_VBZ it_PRP
+we_PRP have_VBP multiple_JJ sizes_NNS for_IN each_DT shoe_NN what_WDT size_NN do_VBP you_PRP wear_VB
+i_LS wear_VB a_DT size_NN seven_CD
+oh_UH thats_NNS too_RB bad_JJ we_PRP dont_VBP have_VB this_DT shoe_NN in_IN size_NN seven_CD
+do_VB you_PRP have_VBP any_DT cute_JJ blue_JJ flats_NNS
+yeah_NN we_PRP do_VBP here_RB how_WRB about_RB this_DT one_CD its_PRP$ got_VBD nice_JJ silver_NN buckles_NNS too_RB
+perfect_JJ my_PRP$ dress_NN is_VBZ blue_JJ and_CC silver_NN
+alright_JJ and_CC it_PRP looks_VBZ like_IN we_PRP have_VBP a_DT size_NN seven_CD do_VBP you_PRP want_VB these_DT
+yeah_VB those_DT will_MD go_VB well_RB with_IN my_PRP$ dress_NN
+alright_NN did_VBD you_PRP want_VBP anything_NN else_RB
+actually_RB yes_UH i_FW wanted_VBD to_TO get_VB some_DT sneakers_NNS also_RB
+what_WDT kind_NN of_IN sneakers_NNS will_MD you_PRP be_VB running_VBG in_IN them_PRP
+yes_RB i_FW need_VB new_JJ sneakers_NNS to_TO use_VB when_WRB i_FW exercise_NN
+alright_IN we_PRP have_VBP a_DT bunch_NN of_IN running_VBG shoes_NNS on_IN this_DT wall_NN
+alright_NN can_MD i_FW have_VBP those_DT black_JJ ones_NNS at_IN the_DT top_NN
+sure_RB here_RB they_PRP are_VBP size_NN seven_CD would_MD you_PRP like_VB to_TO try_VB them_PRP on_IN
+yes_RB please_VB wow_NN these_DT are_VBP really_RB comfortable_JJ
+would_MD you_PRP like_VB to_TO buy_VB them_PRP also_RB
+yes_RB i_FW would_MD theyre_VB a_DT lot_NN better_JJR than_IN my_PRP$ old_JJ running_VBG sneakers_NNS
+alright_VB your_PRP$ total_NN will_MD be_VB fourty_JJ dollars_NNS
+okay_JJ here_RB you_PRP go_VBP
+thank_VB you_PRP have_VBP a_DT nice_JJ day_NN
+you_PRP too_RB thanks_NNS
+I_PRP know_VBP exactly_RB where_WRB your_PRP$ body_NN is_VBZ
+what_WP I_PRP 'm_VBP looking_VBG for_IN is_VBZ some_DT indication_NN of_IN a_DT brain_NN
+too_RB much_JJ football_NN without_IN a_DT helmet_NN <now>_NN lyndons_NNS line_NN on_IN gerry_NN ford_NN
+deputy_NN debriefer_NN paris_VBZ peace_NN talks_NNS sixty_CD eight_CD
+snagged_VBD the_DT silver_NN star_NN and_CC a_DT silver_NN bar_NN
+threw_VBD me_PRP into_IN g_NN two_CD
+g_NN two_CD
+intelligence_NN
+of_IN which_WDT you_PRP have_VBP none_NN <now>_NN where_WRB you_PRP from_IN <now>_JJ gresham_NN oregon_NN <now>_NN colonel_NN
+what_WP does_VBZ your_PRP$ daddy_NN do_VBP in_IN gresham_NN oregon_NN <now>_NN count_NN wood_NN chips_NNS <now>_VBP my_PRP$ stepfather_NN
+and_CC my_PRP$ mom_NN run_VB a_DT
+convenience_NN store_NN
+how_WRB are_VBP convenient_JJ
+what_WDT time_NN they_PRP open_VBP
+five_CD a.m._NN
+close_RB
+one_CD a.m._NN
+hard_JJ workers_NNS
+but_CC you_PRP were_VBD insincere_JJ bob_NN in_IN a_DT much_JJ greater_JJR sense_NN
+if_IN we_PRP re_VBP nothing_NN but_CC functions_NNS here_RB then_RB then_RB why_WRB don_VB t_NN they_PRP just_RB send_VBP robots_NNS
+they_PRP don_VBP t_NN send_VB robots_NNS bob_VB for_IN the_DT simple_JJ reason_NN they_PRP haven_NN t_NN invented_VBD one_CD yet_CC
+the_DT day_NN comes_VBZ when_WRB they_PRP can_MD build_VB a_DT robot_NN to_TO do_VB what_WP we_PRP do_VBP and_CC make_VBP it_PRP work_VB
+then_RB that_IN s_NNS exactly_RB what_WP they_PRP ll_VBP do_VB precisely_RB
+but_CC until_IN that_DT day_NN
+they_PRP send_VBP us_PRP they_PRP say_VBP hey_NN bob_NN
+larry_NN phil_NN
+why_WRB don_VBP t_NN you_PRP go_VBP on_IN down_RB to_TO wichita_VB for_IN a_DT couple_NN of_IN days_NNS
+don_VB t_NN worry_VBP about_IN your_PRP$ room_NN and_CC board_NN we_PRP ll_VBP take_VB care_NN of_IN that_DT
+and_CC for_IN a_DT couple_NN of_IN days_NNS bob_IN
+we_PRP lose_VBP our_PRP$ identities_NNS
+here_RB in_IN wichita_NN
+and_CC we_PRP become_VBP
+the_DT hands_NNS of_IN the_DT company_NN
+shaking_VBG all_PDT the_DT other_JJ hands_NNS
+before_IN us_PRP what_WP you_PRP did_VBD the_DT reason_NN you_PRP were_VBD insincere_JJ
+is_VBZ that_IN you_PRP cut_VBD off_RP that_DT bond_NN
+it_PRP would_MD be_VB like_IN the_DT hand_NN just_RB sort_NN of_IN
+breaking_VBG away_RB from_IN the_DT arm_NN and_CC saying_VBG oh_UH you_PRP know_VBP what_WP i_FW have_VBP this_DT other_JJ thing_NN out_IN here_RB to_TO do_VB that_DT has_VBZ nothing_NN to_TO do_VB with_IN you_PRP
+the_DT apostle_NN paul_NN said_VBD please_VB don_VB t_NN do_VBP that_DT please_VB don_VB t_NN do_VBP that_DT i_FW m_NN trying_VBG to_TO have_VB conversation_NN with_IN you_PRP don_VBP t_NN bring_VB the_DT apostle_NN paul_NN in_IN i_FW m_NN trying_VBG to_TO do_VB something_NN else_RB i_FW don_VBP t_NN see_VB how_WRB we_PRP can_MD have_VB a_DT conversation_NN like_IN this_DT if_IN i_FW m_NN not_RB allowed_VBN to_TO bring_VB up_RP the_DT subject_NN of_IN god_NN
+we_PRP re_VBP not_RB talking_VBG about_IN god_NN i_FW m_NN talking_VBG about_IN something_NN bigger_JJR than_IN god_NN
+bigger_JJR than_IN god_NN at_IN issue_NN bob_NN is_VBZ not_RB your_PRP$ belief_NN in_IN god_NN or_CC your_PRP$ desire_NN to_TO spread_VB that_DT belief_NN
+at_IN issue_NN is_VBZ what_WP we_PRP re_VBP here_RB to_TO do_VB which_WDT is_VBZ what_WP larry_NN which_WDT is_VBZ what_WP
+we_PRP re_VBP here_RB to_TO sell_VB lubricants_NNS bob_NN
+industrial_JJ lubricants_NNS
+we_PRP re_VBP not_RB here_RB to_TO save_VB souls_NNS
+hey_NN do_VBP you_PRP like_IN this_DT classroom_NN
+yeah_VB its_PRP$ small_JJ clean_JJ and_CC new_JJ i_FW also_RB like_IN my_PRP$ classmates_NNS and_CC my_PRP$ teacher_NN
+i_LS agree_VBP but_CC i_FW would_MD like_VB to_TO have_VB more_JJR than_IN one_CD teacher_NN because_IN i_FW learn_VB better_JJR that_DT way_NN
+so_RB do_VB i_FW i_FW dont_FW like_IN having_VBG assigned_VBN seats_NNS either_CC
+i_LS agree_VBP i_FW dont_FW think_VBP the_DT teacher_NN should_MD assign_VB seats_NNS to_TO students_NNS because_IN i_FW like_IN to_TO sit_VB with_IN my_PRP$ friends_NNS
+me_PRP too_RB i_FW do_VBP like_IN the_DT classroom_NN though_IN
+yeah_VB its_PRP$ small_JJ and_CC pretty_RB relaxed_VBD i_FW like_IN the_DT layout_NN too_RB
+the_DT layout_NN is_VBZ okay_JJ i_FW think_VBP itd_NN be_VB better_JJR if_IN all_DT the_DT desks_NNS faced_VBD forward_RB and_CC the_DT teachers_NNS desk_NN was_VBD at_IN the_DT front_NN and_CC corner_NN facing_VBG the_DT students_NNS
+well_RB thats_RB easier_JJR to_TO do_VB when_WRB there_EX are_VBP less_RBR students_NNS
+yeah_JJ i_FW like_IN classrooms_NNS with_IN few_JJ students_NNS because_IN i_FW feel_VB like_IN i_FW learn_VB better_JJR
+me_PRP too_RB so_RB what_WP bothers_VBZ you_PRP about_IN the_DT classroom_NN
+well_RB sometimes_RB it_PRP is_VBZ too_RB hot_JJ
+i_LS also_RB dont_VB like_IN the_DT desks_NNS they_PRP are_VBP uncomfortable_JJ
+i_FW dont_FW like_IN the_DT homework_NN or_CC classwork_NN when_WRB it_PRP is_VBZ too_RB hard_JJ and_CC i_FW dont_FW like_IN the_DT chalkboard_NN because_IN it_PRP is_VBZ too_RB small_JJ
+yeah_RB if_IN i_FW could_MD i_FW would_MD get_VB a_DT bigger_JJR chalkboard_NN
+and_CC id_NN get_VBP some_DT more_JJR comfortable_JJ desks_NNS
+what_WP would_MD make_VB them_PRP more_RBR comfortable_JJ
+well_RB the_DT desks_NNS would_MD be_VB movable_JJ so_IN we_PRP could_MD sit_VB where_WRB we_PRP wanted_VBD and_CC they_PRP wouldnt_VBP be_VB attached_VBN to_TO the_DT chairs_NNS
+if_IN i_FW could_MD improve_VB the_DT classroom_NN i_FW would_MD also_RB make_VB the_DT air_NN conditioning_NN system_NN better_JJR
+i_LS think_VB we_PRP should_MD get_VB more_JJR breaks_NNS from_IN studying_VBG we_PRP spend_VBP way_NN too_RB much_JJ time_NN in_IN here_RB
+agreed_VBN were_VBD in_IN here_RB at_IN least_JJS 6_CD hours_NNS every_DT day_NN
+i_LS wish_NN we_PRP changed_VBD classrooms_NNS more_RBR often_RB because_IN i_FW get_VB bored_VBN easily_RB what_WP do_VBP you_PRP do_VB to_TO pass_VB the_DT time_NN
+when_WRB i_FW get_VB bored_VBN i_FW stare_VBP out_RP the_DT window_NN for_IN hours_NNS
+even_RB though_IN i_FW get_VB bored_VBN i_FW still_RB think_VB the_DT classroom_NN is_VBZ a_DT good_JJ place_NN to_TO study_VB because_IN it_PRP is_VBZ usually_RB quiet_JJ
+i_LS think_VB its_PRP$ too_RB quiet_JJ at_IN least_JJS it_PRP is_VBZ where_WRB i_FW sit_VBP
+you_PRP sit_VBP in_IN the_DT front_JJ dont_NN you_PRP you_PRP sit_VBP with_IN all_PDT the_DT smart_JJ kids_NNS
+yeah_VB you_PRP sit_VB closer_JJR to_TO the_DT back_JJ correct_JJ
+i_LS do_VBP i_FW like_IN where_WRB i_FW sit_VBP because_IN i_FW sit_VB next_JJ to_TO the_DT window_NN and_CC the_DT students_NNS that_WDT sit_VBP around_IN me_PRP are_VBP nice_JJ
+even_RB though_IN youre_NN in_IN the_DT back_JJ theyre_NN still_RB pretty_RB smart_JJ and_CC they_PRP pay_VBP attention_NN
+we_PRP should_MD probably_RB pay_VB more_JJR attention_NN
+yeah_JJ class_NN isnt_NN that_WDT bad_JJ
+i_LS agree_VBP lets_VBZ go_VB
+welcome_JJ welcome_JJ what_WP do_VBP you_PRP think_VB finn_RB well_RB feifei_JJ there_EX are_VBP so_RB many_JJ skyscrapers_NNS lots_NNS of_IN tall_JJ buildings_NNS impressive_JJ arent_IN they_PRP absolutely_RB look_VBP at_IN that_DT one_CD its_PRP$ gigantic_JJ oh_UH the_DT jin_NN mao_NN tower_NN yes_RB its_PRP$ pretty_JJ gigantic_JJ and_CC this_DT one_CD is_VBZ really_RB enormous_JJ yes_UH it_PRP is_VBZ the_DT oriental_JJ pearl_NN tower_NN is_VBZ enormous_JJ and_CC this_DT one_CD is_VBZ absolutely_RB ginormous_JJ gi_NN what_WDT finn_VB you_PRP just_RB made_VBD that_IN word_NN up_IN
+no_DT seriously_RB ginormous_JJ is_VBZ a_DT word_NN it_PRP is_VBZ very_RB informal_JJ and_CC means_VBZ well_RB gigantic_JJ
+and_CC enormous_JJ kind_NN of_IN a_DT combination_NN of_IN both_CC
+gigantic_JJ
+enormous_JJ
+ginormous_JJ
+and_CC you_PRP re_VB right_RB the_DT world_NN financial_JJ center_NN is_VBZ ginormous_JJ can_MD we_PRP go_VB to_TO the_DT top_NN of_IN the_DT tower_NN sure_JJ
