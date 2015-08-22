@@ -1,0 +1,318 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 20.0852 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "TokensAlign" 
+        xmin = 0 
+        xmax = 20.0852 
+        intervals: size = 51 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.628589801570482 
+            text = "you" 
+        intervals [2]:
+            xmin = 0.628589801570482 
+            xmax = 1.5693676481690169 
+            text = "sparrow" 
+        intervals [3]:
+            xmin = 1.5693676481690169 
+            xmax = 2.233981918937458 
+            text = "aye" 
+        intervals [4]:
+            xmin = 2.233981918937458 
+            xmax = 2.2919458679259592 
+            text = "you" 
+        intervals [5]:
+            xmin = 2.2919458679259592 
+            xmax = 2.387042971735218 
+            text = "are" 
+        intervals [6]:
+            xmin = 2.387042971735218 
+            xmax = 2.6862543110172945 
+            text = "familiar" 
+        intervals [7]:
+            xmin = 2.6862543110172945 
+            xmax = 2.8021822089942963 
+            text = "with" 
+        intervals [8]:
+            xmin = 2.8021822089942963 
+            xmax = 2.9036191197241727 
+            text = "that" 
+        intervals [9]:
+            xmin = 2.9036191197241727 
+            xmax = 3.106345793811827 
+            text = "ship" 
+        intervals [10]:
+            xmin = 3.106345793811827 
+            xmax = 3.214122511462321 
+            text = "the" 
+        intervals [11]:
+            xmin = 3.214122511462321 
+            xmax = 3.39 
+            text = "black" 
+        intervals [12]:
+            xmin = 3.39 
+            xmax = 3.9691499059213684 
+            text = "pearl" 
+        intervals [13]:
+            xmin = 3.9691499059213684 
+            xmax = 4.028019541612815 
+            text = "i" 
+        intervals [14]:
+            xmin = 4.028019541612815 
+            xmax = 4.07149250335419 
+            text = "ve" 
+        intervals [15]:
+            xmin = 4.07149250335419 
+            xmax = 4.244163347819394 
+            text = "heard" 
+        intervals [16]:
+            xmin = 4.244163347819394 
+            xmax = 4.402658520834827 
+            text = "of" 
+        intervals [17]:
+            xmin = 4.402658520834827 
+            xmax = 4.739573974330488 
+            text = "it" 
+        intervals [18]:
+            xmin = 4.739573974330488 
+            xmax = 4.91 
+            text = "where" 
+        intervals [19]:
+            xmin = 4.91 
+            xmax = 5.02 
+            text = "does" 
+        intervals [20]:
+            xmin = 5.02 
+            xmax = 5.11 
+            text = "it" 
+        intervals [21]:
+            xmin = 5.11 
+            xmax = 5.25 
+            text = "make" 
+        intervals [22]:
+            xmin = 5.25 
+            xmax = 6.09 
+            text = "berth" 
+        intervals [23]:
+            xmin = 6.09 
+            xmax = 6.26 
+            text = "where" 
+        intervals [24]:
+            xmin = 6.26 
+            xmax = 6.38 
+            text = "does" 
+        intervals [25]:
+            xmin = 6.38 
+            xmax = 6.46 
+            text = "it" 
+        intervals [26]:
+            xmin = 6.46 
+            xmax = 6.72 
+            text = "make" 
+        intervals [27]:
+            xmin = 6.72 
+            xmax = 7.3 
+            text = "berth" 
+        intervals [28]:
+            xmin = 7.3 
+            xmax = 9.8093 
+            text = "#" 
+        intervals [29]:
+            xmin = 9.8093 
+            xmax = 9.9593 
+            text = "have" 
+        intervals [30]:
+            xmin = 9.9593 
+            xmax = 10.0193 
+            text = "you" 
+        intervals [31]:
+            xmin = 10.0193 
+            xmax = 10.2093 
+            text = "not" 
+        intervals [32]:
+            xmin = 10.2093 
+            xmax = 10.3093 
+            text = "heard" 
+        intervals [33]:
+            xmin = 10.3093 
+            xmax = 10.3693 
+            text = "the" 
+        intervals [34]:
+            xmin = 10.3693 
+            xmax = 10.8793 
+            text = "stories" 
+        intervals [35]:
+            xmin = 10.8793 
+            xmax = 13.4136 
+            text = "#" 
+        intervals [36]:
+            xmin = 13.4136 
+            xmax = 14.0436 
+            text = "captain" 
+        intervals [37]:
+            xmin = 14.0436 
+            xmax = 15.1836 
+            text = "barbossa" 
+        intervals [38]:
+            xmin = 15.1836 
+            xmax = 15.2936 
+            text = "and" 
+        intervals [39]:
+            xmin = 15.2936 
+            xmax = 15.4736 
+            text = "his" 
+        intervals [40]:
+            xmin = 15.4736 
+            xmax = 15.7536 
+            text = "crew" 
+        intervals [41]:
+            xmin = 15.7536 
+            xmax = 15.8236 
+            text = "of" 
+        intervals [42]:
+            xmin = 15.8236 
+            xmax = 17.292370869215546 
+            text = "miscreants" 
+        intervals [43]:
+            xmin = 17.292370869215546 
+            xmax = 17.64157116294867 
+            text = "sail" 
+        intervals [44]:
+            xmin = 17.64157116294867 
+            xmax = 17.720408474161378 
+            text = "from" 
+        intervals [45]:
+            xmin = 17.720408474161378 
+            xmax = 17.830549413260883 
+            text = "the" 
+        intervals [46]:
+            xmin = 17.830549413260883 
+            xmax = 18.1136 
+            text = "dreaded" 
+        intervals [47]:
+            xmin = 18.1136 
+            xmax = 18.324137428399645 
+            text = "isla" 
+        intervals [48]:
+            xmin = 18.324137428399645 
+            xmax = 18.39183952616423 
+            text = "of" 
+        intervals [49]:
+            xmin = 18.39183952616423 
+            xmax = 18.47201306299071 
+            text = "de" 
+        intervals [50]:
+            xmin = 18.47201306299071 
+            xmax = 19.1636 
+            text = "muerta" 
+        intervals [51]:
+            xmin = 19.1636 
+            xmax = 20.0852 
+            text = "#" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "DialogueAct" 
+        xmin = 0 
+        xmax = 20.0852 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.5693676481690169 
+            text = "communication-management" 
+        intervals [2]:
+            xmin = 1.5693676481690169 
+            xmax = 2.233981918937458 
+            text = "communication-management" 
+        intervals [3]:
+            xmin = 2.233981918937458 
+            xmax = 3.9691499059213684 
+            text = "reassert" 
+        intervals [4]:
+            xmin = 3.9691499059213684 
+            xmax = 4.739573974330488 
+            text = "reassert" 
+        intervals [5]:
+            xmin = 4.739573974330488 
+            xmax = 6.09 
+            text = "info-request" 
+        intervals [6]:
+            xmin = 6.09 
+            xmax = 7.3 
+            text = "communication-management" 
+        intervals [7]:
+            xmin = 7.3 
+            xmax = 9.8093 
+            text = "" 
+        intervals [8]:
+            xmin = 9.8093 
+            xmax = 10.8793 
+            text = "info-request" 
+        intervals [9]:
+            xmin = 10.8793 
+            xmax = 13.4136 
+            text = "" 
+        intervals [10]:
+            xmin = 13.4136 
+            xmax = 19.1636 
+            text = "reassert" 
+        intervals [11]:
+            xmin = 19.1636 
+            xmax = 20.0852 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 20.0852 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.5693676481690169 
+            text = "Will" 
+        intervals [2]:
+            xmin = 1.5693676481690169 
+            xmax = 2.233981918937458 
+            text = "Jack" 
+        intervals [3]:
+            xmin = 2.233981918937458 
+            xmax = 3.9691499059213684 
+            text = "Will" 
+        intervals [4]:
+            xmin = 3.9691499059213684 
+            xmax = 4.739573974330488 
+            text = "Jack" 
+        intervals [5]:
+            xmin = 4.739573974330488 
+            xmax = 6.09 
+            text = "Will" 
+        intervals [6]:
+            xmin = 6.09 
+            xmax = 7.3 
+            text = "Jack" 
+        intervals [7]:
+            xmin = 7.3 
+            xmax = 9.8093 
+            text = "" 
+        intervals [8]:
+            xmin = 9.8093 
+            xmax = 10.8793 
+            text = "Jack" 
+        intervals [9]:
+            xmin = 10.8793 
+            xmax = 13.4136 
+            text = "" 
+        intervals [10]:
+            xmin = 13.4136 
+            xmax = 19.1636 
+            text = "Jack" 
+        intervals [11]:
+            xmin = 19.1636 
+            xmax = 20.0852 
+            text = "" 
