@@ -2009,7 +2009,7 @@ item []:
         intervals [56]:
             xmin = 238.3654 
             xmax = 243.9971 
-            text = "Answer" 
+            text = "answer" 
         intervals [57]:
             xmin = 243.9971 
             xmax = 250.7568 

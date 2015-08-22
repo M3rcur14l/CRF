@@ -2713,7 +2713,7 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 3.449439879965635 
-            text = "task-managment" 
+            text = "task-management" 
         intervals [2]:
             xmin = 3.449439879965635 
             xmax = 5.4696 
@@ -2921,7 +2921,7 @@ item []:
         intervals [53]:
             xmin = 51.8016 
             xmax = 54.1516 
-            text = "task-managment" 
+            text = "task-management" 
         intervals [54]:
             xmin = 54.1516 
             xmax = 55.2995 
@@ -3277,7 +3277,7 @@ item []:
         intervals [142]:
             xmin = 156.40490000000003 
             xmax = 157.33440000000002 
-            text = "task-managment" 
+            text = "task-management" 
         intervals [143]:
             xmin = 157.33440000000002 
             xmax = 158.0079 
@@ -3461,7 +3461,7 @@ item []:
         intervals [188]:
             xmin = 206.92200000000003 
             xmax = 210.71200000000002 
-            text = "task-managment" 
+            text = "task-management" 
         intervals [189]:
             xmin = 210.71200000000002 
             xmax = 212.7996 
@@ -3485,7 +3485,7 @@ item []:
         intervals [194]:
             xmin = 220.11892198732068 
             xmax = 220.93943393246786 
-            text = "task-managment" 
+            text = "task-management" 
         intervals [195]:
             xmin = 220.93943393246786 
             xmax = 221.20241853027144 

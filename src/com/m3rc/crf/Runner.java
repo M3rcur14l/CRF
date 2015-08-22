@@ -31,6 +31,14 @@ public class Runner {
         PosMerger.mergePosTag();
         System.out.println("Postag merged");
 
+        System.out.println("Training crf and performing cross-validation...");
+        Process crfTraining = new ProcessBuilder("crfsuite", "learn", "-g10",
+                "-x", "-p", "max_iterations=10", "features-pos.txt")
+                .directory(new File("Dataset"))
+                .inheritIO().redirectOutput(new File("crf-out.txt")).start();
+        crfTraining.waitFor();
+        System.out.println("Done! results in crf-out.txt");
+
     }
 
 }

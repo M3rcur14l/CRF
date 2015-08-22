@@ -30,9 +30,9 @@ public class PosMerger {
             while (posScanner.hasNextLine()) {
                 String posLine = posScanner.nextLine();
                 String featuresLine = featuresScanner.nextLine();
-                String[] splittedPosLine = posLine.split(" ");
+                String[] splitPosLine = posLine.split(" ");
 
-                for (String taggedWord : splittedPosLine) {
+                for (String taggedWord : splitPosLine) {
                     String pos = taggedWord.split("_")[1];
                     featuresLine += "\t" + "pos=" + pos;
                     featuresPosWriter.write(featuresLine);
