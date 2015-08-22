@@ -32,23 +32,9 @@ public class PosMerger {
                 String featuresLine = featuresScanner.nextLine();
                 String[] splittedPosLine = posLine.split(" ");
 
-                for (int i = 0; i < splittedPosLine.length; i++) {
-                    String taggedWord = splittedPosLine[i];
+                for (String taggedWord : splittedPosLine) {
                     String pos = taggedWord.split("_")[1];
                     featuresLine += "\t" + "pos=" + pos;
-
-                    /*if (i + 1 < splittedPosLine.length) {
-                        String nextTaggedWord = splittedPosLine[i + 1].split("_")[0];
-                        String nextPos = splittedPosLine[i + 1].split("_")[1];
-                        if (nextTaggedWord.equals("'m") || nextTaggedWord.equals("'re") ||
-                                nextTaggedWord.equals("'s") || nextTaggedWord.equals("n't") ||
-                                nextTaggedWord.equals("'ll") || nextTaggedWord.equals("'ve") ||
-                                nextTaggedWord.equals("'d")) {
-                            featuresLine += "\t" + "pos=" + nextPos;
-                            i++;
-                        }
-                    }*/
-
                     featuresPosWriter.write(featuresLine);
                     featuresPosWriter.newLine();
                     featuresLine = featuresScanner.nextLine();

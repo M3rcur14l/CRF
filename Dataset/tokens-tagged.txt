@@ -198,6 +198,148 @@ you_PRP can_MD t_NN request_NN who_WP s_VBZ doing_VBG tour_NN sack_NN your_PRP$ 
 well_RB
 this_DT is_VBZ fuckin_JJ insane_JJ right_NN that_WDT s_VBZ enough_RB
 no_DT <now>_NN i_FW don_VBP t_NN know_VB who_WP s_VBZ going_VBG to_TO learn_VB anything_NN from_IN this_DT wait_NN
+hello_UH i_FW am_VBP jane_NN smith_NN
+hi_UH jane_NN
+i_FW understand_VBP you_PRP were_VBD thinking_VBG about_IN applying_VBG for_IN admission_NN to_TO our_PRP$ university_NN
+yes_RB
+your_PRP$ school_NN has_VBZ a_DT wonderful_JJ education_NN department_NN
+and_CC i_FW am_VBP very_RB interested_JJ in_IN teaching_NN
+well_RB it_PRP is_VBZ very_RB good_JJ to_TO be_VB thinking_VBG about_IN the_DT future_NN
+have_VB you_PRP thought_VBN about_IN what_WP age_NN level_NN students_NNS you_PRP were_VBD interested_JJ in_IN teaching_NN
+i_LS have_VBP
+but_CC that_DT is_VBZ what_WP it_PRP poses_VBZ some_DT of_IN other_JJ problem_NN for_IN me_PRP
+i_LS really_RB have_VBP enjoyed_VBN my_PRP$ high_JJ school_NN english_JJ and_CC literature_NN classes_NNS
+but_CC i_FW also_RB really_RB like_IN working_VBG with_IN little_JJ kids_NNS
+i_LS certainly_RB understand_VB your_PRP$ dilemma_NN
+but_CC it_PRP really_RB need_VBP not_RB be_VB a_DT problem_NN for_IN you_PRP at_IN this_DT point_NN
+well_RB why_WRB is_VBZ that_IN
+i_LS thought_VBD i_FW would_MD need_VB to_TO know_VB exactly_RB what_WP i_FW wanted_VBD to_TO study_VB
+when_WRB i_FW applied_VBN for_IN college_NN
+well_RB some_DT students_NNS do_VBP and_CC others_NNS do_VBP not_RB
+most_RBS students_NNS have_VBP a_DT general_JJ idea_NN before_IN they_PRP enroll_VBP
+but_CC not_RB all_DT students_NNS stay_VBP on_IN the_DT educational_JJ path_NN they_PRP started_VBD out_RP on_IN
+what_WDT most_RBS students_NNS do_VBP not_RB realize_VB is_VBZ that_IN all_DT first_JJ year_NN or_CC freshman_NN college_NN students_NNS <now>_VBP will_MD be_VB taking_VBG what_WP we_PRP call_VBP core_NN classes_NNS
+hi_UH rob_NN how_WRB are_VBP you_PRP today_NN hello_UH li_FW i_FW am_VBP really_RB angry_JJ why_WRB well_RB because_IN i_FW work_NN very_RB hard_JJ i_FW get_VB results_NNS i_FW do_VBP much_RB more_JJR than_IN i_FW really_RB should_MD and_CC nobody_NN notices_NNS i_FW don_VBP t_NN get_VB any_DT recognition_NN yes_RB you_PRP do_VBP work_VB hard_JJ rob_NN you_PRP should_MD earn_VB a_DT fortune_NN i_FW know_VBP you_PRP see_VB that_DT is_VBZ it_PRP i_FW am_VBP going_VBG to_TO go_VB and_CC see_VB the_DT boss_NN right_RB now_RB i_FW am_VBP going_VBG to_TO ask_VB for_IN a_DT pay_NN rise_NN good_JJ on_IN you_PRP rob_VBP right_RB now_RB yes_RB right_RB now_RB
+Ellis_NNP this_DT is_VBZ Now_RB our_PRP$ new_JJ flatmate_NN he_PRP is_VBZ really_RB missing_VBG his_PRP$ frames_NNS now_RB let_VBP me_PRP take_VB your_PRP$ now_RB of_IN that_DT so_IN where_WRB are_VBP you_PRP from_IN now_RB from_IN now_RB the_DT polish_NN capital_NN now_RB what_WP do_VBP you_PRP do_VB i_FW am_VBP a_DT guide_NN tourist_NN now_RB so_RB interesting_JJ why_WRB are_VBP you_PRP visiting_VBG london_NNP now_RB to_TO improve_VB my_PRP$ english_JJ now_RB why_WRB not_RB come_VB out_RP with_IN us_PRP now_RB then_RB we_PRP can_MD show_VB you_PRP up_RB and_CC you_PRP can_MD practice_VB your_PRP$ english_JJ at_IN the_DT same_JJ time_NN
+hi_UH can_MD i_FW help_VB you_PRP
+yes_RB i_FW would_MD like_VB to_TO buy_VB a_DT washing_VBG machine_NN
+okay_JJ which_WDT brand_NN would_MD you_PRP like_VB
+i_LS do_VBP not_RB care_VB so_RB much_JJ about_IN brands_NNS
+so_RB what_WP are_VBP you_PRP looking_VBG for_IN
+i_LS am_VBP looking_VBG for_IN good_JJ price_NN and_CC good_JJ functions_NNS
+okay_JJ function_NN and_CC price_NN are_VBP important_JJ to_TO you_PRP
+that_DT is_VBZ right_RB
+okay_JJ first_JJ may_MD i_FW ask_VB you_PRP what_WP size_NN washer_NN do_VBP you_PRP need_VB
+what_WP do_VBP you_PRP mean_VB by_IN what_WDT size_NN washer_NN
+well_RB like_IN a_DT small_JJ sizes_NNS is_VBZ four_CD kilos_NNS large_JJ size_NN is_VBZ eight_CD kilos_NNS
+do_VB you_PRP have_VBP a_DT medium_NN size_NN
+sure_JJ medium_NN size_NN is_VBZ six_CD kilos_NNS
+okay_JJ i_FW think_VBP i_FW want_VBP medium_NN size_NN
+alright_JJ and_CC do_VBP you_PRP want_VB a_DT one_CD bin_NN or_CC a_DT two_CD bin_NN washer_NN
+what_WP is_VBZ the_DT difference_NN between_IN one_CD bin_NN and_CC two_CD bin_NN
+well_RB with_IN the_DT two_CD bin_NN washer_NN you_PRP have_VBP to_TO move_VB the_DT clothes_NNS to_TO the_DT spinner_NN yourself_PRP
+and_CC the_DT one_CD bin_NN
+it_PRP does_VBZ it_PRP automatically_RB it_PRP is_VBZ a_DT two_CD in_IN one_CD spin_NN bin_NN
+i_FW understand_VBP which_WDT one_CD cleans_VBZ better_JJR
+they_PRP clean_VBP the_DT same_JJ
+really_RB and_CC do_VB the_DT washers_NNS cost_VBD the_DT same_JJ
+well_RB the_DT one_CD bin_NN washer_NN is_VBZ more_RBR expensive_JJ but_CC it_PRP is_VBZ simple_JJ to_TO use_VB
+simple_JJ is_VBZ important_JJ well_RB i_FW think_VBP i_FW would_MD like_VB the_DT one_CD bin_NN washer_NN
+you_PRP know_VBP if_IN you_PRP like_IN things_NNS simple_JJ and_CC easy_JJ may_MD i_FW suggest_VBP to_TO you_PRP the_DT fuzzy_JJ logic_NN function_NN
+what_WP is_VBZ the_DT fuzzy_JJ logic_NN
+fuzzy_JJ logic_NN is_VBZ a_DT special_JJ function_NN it_PRP makes_VBZ using_VBG the_DT washer_NN easier_JJR
+how_WRB does_VBZ the_DT function_NN work_NN
+well_RB you_PRP put_VBP in_IN your_PRP$ clothes_NNS you_PRP put_VBP in_IN the_DT soap_NN and_CC the_DT washer_NN does_VBZ the_DT rest_NN
+sounds_NNS perfect_JJ this_DT is_VBZ exactly_RB the_DT kind_NN of_IN washing_VBG machine_NN i_FW have_VBP been_VBN looking_VBG for_IN
+you_PRP sparrow_VBP aye_RB you_PRP are_VBP familiar_JJ with_IN that_DT ship_NN the_DT black_JJ pearl_NN i_FW ve_FW heard_VBN of_IN it_PRP where_WRB does_VBZ it_PRP make_VB berth_VBP where_WRB does_VBZ it_PRP make_VB berth_VBP
+have_VB you_PRP not_RB heard_VBD the_DT stories_NNS
+captain_NN barbossa_NN and_CC his_PRP$ crew_NN of_IN miscreants_NNS sail_VBP from_IN the_DT dreaded_JJ isla_NN of_IN de_FW muerta_FW
+well_RB if_IN you_PRP are_VBP intending_VBG to_TO brave_VB all_DT hasten_VBP to_TO her_PRP$ rescue_NN and_CC so_RB win_VB fair_JJ lady_NN s_NNS heart_NN
+you_PRP ll_VBP have_VBP to_TO do_VB it_PRP alone_RB mate_VBP
+i_LS see_VB no_DT profit_NN in_IN it_PRP for_IN me_PRP i_FW can_MD get_VB you_PRP out_IN of_IN there_EX how_WRB s_NNS that_IN the_DT key_JJ s_NNS run_VBP off_RP i_FW helped_VBD build_VB these_DT cells_NNS these_DT are_VBP half_JJ pin_NN barrel_NN hinges_VBZ with_IN the_DT right_JJ leverage_NN and_CC the_DT proper_JJ application_NN of_IN strength_NN the_DT door_NN will_MD lift_VB free_JJ
+what_WDT s_NNS your_PRP$ name_NN
+will_MD turner_VB
+that_WDT would_MD be_VB short_JJ for_IN william_NN i_FW imagine_VB good_JJ strong_JJ name_NN
+no_DT doubt_NN named_VBN for_IN your_PRP$ father_NN right_NN
+yes_RB
+alright_JJ i_FW am_VBP moving_VBG my_PRP$ infantry_NN division_NN
+augmented_VBN by_IN a_DT battalion_NN of_IN orcs_NNS from_IN lord_NN of_IN the_DT rings_NNS
+we_PRP flank_VBP the_DT tennessee_NN volunteers_NNS and_CC the_DT north_NN once_RB again_RB wins_VBZ the_DT battle_NN of_IN gettysburg_NN
+not_RB so_RB fast_JJ remember_VBP the_DT south_NN still_RB has_VBZ two_CD infantry_JJ divisions_NNS plus_CC superman_NN and_CC godzilla_NN
+no_DT no_DT no_DT no_DT orcs_NNS are_VBP magic_JJ superman_NN is_VBZ vulnerable_JJ to_TO magic_JJ not_RB to_TO mention_VB you_PRP already_RB lost_VBD godzilla_NN to_TO the_DT illinois_NN cavalry_NN and_CC hulk_NN
+why_WRB do_VBP not_RB you_PRP just_RB have_VBP robert_NN e_SYM lee_FW charge_VBP the_DT line_NN with_IN shiva_NN and_CC ganesh_NN
+hi_UH you_PRP guys_NNS ready_JJ to_TO order_NN
+hang_VB on_IN honey_NN
+shiva_NN and_CC ganesh_VBP the_DT hindu_NN gods_NNS against_IN the_DT entire_JJ union_NN army_NN
+and_CC orcs_NNS
+i_LS will_MD be_VB back_RB
+excuse_NN me_PRP ganesh_VBP is_VBZ the_DT remover_NN of_IN obstacles_NNS and_CC shiva_NN is_VBZ the_DT destroyer_NN
+when_WRB the_DT smoke_NN clears_VBZ abraham_NN lincoln_NN will_MD be_VB speaking_VBG hindi_NNS and_CC drinking_NN mint_NN juleps_NNS
+alright_VB my_PRP$ boss_NN says_VBZ you_PRP to_TO either_DT have_VBP to_TO order_VB or_CC leave_VB and_CC never_RB come_VBN back_RB
+what_WP do_VBP you_PRP recommend_VB for_IN someone_NN who_WP worked_VBD up_RP a_DT man_NN sized_VBN appetite_NN from_IN a_DT morning_NN of_IN weight_NN training_NN and_CC cardio_NN funk_NN
+a_DT shower_NN
+i_LS will_MD take_VB the_DT heart_NN smart_JJ platter_NN
+alright_JJ thank_VB you_PRP and_CC sheldon_NN
+we_PRP do_VBP not_RB eat_VB here_RB i_FW do_VBP not_RB know_VB what_WP s_NNS good_JJ
+well_RB it_PRP is_VBZ all_DT good_JJ
+statistically_RB unlikely_JJ
+just_RB get_VB a_DT hamburger_NN you_PRP like_VBP hamburgers_NNS
+i_LS like_IN the_DT hamburgers_NNS where_WRB we_PRP usually_RB have_VBP hamburgers_NNS you_PRP can_MD not_RB make_VB the_DT assumption_NN that_IN i_FW will_MD like_VB the_DT hamburgers_NNS here_RB
+i_LS am_VBP sorry_JJ
+give_VB him_PRP a_DT hamburger_NN
+<now>_NN which_WDT one_CD the_DT classic_JJ burger_NN the_DT ranch_NN house_NN burger_NN the_DT barbecue_NN burger_NN or_CC the_DT kobe_NN burger_NN
+can_MD not_RB we_PRP just_RB go_VBP to_TO big_JJ boy_NN
+they_PRP only_RB have_VBP one_CD burger_NN the_DT
+the_DT big_JJ boy_NN
+the_DT barbecue_NN burger_NN is_VBZ like_IN the_DT big_JJ boy_NN
+<now>_NN excuse_NN me_PRP in_IN a_DT world_NN that_WDT already_RB includes_VBZ a_DT big_JJ boy_NN why_WRB would_MD i_FW settle_VB for_IN something_NN like_IN a_DT big_JJ boy_NN
+because_IN you_PRP are_VBP not_RB at_IN big_JJ boy_NN
+fine_JJ i_FW will_MD have_VB the_DT barbecue_NN burger_NN
+make_VB it_PRP two_CD
+waitresses_NNS do_VBP not_RB yell_VB at_IN you_PRP at_IN big_JJ boy_NN
+hey_NN leonard_NN
+hi_UH guys_NNS
+<now>_NN hey_NN leslie_NN
+i_LS did_VBD not_RB know_VB you_PRP ate_VBD here_RB
+we_PRP do_VBP not_RB this_DT is_VBZ a_DT disturbing_JJ aberration_NN
+leslie_NN <now>_NN this_DT is_VBZ penny_NN she_PRP lives_VBZ across_IN the_DT hall_NN from_IN sheldon_NN and_CC me_PRP
+and_CC walks_VBZ in_IN quiet_JJ beauty_NN like_IN the_DT night_NN
+howard_NN i_FW have_VBP asked_VBN you_PRP not_RB to_TO do_VB that_DT
+leslie_NN and_CC i_FW do_VBP research_NN together_RB at_IN the_DT university_NN
+<now>_NN
+wow_VB a_DT girl_NN scientist_NN
+yep_RB come_VBN for_IN the_DT breasts_NNS stay_VBP for_IN the_DT brains_NNS
+so_RB i_FW am_VBP glad_JJ i_FW ran_VBD into_IN you_PRP the_DT physics_NN department_NN string_NN quartet_NN needs_VBZ a_DT new_JJ cellist_NN
+what_WP happened_VBD to_TO elliot_VB wong_NN
+he_PRP switched_VBD over_IN to_TO high_JJ energy_NN radiation_NN research_NN had_VBD a_DT little_JJ mishap_NN and_CC now_RB the_DT other_JJ guys_NNS are_VBP uncomfortable_JJ sitting_VBG next_JJ to_TO him_PRP
+so_RB are_VBP you_PRP in_IN
+yeah_JJ sure_JJ why_WRB not_RB
+great_JJ we_PRP rehearse_VBP on_IN tuesdays_NNS at_IN your_PRP$ place_NN
+why_WRB at_IN my_PRP$ place_NN
+yeah_JJ department_NN of_IN energy_NN said_VBD our_PRP$ regular_JJ space_NN is_VBZ kind_NN of_IN a_DT hot_JJ zone_NN
+nice_JJ meeting_NN you_PRP
+yeah_VB you_PRP too_RB
+leonard_NN
+i_LS did_VBD not_RB know_VB you_PRP played_VBD the_DT cello_NN
+yeah_VB my_PRP$ parents_NNS felt_VBD that_IN naming_VBG me_PRP leonard_NN and_CC putting_VBG me_PRP in_IN advanced_JJ placement_NN classes_NNS was_VBD not_RB getting_VBG me_PRP beaten_VBD up_RP enough_RB
+if_IN you_PRP are_VBP into_IN music_NN i_FW happen_VB to_TO be_VB a_DT human_JJ beat_NN box_NN
+really_RB
+i_LS am_VBP actually_RB not_RB that_DT into_IN music_NN
+so_RB hey_VB your_PRP$ friend_NN is_VBZ really_RB cute_JJ anything_NN going_VBG on_IN with_IN you_PRP two_CD
+leslie_NN
+no_DT no_DT what_WP are_VBP you_PRP kidding_VBG
+he_PRP asked_VBD her_PRP out_RP once_RB it_PRP was_VBD an_DT embarrassing_JJ failure_NN
+thank_VB you_PRP sheldon_VBP
+<now>_NN i_FW am_VBP sorry_JJ was_VBD that_IN supposed_VBN to_TO be_VB a_DT secret_NN
+<now>_NN that_WDT is_VBZ too_RB bad_JJ you_PRP guys_NNS would_MD make_VB a_DT cute_JJ couple_NN
+oh_UH dear_RB
+what_WP is_VBZ the_DT matter_NN
+she_PRP did_VBD not_RB take_VB my_PRP$ order_NN
+how_WRB can_MD she_PRP take_VB your_PRP$ order_NN when_WRB you_PRP are_VBP too_RB neurotic_JJ to_TO talk_VB to_TO her_PRP$
+nevertheless_RB
+this_DT will_MD be_VB reflected_VBN in_IN her_PRP$ tip_NN
+well_RB mr_NN turner_NN i_FW ve_FW changed_VBD my_PRP$ mind_NN if_IN you_PRP spring_VBP me_PRP from_IN this_DT cell_NN i_FW swear_VBP on_IN pain_NN of_IN death_NN i_FW shall_MD take_VB you_PRP to_TO the_DT black_JJ pearl_NN and_CC your_PRP$ bonny_FW lass_FW do_VBP we_PRP have_VBP an_DT accord_NN
+agreed_VBD agreed_VBN get_VB me_PRP out_RP
 hi_UH er_NN can_MD you_PRP help_VB me_PRP
 sure_RB what_WP s_VBZ the_DT problem_NN
 i_LS ve_FW got_VBD to_TO write_VB an_DT essay_NN on_IN electrical_JJ distribution_NN and_CC transmission_NN systems_NNS but_CC i_FW can_MD t_NN find_VB any_DT suitable_JJ books_NNS in_IN the_DT engineering_NN section_NN on_IN level_NN three_CD
