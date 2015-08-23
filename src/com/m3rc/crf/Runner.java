@@ -8,9 +8,13 @@ import java.io.IOException;
  */
 public class Runner {
 
+    final static int NUMBER_OF_CROSS_VALIDATIONS = 10;
+    final static int NUMBER_OF_ITERATIONS = 10;
+
+
     public static void main(String[] args) throws IOException, InterruptedException {
 
-        Process tokenization = new ProcessBuilder("/Applications/Praat.app/Contents/MacOS/Praat",
+        /*Process tokenization = new ProcessBuilder("/Applications/Praat.app/Contents/MacOS/Praat",
                 "Dataset/tokenizer.praat").inheritIO().start();
         System.out.println("Tokenizing...");
 
@@ -32,13 +36,14 @@ public class Runner {
         System.out.println("Postag merged");
 
         System.out.println("Training crf and performing cross-validation...");
-        Process crfTraining = new ProcessBuilder("crfsuite", "learn", "-g10",
-                "-x", "-p", "max_iterations=10", "features-pos.txt")
+        Process crfTraining = new ProcessBuilder("crfsuite", "learn", "-g" + NUMBER_OF_CROSS_VALIDATIONS,
+                "-x", "-p", "max_iterations=" + NUMBER_OF_ITERATIONS, "features-pos.txt")
                 .directory(new File("Dataset"))
                 .inheritIO().redirectOutput(new File("crf-out.txt")).start();
         crfTraining.waitFor();
-        System.out.println("Done! results in crf-out.txt");
+        System.out.println("Done! results in crf-out.txt");*/
 
+        AccuracyCalculator.writeAccuracyToFile(NUMBER_OF_CROSS_VALIDATIONS, NUMBER_OF_ITERATIONS);
     }
 
 }
