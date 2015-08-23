@@ -14,7 +14,7 @@ public class Runner {
 
     public static void main(String[] args) throws IOException, InterruptedException {
 
-        /*Process tokenization = new ProcessBuilder("/Applications/Praat.app/Contents/MacOS/Praat",
+        Process tokenization = new ProcessBuilder("/Applications/Praat.app/Contents/MacOS/Praat",
                 "Dataset/tokenizer.praat").inheritIO().start();
         System.out.println("Tokenizing...");
 
@@ -39,11 +39,12 @@ public class Runner {
         Process crfTraining = new ProcessBuilder("crfsuite", "learn", "-g" + NUMBER_OF_CROSS_VALIDATIONS,
                 "-x", "-p", "max_iterations=" + NUMBER_OF_ITERATIONS, "features-pos.txt")
                 .directory(new File("Dataset"))
-                .inheritIO().redirectOutput(new File("crf-out.txt")).start();
+                .inheritIO().redirectOutput(new File("Dataset/crf-out.txt")).start();
         crfTraining.waitFor();
-        System.out.println("Done! results in crf-out.txt");*/
 
+        System.out.println("Computing accuracy...");
         AccuracyCalculator.writeAccuracyToFile(NUMBER_OF_CROSS_VALIDATIONS, NUMBER_OF_ITERATIONS);
+        System.out.println("Done! results in accuracy.txt");
     }
 
 }

@@ -7,8 +7,6 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -18,7 +16,7 @@ import java.util.regex.Pattern;
  */
 public class AccuracyCalculator {
 
-    final static String CRF_OUTPUT = "crf-out.txt";
+    final static String CRF_OUTPUT = "Dataset/crf-out.txt";
     final static String ACCURACY_OUTPUT = "accuracy.txt";
     final static Charset ENCODING = StandardCharsets.UTF_8;
 
@@ -34,14 +32,16 @@ public class AccuracyCalculator {
             Pattern pattern = Pattern.compile("\\(([^)]+)\\)");
             accuracyOutputWriter.write("===== Cross validation (" + cross + "/" + numOfCross + ") =====");
             accuracyOutputWriter.newLine();
-            while (crfOutputScanner.hasNextLine() && cross != numOfCross) {
+            while (crfOutputScanner.hasNextLine() && cross <= numOfCross) {
                 String crfOutputLine = crfOutputScanner.nextLine();
                 if (iter == numOfIteration) {
                     cross++;
                     accuracyOutputWriter.write("Accuracy = " + accuracyMean);
                     accuracyOutputWriter.newLine();
-                    accuracyOutputWriter.write("===== Cross validation (" + cross + "/" + numOfCross + ") =====");
-                    accuracyOutputWriter.newLine();
+                    if (cross <= numOfCross) {
+                        accuracyOutputWriter.write("===== Cross validation (" + cross + "/" + numOfCross + ") =====");
+                        accuracyOutputWriter.newLine();
+                    }
                     accuracyMean = 0f;
                     iter = 1;
                 }
