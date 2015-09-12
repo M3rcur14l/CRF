@@ -23,37 +23,39 @@ public class AccuracyCalculator {
     public static void writeAccuracyToFile(int numOfCross, int numOfIteration) throws IOException {
         Path crfOutput = Paths.get(CRF_OUTPUT);
         Path accuracyOutput = Paths.get(ACCURACY_OUTPUT);
+        float accuracyMean = 0f;
 
         try (Scanner crfOutputScanner = new Scanner(crfOutput, ENCODING.name());
              BufferedWriter accuracyOutputWriter = Files.newBufferedWriter(accuracyOutput, ENCODING)) {
             int cross = 1;
             int iter = 1;
-            float accuracyMean = 0f;
+            float accuracy = 0f;
             Pattern pattern = Pattern.compile("\\(([^)]+)\\)");
             accuracyOutputWriter.write("===== Cross validation (" + cross + "/" + numOfCross + ") =====");
             accuracyOutputWriter.newLine();
             while (crfOutputScanner.hasNextLine() && cross <= numOfCross) {
                 String crfOutputLine = crfOutputScanner.nextLine();
                 if (iter == numOfIteration) {
-                    cross++;
-                    accuracyOutputWriter.write("Accuracy = " + accuracyMean);
+                    accuracyOutputWriter.write("Accuracy = " + accuracy);
                     accuracyOutputWriter.newLine();
+                    accuracyMean = accuracyMean + ((accuracy - accuracyMean) / cross);
+                    cross++;
                     if (cross <= numOfCross) {
                         accuracyOutputWriter.write("===== Cross validation (" + cross + "/" + numOfCross + ") =====");
                         accuracyOutputWriter.newLine();
                     }
-                    accuracyMean = 0f;
                     iter = 1;
                 }
                 if (crfOutputLine.contains("Item accuracy")) {
                     Matcher matcher = pattern.matcher(crfOutputLine);
                     if (matcher.find()) {
-                        float accuracy = Float.parseFloat(matcher.group(1));
-                        accuracyMean = accuracyMean + ((accuracy - accuracyMean) / iter);
+                        accuracy = Float.parseFloat(matcher.group(1));
                         iter++;
                     }
                 }
             }
+            accuracyOutputWriter.newLine();
+            accuracyOutputWriter.write("Average Accuracy = " + accuracyMean);
         }
     }
 }

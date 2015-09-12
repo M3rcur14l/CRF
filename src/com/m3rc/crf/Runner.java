@@ -9,10 +9,12 @@ import java.io.IOException;
 public class Runner {
 
     final static int NUMBER_OF_CROSS_VALIDATIONS = 10;
-    final static int NUMBER_OF_ITERATIONS = 10;
+    final static int NUMBER_OF_ITERATIONS = 200;
 
 
     public static void main(String[] args) throws IOException, InterruptedException {
+
+        /*
 
         Process tokenization = new ProcessBuilder("/Applications/Praat.app/Contents/MacOS/Praat",
                 "Dataset/tokenizer.praat").inheritIO().start();
@@ -34,6 +36,8 @@ public class Runner {
 
         PosMerger.mergePosTag();
         System.out.println("Postag merged");
+
+        */
 
         System.out.println("Training crf and performing cross-validation...");
         Process crfTraining = new ProcessBuilder("crfsuite", "learn", "-g" + NUMBER_OF_CROSS_VALIDATIONS,
