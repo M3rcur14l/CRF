@@ -8,13 +8,29 @@ import java.io.IOException;
  */
 public class Runner {
 
-    final static int NUMBER_OF_CROSS_VALIDATIONS = 10;
     final static int NUMBER_OF_ITERATIONS = 200;
-
+    static int NUMBER_OF_CROSS_VALIDATIONS = 5;
 
     public static void main(String[] args) throws IOException, InterruptedException {
 
-        /*
+        if (args.length > 0) {
+            if (args.length == 1) {
+                if (args[0].matches("[1-9]|10")) {
+                    NUMBER_OF_CROSS_VALIDATIONS = Integer.parseInt(args[0]);
+                } else if (args[0].equals("-h")) {
+                    System.out.println("Dialogue Tagger 2015 by Antonello Fodde\n\n" +
+                            "USAGE:[k]\n" +
+                            "k\tnumber k in the range [1-10] for the k-fold cross-validation\n");
+                    return;
+                } else {
+                    System.out.println("Bad input. See help (-h) for the usage.");
+                    return;
+                }
+            } else {
+                System.out.println("Bad input. See help (-h) for the usage.");
+                return;
+            }
+        }
 
         Process tokenization = new ProcessBuilder("/Applications/Praat.app/Contents/MacOS/Praat",
                 "Dataset/tokenizer.praat").inheritIO().start();
@@ -37,9 +53,7 @@ public class Runner {
         PosMerger.mergePosTag();
         System.out.println("Postag merged");
 
-        */
-
-        System.out.println("Training crf and performing cross-validation...");
+        System.out.println("Training crf and performing " + NUMBER_OF_CROSS_VALIDATIONS + "-fold cross-validation...");
         Process crfTraining = new ProcessBuilder("crfsuite", "learn", "-g" + NUMBER_OF_CROSS_VALIDATIONS,
                 "-x", "-p", "max_iterations=" + NUMBER_OF_ITERATIONS, "features-pos.txt")
                 .directory(new File("Dataset"))
