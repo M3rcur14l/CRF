@@ -1,20 +1,20 @@
 ===== Cross validation (1/10) =====
-Accuracy = 0.73285556
+Accuracy = 0.30427778
 ===== Cross validation (2/10) =====
-Accuracy = 0.7674
+Accuracy = 0.28247777
 ===== Cross validation (3/10) =====
-Accuracy = 0.7226777
+Accuracy = 0.26274443
 ===== Cross validation (4/10) =====
-Accuracy = 0.72672224
+Accuracy = 0.2412778
 ===== Cross validation (5/10) =====
-Accuracy = 0.66638887
+Accuracy = 0.22566669
 ===== Cross validation (6/10) =====
-Accuracy = 0.7864
+Accuracy = 0.2709
 ===== Cross validation (7/10) =====
-Accuracy = 0.76934445
+Accuracy = 0.30626664
 ===== Cross validation (8/10) =====
-Accuracy = 0.77592224
+Accuracy = 0.29345557
 ===== Cross validation (9/10) =====
-Accuracy = 0.7683111
+Accuracy = 0.19773333
 ===== Cross validation (10/10) =====
-Accuracy = 0.8094
+Accuracy = 0.32072225
