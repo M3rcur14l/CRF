@@ -20,7 +20,7 @@ public class AccuracyCalculator {
     final static String ACCURACY_OUTPUT = "accuracy.txt";
     final static Charset ENCODING = StandardCharsets.UTF_8;
 
-    public static void writeAccuracyToFile(int numOfCross, int numOfIteration) throws IOException {
+    public static String writeAccuracyToFile(int numOfCross, int numOfIteration) throws IOException {
         Path crfOutput = Paths.get(CRF_OUTPUT);
         Path accuracyOutput = Paths.get(ACCURACY_OUTPUT);
         float accuracyMean = 0f;
@@ -57,5 +57,13 @@ public class AccuracyCalculator {
             accuracyOutputWriter.newLine();
             accuracyOutputWriter.write("Average Accuracy = " + accuracyMean);
         }
+        return readFile(ACCURACY_OUTPUT, ENCODING);
+
+    }
+    static String readFile(String path, Charset encoding)
+            throws IOException
+    {
+        byte[] encoded = Files.readAllBytes(Paths.get(path));
+        return new String(encoded, encoding);
     }
 }
