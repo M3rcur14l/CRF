@@ -2,17 +2,13 @@ package com.m3rc.crf;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
-import javafx.event.Event;
 import javafx.event.EventHandler;
-import javafx.geometry.HPos;
 import javafx.geometry.Insets;
-import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.HBox;
-import javafx.scene.layout.StackPane;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontPosture;
 import javafx.stage.Stage;
@@ -142,13 +138,13 @@ public class Runner extends Application implements EventHandler<ActionEvent> {
         if (event.getSource().equals(startButton)) {
             String input = crossTextField.getText();
 
-            if (input.matches("[1-9]|10")) {
+            if (input.matches("[2-9]|10")) {
                 NUMBER_OF_CROSS_VALIDATIONS = Integer.parseInt(input);
             } else {
                 Alert alert = new Alert(Alert.AlertType.WARNING);
                 alert.setTitle("Error");
                 alert.setHeaderText("Input not valid");
-                alert.setContentText("Please insert a number between 1-10");
+                alert.setContentText("Please insert a number between 2-10");
                 alert.showAndWait();
                 return;
             }
