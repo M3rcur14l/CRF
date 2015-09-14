@@ -55,7 +55,7 @@ public class Runner extends Application implements EventHandler<ActionEvent> {
         BorderPane border = new BorderPane();
         Scene startScene = new Scene(border);
         border.setPadding(new Insets(10, 10, 10, 10));
-        Label titleLabel = new Label("Dialogue Act Classifier");
+        Label titleLabel = new Label("daCSF - Dialogue Act Classifier");
         titleLabel.setFont(Font.font("Verdana", 25));
         titleLabel.setPadding(new Insets(0, 0, 10, 0));
         border.setTop(titleLabel);
@@ -83,7 +83,7 @@ public class Runner extends Application implements EventHandler<ActionEvent> {
         initProcessScene();
         progressGrid.getChildren().add(tokenizationBox);
 
-        stage.setTitle("Dialogue Act Classifier v.01");
+        stage.setTitle("daCSF v.01");
         stage.setScene(startScene);
         stage.setResizable(false);
         stage.show();
