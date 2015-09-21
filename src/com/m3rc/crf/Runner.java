@@ -39,6 +39,7 @@ public class Runner extends Application implements EventHandler<ActionEvent> {
     private HBox crfTrainingBox;
     private ProgressIndicator accuracyInd;
     private HBox accuracyBox;
+    private String accuracy;
 
 
     public static void main(String[] args) throws IOException, InterruptedException {
@@ -81,8 +82,8 @@ public class Runner extends Application implements EventHandler<ActionEvent> {
         GridPane.setConstraints(startButton, 1, 0);
 
         initProcessScene();
-        progressGrid.getChildren().add(tokenizationBox);
-
+        progressGrid.getChildren().addAll(tokenizationBox, featuresGenerationBox, posTaggingBox,
+                crfTrainingBox, accuracyBox);
         stage.setTitle("daCSF v.01");
         stage.setScene(startScene);
         stage.setResizable(false);
@@ -148,26 +149,33 @@ public class Runner extends Application implements EventHandler<ActionEvent> {
                 alert.showAndWait();
                 return;
             }
+            stage.setScene(progressScene);
+            ProcessTask processTask = new ProcessTask();
+            processTask.execute();
+        }
+    }
+
+    private class ProcessTask extends AsyncTask {
+        @Override
+        public void onPreExecute() {
+
+        }
+
+        @Override
+        public void doInBackground() {
             try {
-                stage.setScene(progressScene);
-                Process tokenization = new ProcessBuilder("/Applications/Praat.app/Contents/MacOS/Praat",
+                Process tokenization = new ProcessBuilder("praat",
                         "Dataset/tokenizer.praat").inheritIO().start();
                 System.out.println("Tokenizing...");
                 tokenization.waitFor();
-                initProcessScene();
-                tokenizationInd.setProgress(1.0f);
-                progressGrid.getChildren().addAll(tokenizationBox, featuresGenerationBox);
-                stage.setScene(progressScene);
-
-                Process featuresGeneration = new ProcessBuilder("/Applications/Praat.app/Contents/MacOS/Praat",
+                publishProgress("tokenizing");
+                /*
+                Process featuresGeneration = new ProcessBuilder("praat",
                         "Dataset/features_generator.praat").inheritIO().start();
                 System.out.println("Generating features...");
                 featuresGeneration.waitFor();
-                initProcessScene();
-                tokenizationInd.setProgress(1.0f);
-                featuresGenerationInd.setProgress(1.0f);
-                progressGrid.getChildren().addAll(tokenizationBox, featuresGenerationBox, posTaggingBox);
-                stage.setScene(progressScene);
+                */
+                publishProgress("featuresGeneration");
 
                 Process posTagging = new ProcessBuilder("java", "-mx300m", "-classpath",
                         "stanford-postagger.jar", "edu.stanford.nlp.tagger.maxent.MaxentTagger",
@@ -177,56 +185,62 @@ public class Runner extends Application implements EventHandler<ActionEvent> {
                         .inheritIO().redirectOutput(new File("Dataset/tokens-tagged.txt")).start();
                 System.out.println("Generating postag...");
                 posTagging.waitFor();
-
                 PosMerger.mergePosTag();
                 System.out.println("Postag merged");
-                initProcessScene();
-                tokenizationInd.setProgress(1.0f);
-                featuresGenerationInd.setProgress(1.0f);
-                posTaggingInd.setProgress(1.0f);
-                progressGrid.getChildren().addAll(tokenizationBox, featuresGenerationBox, posTaggingBox,
-                        crfTrainingBox);
-                stage.setScene(progressScene);
+                publishProgress("posTagging");
 
-                System.out.println("Training crf and performing " + NUMBER_OF_CROSS_VALIDATIONS + "-fold cross-validation...");
                 Process crfTraining = new ProcessBuilder("crfsuite", "learn", "-g" + NUMBER_OF_CROSS_VALIDATIONS,
                         "-x", "-p", "max_iterations=" + NUMBER_OF_ITERATIONS, "features-pos.txt")
                         .directory(new File("Dataset"))
                         .inheritIO().redirectOutput(new File("Dataset/crf-out.txt")).start();
+                System.out.println("Training crf and performing " + NUMBER_OF_CROSS_VALIDATIONS + "-fold cross-validation...");
                 crfTraining.waitFor();
-                initProcessScene();
-                tokenizationInd.setProgress(1.0f);
-                featuresGenerationInd.setProgress(1.0f);
-                posTaggingInd.setProgress(1.0f);
-                crfTrainingInd.setProgress(1.0f);
-                progressGrid.getChildren().addAll(tokenizationBox, featuresGenerationBox, posTaggingBox,
-                        crfTrainingBox, accuracyBox);
-                stage.setScene(progressScene);
+                publishProgress("crfTraining");
 
                 System.out.println("Computing accuracy...");
-                String accuracy = AccuracyCalculator.writeAccuracyToFile(NUMBER_OF_CROSS_VALIDATIONS,
+                accuracy = AccuracyCalculator.writeAccuracyToFile(NUMBER_OF_CROSS_VALIDATIONS,
                         NUMBER_OF_ITERATIONS);
                 System.out.println("Done! results in accuracy.txt");
-                initProcessScene();
-                tokenizationInd.setProgress(1.0f);
-                featuresGenerationInd.setProgress(1.0f);
-                posTaggingInd.setProgress(1.0f);
-                crfTrainingInd.setProgress(1.0f);
-                accuracyInd.setProgress(1.0f);
-                progressGrid.getChildren().addAll(tokenizationBox, featuresGenerationBox, posTaggingBox,
-                        crfTrainingBox, accuracyBox);
-                stage.setScene(progressScene);
-                Alert alert = new Alert(Alert.AlertType.INFORMATION);
-                alert.setTitle("Results");
-                alert.setHeaderText("Computed accuracy:");
-                alert.setContentText(accuracy);
-                alert.showAndWait();
+                publishProgress("accuracy");
 
-            } catch (Exception e) {
+
+            } catch (InterruptedException | IOException e) {
                 e.printStackTrace();
+            }
+
+        }
+
+        @Override
+        public void onPostExecute() {
+            Alert alert = new Alert(Alert.AlertType.INFORMATION);
+            alert.setTitle("Results");
+            alert.setHeaderText("Computed accuracy:");
+            alert.setContentText(accuracy);
+            alert.showAndWait();
+        }
+
+        @Override
+        public void progressCallback(Object... params) {
+            String process = (String) params[0];
+            switch (process) {
+                case "tokenizing":
+                    tokenizationInd.setProgress(1.0f);
+                    break;
+                case "featuresGeneration":
+                    featuresGenerationInd.setProgress(1.0f);
+                    break;
+                case "posTagging":
+                    posTaggingInd.setProgress(1.0f);
+                    break;
+                case "crfTraining":
+                    crfTrainingInd.setProgress(1.0f);
+                    break;
+                case "accuracy":
+                    accuracyInd.setProgress(1.0f);
+                    break;
+
             }
         }
     }
-
 }
 
